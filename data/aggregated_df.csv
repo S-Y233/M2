@@ -1,0 +1,1943 @@
+,year,Province,Indicator,tourism type,month,tourist_number,mean_value
+0,2021,Al Bahah,Overnight Visitors,domestics_tourism,1,1,58295.0
+1,2021,Al Bahah,Overnight Visitors,domestics_tourism,2,1,34469.0
+2,2021,Al Bahah,Overnight Visitors,domestics_tourism,3,1,64736.0
+3,2021,Al Bahah,Overnight Visitors,domestics_tourism,4,1,55486.0
+4,2021,Al Bahah,Overnight Visitors,domestics_tourism,5,1,158744.0
+5,2021,Al Bahah,Overnight Visitors,domestics_tourism,6,1,95902.0
+6,2021,Al Bahah,Overnight Visitors,domestics_tourism,7,1,261898.0
+7,2021,Al Bahah,Overnight Visitors,domestics_tourism,8,1,139665.0
+8,2021,Al Bahah,Overnight Visitors,domestics_tourism,9,1,56620.0
+9,2021,Al Bahah,Overnight Visitors,domestics_tourism,10,1,68976.0
+10,2021,Al Bahah,Overnight Visitors,domestics_tourism,11,1,72000.0
+11,2021,Al Bahah,Overnight Visitors,domestics_tourism,12,1,33474.0
+12,2021,Al Bahah,SAR,domestics_tourism,1,1,75157578.99
+13,2021,Al Bahah,SAR,domestics_tourism,2,1,40889284.55
+14,2021,Al Bahah,SAR,domestics_tourism,3,1,89759209.56
+15,2021,Al Bahah,SAR,domestics_tourism,4,1,58453265.0
+16,2021,Al Bahah,SAR,domestics_tourism,5,1,208515699.42
+17,2021,Al Bahah,SAR,domestics_tourism,6,1,128893854.82
+18,2021,Al Bahah,SAR,domestics_tourism,7,1,387767473.2
+19,2021,Al Bahah,SAR,domestics_tourism,8,1,187698315.62
+20,2021,Al Bahah,SAR,domestics_tourism,9,1,54266418.0
+21,2021,Al Bahah,SAR,domestics_tourism,10,1,72448934.08
+22,2021,Al Bahah,SAR,domestics_tourism,11,1,72044390.18
+23,2021,Al Bahah,SAR,domestics_tourism,12,1,35285401.35
+24,2021,AlQassim,Overnight Visitors,domestics_tourism,1,1,324087.0
+25,2021,AlQassim,Overnight Visitors,domestics_tourism,2,1,262738.0
+26,2021,AlQassim,Overnight Visitors,domestics_tourism,3,1,266316.0
+27,2021,AlQassim,Overnight Visitors,domestics_tourism,4,1,276424.0
+28,2021,AlQassim,Overnight Visitors,domestics_tourism,5,1,433533.0
+29,2021,AlQassim,Overnight Visitors,domestics_tourism,6,1,241182.0
+30,2021,AlQassim,Overnight Visitors,domestics_tourism,7,1,448717.0
+31,2021,AlQassim,Overnight Visitors,domestics_tourism,8,1,287146.0
+32,2021,AlQassim,Overnight Visitors,domestics_tourism,9,1,286350.0
+33,2021,AlQassim,Overnight Visitors,domestics_tourism,10,1,280028.0
+34,2021,AlQassim,Overnight Visitors,domestics_tourism,11,1,428167.0
+35,2021,AlQassim,Overnight Visitors,domestics_tourism,12,1,233187.0
+36,2021,AlQassim,SAR,domestics_tourism,1,1,329434917.29
+37,2021,AlQassim,SAR,domestics_tourism,2,1,249390131.79
+38,2021,AlQassim,SAR,domestics_tourism,3,1,235674680.71
+39,2021,AlQassim,SAR,domestics_tourism,4,1,278059083.9
+40,2021,AlQassim,SAR,domestics_tourism,5,1,509212357.01
+41,2021,AlQassim,SAR,domestics_tourism,6,1,254932378.37
+42,2021,AlQassim,SAR,domestics_tourism,7,1,533813219.12
+43,2021,AlQassim,SAR,domestics_tourism,8,1,340903072.14
+44,2021,AlQassim,SAR,domestics_tourism,9,1,283666243.79
+45,2021,AlQassim,SAR,domestics_tourism,10,1,219156493.55
+46,2021,AlQassim,SAR,domestics_tourism,11,1,427642996.12
+47,2021,AlQassim,SAR,domestics_tourism,12,1,215355649.85
+48,2021,AlQassim Province,Overnight Visitors,inbound_tourism,1,1,301.0
+49,2021,AlQassim Province,Overnight Visitors,inbound_tourism,2,1,1148.0
+50,2021,AlQassim Province,Overnight Visitors,inbound_tourism,3,1,21503.0
+51,2021,AlQassim Province,Overnight Visitors,inbound_tourism,4,4,283.5
+52,2021,AlQassim Province,Overnight Visitors,inbound_tourism,5,4,457.75
+53,2021,AlQassim Province,Overnight Visitors,inbound_tourism,6,4,177.5
+54,2021,AlQassim Province,Overnight Visitors,inbound_tourism,7,4,544.5
+55,2021,AlQassim Province,Overnight Visitors,inbound_tourism,8,4,695.5
+56,2021,AlQassim Province,Overnight Visitors,inbound_tourism,9,3,792.3333333333334
+57,2021,AlQassim Province,Overnight Visitors,inbound_tourism,10,3,1830.3333333333333
+58,2021,AlQassim Province,Overnight Visitors,inbound_tourism,11,4,2719.0
+59,2021,AlQassim Province,Overnight Visitors,inbound_tourism,12,4,1439.75
+60,2021,AlQassim Province,SAR,inbound_tourism,1,1,628522.1
+61,2021,AlQassim Province,SAR,inbound_tourism,2,1,5003585.02
+62,2021,AlQassim Province,SAR,inbound_tourism,3,1,80286635.1
+63,2021,AlQassim Province,SAR,inbound_tourism,4,4,890664.6275000001
+64,2021,AlQassim Province,SAR,inbound_tourism,5,4,1336871.6
+65,2021,AlQassim Province,SAR,inbound_tourism,6,4,420608.42
+66,2021,AlQassim Province,SAR,inbound_tourism,7,4,1238053.955
+67,2021,AlQassim Province,SAR,inbound_tourism,8,4,1908892.53
+68,2021,AlQassim Province,SAR,inbound_tourism,9,3,1885970.18
+69,2021,AlQassim Province,SAR,inbound_tourism,10,3,4865547.420000001
+70,2021,AlQassim Province,SAR,inbound_tourism,11,4,22834887.345
+71,2021,AlQassim Province,SAR,inbound_tourism,12,4,4467081.265
+72,2021,Albaha province,Overnight Visitors,inbound_tourism,1,1,53.0
+73,2021,Albaha province,Overnight Visitors,inbound_tourism,2,1,27.0
+74,2021,Albaha province,Overnight Visitors,inbound_tourism,3,1,31.0
+75,2021,Albaha province,Overnight Visitors,inbound_tourism,4,1,48.0
+76,2021,Albaha province,Overnight Visitors,inbound_tourism,5,1,20.0
+77,2021,Albaha province,Overnight Visitors,inbound_tourism,6,1,139.0
+78,2021,Albaha province,Overnight Visitors,inbound_tourism,7,1,107.0
+79,2021,Albaha province,Overnight Visitors,inbound_tourism,8,1,19.0
+80,2021,Albaha province,Overnight Visitors,inbound_tourism,9,1,26.0
+81,2021,Albaha province,Overnight Visitors,inbound_tourism,10,1,78.0
+82,2021,Albaha province,Overnight Visitors,inbound_tourism,11,1,93.0
+83,2021,Albaha province,Overnight Visitors,inbound_tourism,12,1,53.0
+84,2021,Albaha province,SAR,inbound_tourism,1,1,22551.98
+85,2021,Albaha province,SAR,inbound_tourism,2,1,114541.23
+86,2021,Albaha province,SAR,inbound_tourism,3,1,38707.33
+87,2021,Albaha province,SAR,inbound_tourism,4,1,33072.33
+88,2021,Albaha province,SAR,inbound_tourism,5,1,126752.2
+89,2021,Albaha province,SAR,inbound_tourism,6,1,34639.54
+90,2021,Albaha province,SAR,inbound_tourism,7,1,26791.2
+91,2021,Albaha province,SAR,inbound_tourism,8,1,95415.37
+92,2021,Albaha province,SAR,inbound_tourism,9,1,600213.17
+93,2021,Albaha province,SAR,inbound_tourism,10,1,1753381.74
+94,2021,Albaha province,SAR,inbound_tourism,11,1,93306.32
+95,2021,Albaha province,SAR,inbound_tourism,12,1,124617.58
+96,2021,Aseer,Overnight Visitors,domestics_tourism,1,1,491541.0
+97,2021,Aseer,Overnight Visitors,domestics_tourism,2,1,382596.0
+98,2021,Aseer,Overnight Visitors,domestics_tourism,3,1,314178.0
+99,2021,Aseer,Overnight Visitors,domestics_tourism,4,1,391049.0
+100,2021,Aseer,Overnight Visitors,domestics_tourism,5,1,593132.0
+101,2021,Aseer,Overnight Visitors,domestics_tourism,6,1,473945.0
+102,2021,Aseer,Overnight Visitors,domestics_tourism,7,1,1026884.0
+103,2021,Aseer,Overnight Visitors,domestics_tourism,8,1,614477.0
+104,2021,Aseer,Overnight Visitors,domestics_tourism,9,1,309502.0
+105,2021,Aseer,Overnight Visitors,domestics_tourism,10,1,363064.0
+106,2021,Aseer,Overnight Visitors,domestics_tourism,11,1,540670.0
+107,2021,Aseer,Overnight Visitors,domestics_tourism,12,1,383358.0
+108,2021,Aseer,SAR,domestics_tourism,1,1,612299888.69
+109,2021,Aseer,SAR,domestics_tourism,2,1,444756392.35
+110,2021,Aseer,SAR,domestics_tourism,3,1,434826807.65
+111,2021,Aseer,SAR,domestics_tourism,4,1,497944048.19
+112,2021,Aseer,SAR,domestics_tourism,5,1,1051940457.25
+113,2021,Aseer,SAR,domestics_tourism,6,1,906488719.52
+114,2021,Aseer,SAR,domestics_tourism,7,1,2163741887.94
+115,2021,Aseer,SAR,domestics_tourism,8,1,1076787743.68
+116,2021,Aseer,SAR,domestics_tourism,9,1,395687999.5
+117,2021,Aseer,SAR,domestics_tourism,10,1,379636960.17
+118,2021,Aseer,SAR,domestics_tourism,11,1,579206073.93
+119,2021,Aseer,SAR,domestics_tourism,12,1,330629269.14
+120,2021,Aseer Province,Overnight Visitors,inbound_tourism,1,2,669.5
+121,2021,Aseer Province,Overnight Visitors,inbound_tourism,2,2,1147.5
+122,2021,Aseer Province,Overnight Visitors,inbound_tourism,3,1,624.0
+123,2021,Aseer Province,Overnight Visitors,inbound_tourism,4,2,291.0
+124,2021,Aseer Province,Overnight Visitors,inbound_tourism,5,3,79.66666666666667
+125,2021,Aseer Province,Overnight Visitors,inbound_tourism,6,3,15.0
+126,2021,Aseer Province,Overnight Visitors,inbound_tourism,7,1,107.0
+127,2021,Aseer Province,Overnight Visitors,inbound_tourism,8,2,359.5
+128,2021,Aseer Province,Overnight Visitors,inbound_tourism,9,2,67.0
+129,2021,Aseer Province,Overnight Visitors,inbound_tourism,10,3,554.3333333333334
+130,2021,Aseer Province,Overnight Visitors,inbound_tourism,11,3,1362.3333333333333
+131,2021,Aseer Province,Overnight Visitors,inbound_tourism,12,3,2823.0
+132,2021,Aseer Province,SAR,inbound_tourism,1,2,1289491.595
+133,2021,Aseer Province,SAR,inbound_tourism,2,2,2286127.15
+134,2021,Aseer Province,SAR,inbound_tourism,3,1,1586424.51
+135,2021,Aseer Province,SAR,inbound_tourism,4,2,3181657.1399999997
+136,2021,Aseer Province,SAR,inbound_tourism,5,3,95605.03000000001
+137,2021,Aseer Province,SAR,inbound_tourism,6,3,23429.306666666667
+138,2021,Aseer Province,SAR,inbound_tourism,7,1,128597.77
+139,2021,Aseer Province,SAR,inbound_tourism,8,2,2010260.5250000001
+140,2021,Aseer Province,SAR,inbound_tourism,9,2,115961.56
+141,2021,Aseer Province,SAR,inbound_tourism,10,3,1347634.5233333332
+142,2021,Aseer Province,SAR,inbound_tourism,11,3,11397262.546666667
+143,2021,Aseer Province,SAR,inbound_tourism,12,3,15791841.586666666
+144,2021,Eastern Province,Overnight Visitors,domestics_tourism,1,1,922493.0
+145,2021,Eastern Province,Overnight Visitors,domestics_tourism,2,1,745978.0
+146,2021,Eastern Province,Overnight Visitors,domestics_tourism,3,1,780669.0
+147,2021,Eastern Province,Overnight Visitors,domestics_tourism,4,1,714622.0
+148,2021,Eastern Province,Overnight Visitors,domestics_tourism,5,1,904806.0
+149,2021,Eastern Province,Overnight Visitors,domestics_tourism,6,1,598067.0
+150,2021,Eastern Province,Overnight Visitors,domestics_tourism,7,1,871073.0
+151,2021,Eastern Province,Overnight Visitors,domestics_tourism,8,1,710812.0
+152,2021,Eastern Province,Overnight Visitors,domestics_tourism,9,1,606267.0
+153,2021,Eastern Province,Overnight Visitors,domestics_tourism,10,1,796055.0
+154,2021,Eastern Province,Overnight Visitors,domestics_tourism,11,1,913056.0
+155,2021,Eastern Province,Overnight Visitors,domestics_tourism,12,1,709001.0
+156,2021,Eastern Province,Overnight Visitors,inbound_tourism,1,4,22382.5
+157,2021,Eastern Province,Overnight Visitors,inbound_tourism,2,4,11842.25
+158,2021,Eastern Province,Overnight Visitors,inbound_tourism,3,4,10825.0
+159,2021,Eastern Province,Overnight Visitors,inbound_tourism,4,4,12398.0
+160,2021,Eastern Province,Overnight Visitors,inbound_tourism,5,4,16918.25
+161,2021,Eastern Province,Overnight Visitors,inbound_tourism,6,4,14546.0
+162,2021,Eastern Province,Overnight Visitors,inbound_tourism,7,4,17948.75
+163,2021,Eastern Province,Overnight Visitors,inbound_tourism,8,4,25451.25
+164,2021,Eastern Province,Overnight Visitors,inbound_tourism,9,4,32352.5
+165,2021,Eastern Province,Overnight Visitors,inbound_tourism,10,4,42947.75
+166,2021,Eastern Province,Overnight Visitors,inbound_tourism,11,4,37105.0
+167,2021,Eastern Province,Overnight Visitors,inbound_tourism,12,4,52189.75
+168,2021,Eastern Province,SAR,domestics_tourism,1,1,1454036673.15
+169,2021,Eastern Province,SAR,domestics_tourism,2,1,1240385349.89
+170,2021,Eastern Province,SAR,domestics_tourism,3,1,1300083605.87
+171,2021,Eastern Province,SAR,domestics_tourism,4,1,1150978575.99
+172,2021,Eastern Province,SAR,domestics_tourism,5,1,1634264237.54
+173,2021,Eastern Province,SAR,domestics_tourism,6,1,1131424123.91
+174,2021,Eastern Province,SAR,domestics_tourism,7,1,1703996507.83
+175,2021,Eastern Province,SAR,domestics_tourism,8,1,1177513215.46
+176,2021,Eastern Province,SAR,domestics_tourism,9,1,747608920.02
+177,2021,Eastern Province,SAR,domestics_tourism,10,1,948468625.12
+178,2021,Eastern Province,SAR,domestics_tourism,11,1,1138144705.14
+179,2021,Eastern Province,SAR,domestics_tourism,12,1,1012174615.43
+180,2021,Eastern Province,SAR,inbound_tourism,1,4,52705407.910000004
+181,2021,Eastern Province,SAR,inbound_tourism,2,4,31280132.39
+182,2021,Eastern Province,SAR,inbound_tourism,3,4,27065226.16
+183,2021,Eastern Province,SAR,inbound_tourism,4,4,43765314.8275
+184,2021,Eastern Province,SAR,inbound_tourism,5,4,50130930.3025
+185,2021,Eastern Province,SAR,inbound_tourism,6,4,55110890.732499994
+186,2021,Eastern Province,SAR,inbound_tourism,7,4,58318348.6225
+187,2021,Eastern Province,SAR,inbound_tourism,8,4,70392393.795
+188,2021,Eastern Province,SAR,inbound_tourism,9,4,56318471.214999996
+189,2021,Eastern Province,SAR,inbound_tourism,10,4,92055250.9325
+190,2021,Eastern Province,SAR,inbound_tourism,11,4,81149111.5475
+191,2021,Eastern Province,SAR,inbound_tourism,12,4,108130145.18
+192,2021,Hail,Overnight Visitors,domestics_tourism,1,1,177308.0
+193,2021,Hail,Overnight Visitors,domestics_tourism,2,1,116427.0
+194,2021,Hail,Overnight Visitors,domestics_tourism,3,1,119169.0
+195,2021,Hail,Overnight Visitors,domestics_tourism,4,1,103228.0
+196,2021,Hail,Overnight Visitors,domestics_tourism,5,1,200512.0
+197,2021,Hail,Overnight Visitors,domestics_tourism,6,1,112058.0
+198,2021,Hail,Overnight Visitors,domestics_tourism,7,1,246875.0
+199,2021,Hail,Overnight Visitors,domestics_tourism,8,1,124346.0
+200,2021,Hail,Overnight Visitors,domestics_tourism,9,1,128020.0
+201,2021,Hail,Overnight Visitors,domestics_tourism,10,1,159911.0
+202,2021,Hail,Overnight Visitors,domestics_tourism,11,1,232422.0
+203,2021,Hail,Overnight Visitors,domestics_tourism,12,1,129366.0
+204,2021,Hail,SAR,domestics_tourism,1,1,236169291.74
+205,2021,Hail,SAR,domestics_tourism,2,1,167936594.73
+206,2021,Hail,SAR,domestics_tourism,3,1,151748474.01
+207,2021,Hail,SAR,domestics_tourism,4,1,150694084.82
+208,2021,Hail,SAR,domestics_tourism,5,1,285531337.34
+209,2021,Hail,SAR,domestics_tourism,6,1,164885268.23
+210,2021,Hail,SAR,domestics_tourism,7,1,441529209.65
+211,2021,Hail,SAR,domestics_tourism,8,1,205514019.03
+212,2021,Hail,SAR,domestics_tourism,9,1,155808748.32
+213,2021,Hail,SAR,domestics_tourism,10,1,236874868.88
+214,2021,Hail,SAR,domestics_tourism,11,1,314176520.42
+215,2021,Hail,SAR,domestics_tourism,12,1,156934242.77
+216,2021,Hail Province,Overnight Visitors,inbound_tourism,1,1,156.0
+217,2021,Hail Province,Overnight Visitors,inbound_tourism,2,1,2898.0
+218,2021,Hail Province,Overnight Visitors,inbound_tourism,3,1,1013.0
+219,2021,Hail Province,Overnight Visitors,inbound_tourism,4,1,48.0
+220,2021,Hail Province,Overnight Visitors,inbound_tourism,5,1,276.0
+221,2021,Hail Province,Overnight Visitors,inbound_tourism,6,1,279.0
+222,2021,Hail Province,Overnight Visitors,inbound_tourism,7,1,275.0
+223,2021,Hail Province,Overnight Visitors,inbound_tourism,8,1,1035.0
+224,2021,Hail Province,Overnight Visitors,inbound_tourism,9,1,490.0
+225,2021,Hail Province,Overnight Visitors,inbound_tourism,10,1,29766.0
+226,2021,Hail Province,Overnight Visitors,inbound_tourism,11,1,16837.0
+227,2021,Hail Province,Overnight Visitors,inbound_tourism,12,1,37399.0
+228,2021,Hail Province,SAR,inbound_tourism,1,1,361931.1
+229,2021,Hail Province,SAR,inbound_tourism,2,1,15924612.02
+230,2021,Hail Province,SAR,inbound_tourism,3,1,4497216.63
+231,2021,Hail Province,SAR,inbound_tourism,4,1,100480.8
+232,2021,Hail Province,SAR,inbound_tourism,5,1,1773864.23
+233,2021,Hail Province,SAR,inbound_tourism,6,1,531791.16
+234,2021,Hail Province,SAR,inbound_tourism,7,1,1258070.49
+235,2021,Hail Province,SAR,inbound_tourism,8,1,3493614.49
+236,2021,Hail Province,SAR,inbound_tourism,9,1,1509679.02
+237,2021,Hail Province,SAR,inbound_tourism,10,1,123578501.12
+238,2021,Hail Province,SAR,inbound_tourism,11,1,80661847.14
+239,2021,Hail Province,SAR,inbound_tourism,12,1,121557993.81
+240,2021,Jazan,Overnight Visitors,domestics_tourism,1,1,297021.0
+241,2021,Jazan,Overnight Visitors,domestics_tourism,2,1,208592.0
+242,2021,Jazan,Overnight Visitors,domestics_tourism,3,1,173450.0
+243,2021,Jazan,Overnight Visitors,domestics_tourism,4,1,127996.0
+244,2021,Jazan,Overnight Visitors,domestics_tourism,5,1,310647.0
+245,2021,Jazan,Overnight Visitors,domestics_tourism,6,1,167231.0
+246,2021,Jazan,Overnight Visitors,domestics_tourism,7,1,264803.0
+247,2021,Jazan,Overnight Visitors,domestics_tourism,8,1,201034.0
+248,2021,Jazan,Overnight Visitors,domestics_tourism,9,1,185306.0
+249,2021,Jazan,Overnight Visitors,domestics_tourism,10,1,220290.0
+250,2021,Jazan,Overnight Visitors,domestics_tourism,11,1,278839.0
+251,2021,Jazan,Overnight Visitors,domestics_tourism,12,1,227256.0
+252,2021,Jazan,SAR,domestics_tourism,1,1,311532939.18
+253,2021,Jazan,SAR,domestics_tourism,2,1,201216460.26
+254,2021,Jazan,SAR,domestics_tourism,3,1,238179370.96
+255,2021,Jazan,SAR,domestics_tourism,4,1,115673926.66
+256,2021,Jazan,SAR,domestics_tourism,5,1,449426257.04
+257,2021,Jazan,SAR,domestics_tourism,6,1,231109621.26
+258,2021,Jazan,SAR,domestics_tourism,7,1,369047492.34
+259,2021,Jazan,SAR,domestics_tourism,8,1,272632383.19
+260,2021,Jazan,SAR,domestics_tourism,9,1,234280785.37
+261,2021,Jazan,SAR,domestics_tourism,10,1,193868353.36
+262,2021,Jazan,SAR,domestics_tourism,11,1,251300626.95
+263,2021,Jazan,SAR,domestics_tourism,12,1,213669364.26
+264,2021,Jazan Province,Overnight Visitors,inbound_tourism,1,2,374.0
+265,2021,Jazan Province,Overnight Visitors,inbound_tourism,2,1,16.0
+266,2021,Jazan Province,Overnight Visitors,inbound_tourism,3,2,1018.0
+267,2021,Jazan Province,Overnight Visitors,inbound_tourism,4,2,696.5
+268,2021,Jazan Province,Overnight Visitors,inbound_tourism,5,1,95.0
+269,2021,Jazan Province,Overnight Visitors,inbound_tourism,6,1,104.0
+270,2021,Jazan Province,Overnight Visitors,inbound_tourism,7,1,80.0
+271,2021,Jazan Province,Overnight Visitors,inbound_tourism,8,1,2.0
+272,2021,Jazan Province,Overnight Visitors,inbound_tourism,9,1,3.0
+273,2021,Jazan Province,Overnight Visitors,inbound_tourism,10,1,41.0
+274,2021,Jazan Province,Overnight Visitors,inbound_tourism,11,1,14.0
+275,2021,Jazan Province,Overnight Visitors,inbound_tourism,12,1,143.0
+276,2021,Jazan Province,SAR,inbound_tourism,1,2,6884801.890000001
+277,2021,Jazan Province,SAR,inbound_tourism,2,1,65745.3
+278,2021,Jazan Province,SAR,inbound_tourism,3,2,4192859.085
+279,2021,Jazan Province,SAR,inbound_tourism,4,2,3668791.0949999997
+280,2021,Jazan Province,SAR,inbound_tourism,5,1,88730.32
+281,2021,Jazan Province,SAR,inbound_tourism,6,1,96990.72
+282,2021,Jazan Province,SAR,inbound_tourism,7,1,75015.36
+283,2021,Jazan Province,SAR,inbound_tourism,8,1,4389.56
+284,2021,Jazan Province,SAR,inbound_tourism,9,1,7585.05
+285,2021,Jazan Province,SAR,inbound_tourism,10,1,88095.51
+286,2021,Jazan Province,SAR,inbound_tourism,11,1,36822.88
+287,2021,Jazan Province,SAR,inbound_tourism,12,1,366348.98
+288,2021,Jouf,Overnight Visitors,domestics_tourism,1,1,74102.0
+289,2021,Jouf,Overnight Visitors,domestics_tourism,2,1,61338.0
+290,2021,Jouf,Overnight Visitors,domestics_tourism,3,1,54716.0
+291,2021,Jouf,Overnight Visitors,domestics_tourism,4,1,62742.0
+292,2021,Jouf,Overnight Visitors,domestics_tourism,5,1,89546.0
+293,2021,Jouf,Overnight Visitors,domestics_tourism,6,1,47694.0
+294,2021,Jouf,Overnight Visitors,domestics_tourism,7,1,99842.0
+295,2021,Jouf,Overnight Visitors,domestics_tourism,8,1,65821.0
+296,2021,Jouf,Overnight Visitors,domestics_tourism,9,1,54556.0
+297,2021,Jouf,Overnight Visitors,domestics_tourism,10,1,80191.0
+298,2021,Jouf,Overnight Visitors,domestics_tourism,11,1,102492.0
+299,2021,Jouf,Overnight Visitors,domestics_tourism,12,1,55171.0
+300,2021,Jouf,SAR,domestics_tourism,1,1,136472639.62
+301,2021,Jouf,SAR,domestics_tourism,2,1,107897398.13
+302,2021,Jouf,SAR,domestics_tourism,3,1,100469590.26
+303,2021,Jouf,SAR,domestics_tourism,4,1,116544028.44
+304,2021,Jouf,SAR,domestics_tourism,5,1,169317500.31
+305,2021,Jouf,SAR,domestics_tourism,6,1,78641681.16
+306,2021,Jouf,SAR,domestics_tourism,7,1,266797157.07
+307,2021,Jouf,SAR,domestics_tourism,8,1,105104416.02
+308,2021,Jouf,SAR,domestics_tourism,9,1,95862197.15
+309,2021,Jouf,SAR,domestics_tourism,10,1,161352003.57
+310,2021,Jouf,SAR,domestics_tourism,11,1,187208521.29
+311,2021,Jouf,SAR,domestics_tourism,12,1,92967204.17
+312,2021,Jouf Province,Overnight Visitors,inbound_tourism,1,2,889.0
+313,2021,Jouf Province,Overnight Visitors,inbound_tourism,2,3,200.66666666666666
+314,2021,Jouf Province,Overnight Visitors,inbound_tourism,3,2,365.5
+315,2021,Jouf Province,Overnight Visitors,inbound_tourism,4,2,591.5
+316,2021,Jouf Province,Overnight Visitors,inbound_tourism,5,2,729.5
+317,2021,Jouf Province,Overnight Visitors,inbound_tourism,6,2,564.5
+318,2021,Jouf Province,Overnight Visitors,inbound_tourism,7,2,1046.5
+319,2021,Jouf Province,Overnight Visitors,inbound_tourism,8,2,1179.5
+320,2021,Jouf Province,Overnight Visitors,inbound_tourism,9,3,794.6666666666666
+321,2021,Jouf Province,Overnight Visitors,inbound_tourism,10,2,387.5
+322,2021,Jouf Province,Overnight Visitors,inbound_tourism,11,3,564.3333333333334
+323,2021,Jouf Province,Overnight Visitors,inbound_tourism,12,2,818.5
+324,2021,Jouf Province,SAR,inbound_tourism,1,2,4319548.97
+325,2021,Jouf Province,SAR,inbound_tourism,2,3,1276855.6666666667
+326,2021,Jouf Province,SAR,inbound_tourism,3,2,1103667.385
+327,2021,Jouf Province,SAR,inbound_tourism,4,2,2533639.505
+328,2021,Jouf Province,SAR,inbound_tourism,5,2,2032336.1600000001
+329,2021,Jouf Province,SAR,inbound_tourism,6,2,1809217.59
+330,2021,Jouf Province,SAR,inbound_tourism,7,2,3185348.3449999997
+331,2021,Jouf Province,SAR,inbound_tourism,8,2,3394294.36
+332,2021,Jouf Province,SAR,inbound_tourism,9,3,3081978.98
+333,2021,Jouf Province,SAR,inbound_tourism,10,2,1865268.715
+334,2021,Jouf Province,SAR,inbound_tourism,11,3,2890586.64
+335,2021,Jouf Province,SAR,inbound_tourism,12,2,5535523.76
+336,2021,Madinah,Overnight Visitors,domestics_tourism,1,1,443723.0
+337,2021,Madinah,Overnight Visitors,domestics_tourism,2,1,276068.0
+338,2021,Madinah,Overnight Visitors,domestics_tourism,3,1,293061.0
+339,2021,Madinah,Overnight Visitors,domestics_tourism,4,1,287437.0
+340,2021,Madinah,Overnight Visitors,domestics_tourism,5,1,447597.0
+341,2021,Madinah,Overnight Visitors,domestics_tourism,6,1,250211.0
+342,2021,Madinah,Overnight Visitors,domestics_tourism,7,1,503309.0
+343,2021,Madinah,Overnight Visitors,domestics_tourism,8,1,325546.0
+344,2021,Madinah,Overnight Visitors,domestics_tourism,9,1,285685.0
+345,2021,Madinah,Overnight Visitors,domestics_tourism,10,1,381905.0
+346,2021,Madinah,Overnight Visitors,domestics_tourism,11,1,520917.0
+347,2021,Madinah,Overnight Visitors,domestics_tourism,12,1,349375.0
+348,2021,Madinah,SAR,domestics_tourism,1,1,542021351.54
+349,2021,Madinah,SAR,domestics_tourism,2,1,342078235.71
+350,2021,Madinah,SAR,domestics_tourism,3,1,393198170.75
+351,2021,Madinah,SAR,domestics_tourism,4,1,313648817.83
+352,2021,Madinah,SAR,domestics_tourism,5,1,675157503.87
+353,2021,Madinah,SAR,domestics_tourism,6,1,299544240.08
+354,2021,Madinah,SAR,domestics_tourism,7,1,653182131.32
+355,2021,Madinah,SAR,domestics_tourism,8,1,425952360.29
+356,2021,Madinah,SAR,domestics_tourism,9,1,396288131.73
+357,2021,Madinah,SAR,domestics_tourism,10,1,443142507.57
+358,2021,Madinah,SAR,domestics_tourism,11,1,835170603.91
+359,2021,Madinah,SAR,domestics_tourism,12,1,397554189.19
+360,2021,Madinah Province,Overnight Visitors,inbound_tourism,1,1,91.0
+361,2021,Madinah Province,Overnight Visitors,inbound_tourism,2,1,168.0
+362,2021,Madinah Province,Overnight Visitors,inbound_tourism,3,1,2443.0
+363,2021,Madinah Province,Overnight Visitors,inbound_tourism,4,3,17.333333333333332
+364,2021,Madinah Province,Overnight Visitors,inbound_tourism,5,2,92.5
+365,2021,Madinah Province,Overnight Visitors,inbound_tourism,6,1,176.0
+366,2021,Madinah Province,Overnight Visitors,inbound_tourism,7,3,541.6666666666666
+367,2021,Madinah Province,Overnight Visitors,inbound_tourism,8,4,271.25
+368,2021,Madinah Province,Overnight Visitors,inbound_tourism,9,2,72.5
+369,2021,Madinah Province,Overnight Visitors,inbound_tourism,10,3,1593.6666666666667
+370,2021,Madinah Province,Overnight Visitors,inbound_tourism,11,3,1739.3333333333333
+371,2021,Madinah Province,Overnight Visitors,inbound_tourism,12,2,1709.5
+372,2021,Madinah Province,SAR,inbound_tourism,1,1,341495.8
+373,2021,Madinah Province,SAR,inbound_tourism,2,1,477424.32
+374,2021,Madinah Province,SAR,inbound_tourism,3,1,8550553.41
+375,2021,Madinah Province,SAR,inbound_tourism,4,3,49800.25333333333
+376,2021,Madinah Province,SAR,inbound_tourism,5,2,394275.185
+377,2021,Madinah Province,SAR,inbound_tourism,6,1,1181006.39
+378,2021,Madinah Province,SAR,inbound_tourism,7,3,4178504.3833333333
+379,2021,Madinah Province,SAR,inbound_tourism,8,4,1237079.6624999999
+380,2021,Madinah Province,SAR,inbound_tourism,9,2,133828.425
+381,2021,Madinah Province,SAR,inbound_tourism,10,3,4039913.1599999997
+382,2021,Madinah Province,SAR,inbound_tourism,11,3,4594636.873333333
+383,2021,Madinah Province,SAR,inbound_tourism,12,2,8610908.155
+384,2021,Makkah,Overnight Visitors,domestics_tourism,1,1,1652849.0
+385,2021,Makkah,Overnight Visitors,domestics_tourism,2,1,1233271.0
+386,2021,Makkah,Overnight Visitors,domestics_tourism,3,1,1198175.0
+387,2021,Makkah,Overnight Visitors,domestics_tourism,4,1,1361018.0
+388,2021,Makkah,Overnight Visitors,domestics_tourism,5,1,2125268.0
+389,2021,Makkah,Overnight Visitors,domestics_tourism,6,1,1195801.0
+390,2021,Makkah,Overnight Visitors,domestics_tourism,7,1,1969917.0
+391,2021,Makkah,Overnight Visitors,domestics_tourism,8,1,1787497.0
+392,2021,Makkah,Overnight Visitors,domestics_tourism,9,1,1268430.0
+393,2021,Makkah,Overnight Visitors,domestics_tourism,10,1,1683137.0
+394,2021,Makkah,Overnight Visitors,domestics_tourism,11,1,1852298.0
+395,2021,Makkah,Overnight Visitors,domestics_tourism,12,1,1147845.0
+396,2021,Makkah,SAR,domestics_tourism,1,1,2538304764.07
+397,2021,Makkah,SAR,domestics_tourism,2,1,1933280183.87
+398,2021,Makkah,SAR,domestics_tourism,3,1,1769758288.9
+399,2021,Makkah,SAR,domestics_tourism,4,1,2277884017.71
+400,2021,Makkah,SAR,domestics_tourism,5,1,3884238336.53
+401,2021,Makkah,SAR,domestics_tourism,6,1,1902252903.65
+402,2021,Makkah,SAR,domestics_tourism,7,1,3867833918.19
+403,2021,Makkah,SAR,domestics_tourism,8,1,2714842737.56
+404,2021,Makkah,SAR,domestics_tourism,9,1,1968990309.17
+405,2021,Makkah,SAR,domestics_tourism,10,1,2175981158.96
+406,2021,Makkah,SAR,domestics_tourism,11,1,3982305995.2
+407,2021,Makkah,SAR,domestics_tourism,12,1,1987365581.91
+408,2021,Makkah Province,Overnight Visitors,inbound_tourism,1,4,9674.5
+409,2021,Makkah Province,Overnight Visitors,inbound_tourism,2,4,4667.5
+410,2021,Makkah Province,Overnight Visitors,inbound_tourism,3,3,12618.333333333334
+411,2021,Makkah Province,Overnight Visitors,inbound_tourism,4,5,8948.6
+412,2021,Makkah Province,Overnight Visitors,inbound_tourism,5,5,5627.4
+413,2021,Makkah Province,Overnight Visitors,inbound_tourism,6,5,6166.0
+414,2021,Makkah Province,Overnight Visitors,inbound_tourism,7,5,7791.8
+415,2021,Makkah Province,Overnight Visitors,inbound_tourism,8,3,13785.666666666666
+416,2021,Makkah Province,Overnight Visitors,inbound_tourism,9,4,12843.75
+417,2021,Makkah Province,Overnight Visitors,inbound_tourism,10,5,14625.6
+418,2021,Makkah Province,Overnight Visitors,inbound_tourism,11,4,33274.25
+419,2021,Makkah Province,Overnight Visitors,inbound_tourism,12,3,50624.333333333336
+420,2021,Makkah Province,SAR,inbound_tourism,1,4,25406530.9975
+421,2021,Makkah Province,SAR,inbound_tourism,2,4,21039273.607499998
+422,2021,Makkah Province,SAR,inbound_tourism,3,3,35478670.160000004
+423,2021,Makkah Province,SAR,inbound_tourism,4,5,32145020.167999994
+424,2021,Makkah Province,SAR,inbound_tourism,5,5,21170862.504
+425,2021,Makkah Province,SAR,inbound_tourism,6,5,19419385.707999997
+426,2021,Makkah Province,SAR,inbound_tourism,7,5,36495766.392000005
+427,2021,Makkah Province,SAR,inbound_tourism,8,3,41979585.559999995
+428,2021,Makkah Province,SAR,inbound_tourism,9,4,49036576.074999996
+429,2021,Makkah Province,SAR,inbound_tourism,10,5,74315032.934
+430,2021,Makkah Province,SAR,inbound_tourism,11,4,162131363.27
+431,2021,Makkah Province,SAR,inbound_tourism,12,3,261103448.75666666
+432,2021,Najran,Overnight Visitors,domestics_tourism,1,1,74951.0
+433,2021,Najran,Overnight Visitors,domestics_tourism,2,1,64037.0
+434,2021,Najran,Overnight Visitors,domestics_tourism,3,1,55717.0
+435,2021,Najran,Overnight Visitors,domestics_tourism,4,1,76416.0
+436,2021,Najran,Overnight Visitors,domestics_tourism,5,1,81276.0
+437,2021,Najran,Overnight Visitors,domestics_tourism,6,1,43828.0
+438,2021,Najran,Overnight Visitors,domestics_tourism,7,1,104803.0
+439,2021,Najran,Overnight Visitors,domestics_tourism,8,1,89533.0
+440,2021,Najran,Overnight Visitors,domestics_tourism,9,1,53217.0
+441,2021,Najran,Overnight Visitors,domestics_tourism,10,1,82504.0
+442,2021,Najran,Overnight Visitors,domestics_tourism,11,1,80222.0
+443,2021,Najran,Overnight Visitors,domestics_tourism,12,1,57125.0
+444,2021,Najran,SAR,domestics_tourism,1,1,165835677.29
+445,2021,Najran,SAR,domestics_tourism,2,1,143865584.74
+446,2021,Najran,SAR,domestics_tourism,3,1,77272333.32
+447,2021,Najran,SAR,domestics_tourism,4,1,118714238.96
+448,2021,Najran,SAR,domestics_tourism,5,1,154629807.99
+449,2021,Najran,SAR,domestics_tourism,6,1,90375785.75
+450,2021,Najran,SAR,domestics_tourism,7,1,182166859.9
+451,2021,Najran,SAR,domestics_tourism,8,1,165986105.9
+452,2021,Najran,SAR,domestics_tourism,9,1,94133483.24
+453,2021,Najran,SAR,domestics_tourism,10,1,609018677.08
+454,2021,Najran,SAR,domestics_tourism,11,1,119751750.73
+455,2021,Najran,SAR,domestics_tourism,12,1,176600505.38
+456,2021,Najran Province,Overnight Visitors,inbound_tourism,1,2,172.0
+457,2021,Najran Province,Overnight Visitors,inbound_tourism,2,2,203.0
+458,2021,Najran Province,Overnight Visitors,inbound_tourism,3,2,79.0
+459,2021,Najran Province,Overnight Visitors,inbound_tourism,4,1,48.0
+460,2021,Najran Province,Overnight Visitors,inbound_tourism,5,1,95.0
+461,2021,Najran Province,Overnight Visitors,inbound_tourism,6,1,104.0
+462,2021,Najran Province,Overnight Visitors,inbound_tourism,7,1,80.0
+463,2021,Najran Province,Overnight Visitors,inbound_tourism,8,1,41.0
+464,2021,Najran Province,Overnight Visitors,inbound_tourism,9,1,36.0
+465,2021,Najran Province,Overnight Visitors,inbound_tourism,10,1,636.0
+466,2021,Najran Province,Overnight Visitors,inbound_tourism,11,1,263.0
+467,2021,Najran Province,Overnight Visitors,inbound_tourism,12,1,1861.0
+468,2021,Najran Province,SAR,inbound_tourism,1,2,168265.27000000002
+469,2021,Najran Province,SAR,inbound_tourism,2,2,5141922.36
+470,2021,Najran Province,SAR,inbound_tourism,3,2,154921.99
+471,2021,Najran Province,SAR,inbound_tourism,4,1,20972.7
+472,2021,Najran Province,SAR,inbound_tourism,5,1,41196.22
+473,2021,Najran Province,SAR,inbound_tourism,6,1,45031.41
+474,2021,Najran Province,SAR,inbound_tourism,7,1,34828.56
+475,2021,Najran Province,SAR,inbound_tourism,8,1,68886.41
+476,2021,Najran Province,SAR,inbound_tourism,9,1,61464.19
+477,2021,Najran Province,SAR,inbound_tourism,10,1,900210.3
+478,2021,Najran Province,SAR,inbound_tourism,11,1,473190.0
+479,2021,Najran Province,SAR,inbound_tourism,12,1,6734818.1
+480,2021,Northern Borders,Overnight Visitors,domestics_tourism,1,1,76032.0
+481,2021,Northern Borders,Overnight Visitors,domestics_tourism,2,1,62842.0
+482,2021,Northern Borders,Overnight Visitors,domestics_tourism,3,1,59066.0
+483,2021,Northern Borders,Overnight Visitors,domestics_tourism,4,1,65435.0
+484,2021,Northern Borders,Overnight Visitors,domestics_tourism,5,1,92875.0
+485,2021,Northern Borders,Overnight Visitors,domestics_tourism,6,1,48676.0
+486,2021,Northern Borders,Overnight Visitors,domestics_tourism,7,1,102968.0
+487,2021,Northern Borders,Overnight Visitors,domestics_tourism,8,1,70458.0
+488,2021,Northern Borders,Overnight Visitors,domestics_tourism,9,1,48176.0
+489,2021,Northern Borders,Overnight Visitors,domestics_tourism,10,1,84874.0
+490,2021,Northern Borders,Overnight Visitors,domestics_tourism,11,1,84148.0
+491,2021,Northern Borders,Overnight Visitors,domestics_tourism,12,1,54111.0
+492,2021,Northern Borders,SAR,domestics_tourism,1,1,149356943.98
+493,2021,Northern Borders,SAR,domestics_tourism,2,1,108072664.06
+494,2021,Northern Borders,SAR,domestics_tourism,3,1,96313085.34
+495,2021,Northern Borders,SAR,domestics_tourism,4,1,132747767.63
+496,2021,Northern Borders,SAR,domestics_tourism,5,1,216485217.2
+497,2021,Northern Borders,SAR,domestics_tourism,6,1,101826377.4
+498,2021,Northern Borders,SAR,domestics_tourism,7,1,294895449.36
+499,2021,Northern Borders,SAR,domestics_tourism,8,1,144396378.23
+500,2021,Northern Borders,SAR,domestics_tourism,9,1,124758604.48
+501,2021,Northern Borders,SAR,domestics_tourism,10,1,173448007.34
+502,2021,Northern Borders,SAR,domestics_tourism,11,1,168222073.15
+503,2021,Northern Borders,SAR,domestics_tourism,12,1,91230528.7
+504,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,1,2,1154.5
+505,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,2,2,758.5
+506,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,3,2,1069.5
+507,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,4,2,1976.0
+508,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,5,2,2556.0
+509,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,6,2,4467.0
+510,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,7,2,11641.0
+511,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,8,2,9094.5
+512,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,9,2,8102.0
+513,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,10,2,7803.5
+514,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,11,2,6945.5
+515,2021,Northern Borders Province,Overnight Visitors,inbound_tourism,12,2,7621.5
+516,2021,Northern Borders Province,SAR,inbound_tourism,1,2,1913518.4649999999
+517,2021,Northern Borders Province,SAR,inbound_tourism,2,2,1443511.48
+518,2021,Northern Borders Province,SAR,inbound_tourism,3,2,2072692.355
+519,2021,Northern Borders Province,SAR,inbound_tourism,4,2,4007631.655
+520,2021,Northern Borders Province,SAR,inbound_tourism,5,2,5112518.745
+521,2021,Northern Borders Province,SAR,inbound_tourism,6,2,9346618.915
+522,2021,Northern Borders Province,SAR,inbound_tourism,7,2,18024075.915
+523,2021,Northern Borders Province,SAR,inbound_tourism,8,2,21073625.700000003
+524,2021,Northern Borders Province,SAR,inbound_tourism,9,2,18166590.04
+525,2021,Northern Borders Province,SAR,inbound_tourism,10,2,14555555.215
+526,2021,Northern Borders Province,SAR,inbound_tourism,11,2,15284236.695
+527,2021,Northern Borders Province,SAR,inbound_tourism,12,2,16399359.100000001
+528,2021,Riyadh,Overnight Visitors,domestics_tourism,1,1,1120515.0
+529,2021,Riyadh,Overnight Visitors,domestics_tourism,2,1,760632.0
+530,2021,Riyadh,Overnight Visitors,domestics_tourism,3,1,863652.0
+531,2021,Riyadh,Overnight Visitors,domestics_tourism,4,1,745191.0
+532,2021,Riyadh,Overnight Visitors,domestics_tourism,5,1,1072745.0
+533,2021,Riyadh,Overnight Visitors,domestics_tourism,6,1,719255.0
+534,2021,Riyadh,Overnight Visitors,domestics_tourism,7,1,1388876.0
+535,2021,Riyadh,Overnight Visitors,domestics_tourism,8,1,874637.0
+536,2021,Riyadh,Overnight Visitors,domestics_tourism,9,1,763818.0
+537,2021,Riyadh,Overnight Visitors,domestics_tourism,10,1,979718.0
+538,2021,Riyadh,Overnight Visitors,domestics_tourism,11,1,1355376.0
+539,2021,Riyadh,Overnight Visitors,domestics_tourism,12,1,961922.0
+540,2021,Riyadh,SAR,domestics_tourism,1,1,2054162704.93
+541,2021,Riyadh,SAR,domestics_tourism,2,1,1373554544.51
+542,2021,Riyadh,SAR,domestics_tourism,3,1,1505860475.53
+543,2021,Riyadh,SAR,domestics_tourism,4,1,1370155563.51
+544,2021,Riyadh,SAR,domestics_tourism,5,1,1787131231.08
+545,2021,Riyadh,SAR,domestics_tourism,6,1,1356695389.94
+546,2021,Riyadh,SAR,domestics_tourism,7,1,2557423836.37
+547,2021,Riyadh,SAR,domestics_tourism,8,1,1698160251.44
+548,2021,Riyadh,SAR,domestics_tourism,9,1,1340761589.01
+549,2021,Riyadh,SAR,domestics_tourism,10,1,1557202588.44
+550,2021,Riyadh,SAR,domestics_tourism,11,1,2495892559.88
+551,2021,Riyadh,SAR,domestics_tourism,12,1,2011119470.37
+552,2021,Riyadh Province,Overnight Visitors,inbound_tourism,1,2,48511.5
+553,2021,Riyadh Province,Overnight Visitors,inbound_tourism,2,2,24722.5
+554,2021,Riyadh Province,Overnight Visitors,inbound_tourism,3,2,18074.0
+555,2021,Riyadh Province,Overnight Visitors,inbound_tourism,4,2,35443.5
+556,2021,Riyadh Province,Overnight Visitors,inbound_tourism,5,2,39214.0
+557,2021,Riyadh Province,Overnight Visitors,inbound_tourism,6,2,36584.5
+558,2021,Riyadh Province,Overnight Visitors,inbound_tourism,7,2,44513.0
+559,2021,Riyadh Province,Overnight Visitors,inbound_tourism,8,2,42640.0
+560,2021,Riyadh Province,Overnight Visitors,inbound_tourism,9,2,51916.5
+561,2021,Riyadh Province,Overnight Visitors,inbound_tourism,10,2,63193.0
+562,2021,Riyadh Province,Overnight Visitors,inbound_tourism,11,2,78930.0
+563,2021,Riyadh Province,Overnight Visitors,inbound_tourism,12,2,127961.5
+564,2021,Riyadh Province,SAR,inbound_tourism,1,2,301971133.76500005
+565,2021,Riyadh Province,SAR,inbound_tourism,2,2,162400834.185
+566,2021,Riyadh Province,SAR,inbound_tourism,3,2,88518174.145
+567,2021,Riyadh Province,SAR,inbound_tourism,4,2,202205993.08499998
+568,2021,Riyadh Province,SAR,inbound_tourism,5,2,203913550.1
+569,2021,Riyadh Province,SAR,inbound_tourism,6,2,222050895.04500002
+570,2021,Riyadh Province,SAR,inbound_tourism,7,2,257131117.0
+571,2021,Riyadh Province,SAR,inbound_tourism,8,2,241005630.99
+572,2021,Riyadh Province,SAR,inbound_tourism,9,2,313105274.625
+573,2021,Riyadh Province,SAR,inbound_tourism,10,2,431597365.845
+574,2021,Riyadh Province,SAR,inbound_tourism,11,2,500886894.68
+575,2021,Riyadh Province,SAR,inbound_tourism,12,2,811065876.105
+576,2021,Tabuk,Overnight Visitors,domestics_tourism,1,1,206791.0
+577,2021,Tabuk,Overnight Visitors,domestics_tourism,2,1,166926.0
+578,2021,Tabuk,Overnight Visitors,domestics_tourism,3,1,165132.0
+579,2021,Tabuk,Overnight Visitors,domestics_tourism,4,1,163959.0
+580,2021,Tabuk,Overnight Visitors,domestics_tourism,5,1,217231.0
+581,2021,Tabuk,Overnight Visitors,domestics_tourism,6,1,171719.0
+582,2021,Tabuk,Overnight Visitors,domestics_tourism,7,1,243386.0
+583,2021,Tabuk,Overnight Visitors,domestics_tourism,8,1,191278.0
+584,2021,Tabuk,Overnight Visitors,domestics_tourism,9,1,139350.0
+585,2021,Tabuk,Overnight Visitors,domestics_tourism,10,1,217907.0
+586,2021,Tabuk,Overnight Visitors,domestics_tourism,11,1,252144.0
+587,2021,Tabuk,Overnight Visitors,domestics_tourism,12,1,152355.0
+588,2021,Tabuk,SAR,domestics_tourism,1,1,342426713.19
+589,2021,Tabuk,SAR,domestics_tourism,2,1,328139941.01
+590,2021,Tabuk,SAR,domestics_tourism,3,1,289108104.1
+591,2021,Tabuk,SAR,domestics_tourism,4,1,368928354.16
+592,2021,Tabuk,SAR,domestics_tourism,5,1,421957684.67
+593,2021,Tabuk,SAR,domestics_tourism,6,1,384036822.83
+594,2021,Tabuk,SAR,domestics_tourism,7,1,494921390.24
+595,2021,Tabuk,SAR,domestics_tourism,8,1,362310359.84
+596,2021,Tabuk,SAR,domestics_tourism,9,1,253176374.49
+597,2021,Tabuk,SAR,domestics_tourism,10,1,375830818.75
+598,2021,Tabuk,SAR,domestics_tourism,11,1,447287118.77
+599,2021,Tabuk,SAR,domestics_tourism,12,1,217967759.16
+600,2021,Tabuk Province,Overnight Visitors,inbound_tourism,1,2,198.0
+601,2021,Tabuk Province,Overnight Visitors,inbound_tourism,2,2,235.5
+602,2021,Tabuk Province,Overnight Visitors,inbound_tourism,3,1,312.0
+603,2021,Tabuk Province,Overnight Visitors,inbound_tourism,4,1,2367.0
+604,2021,Tabuk Province,Overnight Visitors,inbound_tourism,5,2,648.5
+605,2021,Tabuk Province,Overnight Visitors,inbound_tourism,6,1,1629.0
+606,2021,Tabuk Province,Overnight Visitors,inbound_tourism,7,2,843.5
+607,2021,Tabuk Province,Overnight Visitors,inbound_tourism,8,2,1345.5
+608,2021,Tabuk Province,Overnight Visitors,inbound_tourism,9,3,582.3333333333334
+609,2021,Tabuk Province,Overnight Visitors,inbound_tourism,10,3,7614.0
+610,2021,Tabuk Province,Overnight Visitors,inbound_tourism,11,2,620.5
+611,2021,Tabuk Province,Overnight Visitors,inbound_tourism,12,2,439.5
+612,2021,Tabuk Province,SAR,inbound_tourism,1,2,472773.8
+613,2021,Tabuk Province,SAR,inbound_tourism,2,2,2395132.2199999997
+614,2021,Tabuk Province,SAR,inbound_tourism,3,1,1248162.09
+615,2021,Tabuk Province,SAR,inbound_tourism,4,1,29959684.57
+616,2021,Tabuk Province,SAR,inbound_tourism,5,2,4000004.7
+617,2021,Tabuk Province,SAR,inbound_tourism,6,1,6033565.98
+618,2021,Tabuk Province,SAR,inbound_tourism,7,2,2154923.07
+619,2021,Tabuk Province,SAR,inbound_tourism,8,2,3647329.685
+620,2021,Tabuk Province,SAR,inbound_tourism,9,3,3151614.8266666667
+621,2021,Tabuk Province,SAR,inbound_tourism,10,3,46694805.74
+622,2021,Tabuk Province,SAR,inbound_tourism,11,2,2850095.58
+623,2021,Tabuk Province,SAR,inbound_tourism,12,2,2017340.25
+624,2021,Total,Overnight Visitors,domestics_tourism,1,1,5919708.0
+625,2021,Total,Overnight Visitors,domestics_tourism,2,1,4375914.0
+626,2021,Total,Overnight Visitors,domestics_tourism,3,1,4408037.0
+627,2021,Total,Overnight Visitors,domestics_tourism,4,1,4431003.0
+628,2021,Total,Overnight Visitors,domestics_tourism,5,1,6727912.0
+629,2021,Total,Overnight Visitors,domestics_tourism,6,1,4165569.0
+630,2021,Total,Overnight Visitors,domestics_tourism,7,1,7533351.0
+631,2021,Total,Overnight Visitors,domestics_tourism,8,1,5482250.0
+632,2021,Total,Overnight Visitors,domestics_tourism,9,1,4185297.0
+633,2021,Total,Overnight Visitors,domestics_tourism,10,1,5398560.0
+634,2021,Total,Overnight Visitors,domestics_tourism,11,1,6712751.0
+635,2021,Total,Overnight Visitors,domestics_tourism,12,1,4493546.0
+636,2021,Total,Overnight Visitors,inbound_tourism,1,1,232765.0
+637,2021,Total,Overnight Visitors,inbound_tourism,2,1,125032.0
+638,2021,Total,Overnight Visitors,inbound_tourism,3,1,148294.0
+639,2021,Total,Overnight Visitors,inbound_tourism,4,1,176031.0
+640,2021,Total,Overnight Visitors,inbound_tourism,5,1,184845.0
+641,2021,Total,Overnight Visitors,inbound_tourism,6,1,175431.0
+642,2021,Total,Overnight Visitors,inbound_tourism,7,1,231295.0
+643,2021,Total,Overnight Visitors,inbound_tourism,8,1,257364.0
+644,2021,Total,Overnight Visitors,inbound_tourism,9,1,308163.0
+645,2021,Total,Overnight Visitors,inbound_tourism,10,1,452985.0
+646,2021,Total,Overnight Visitors,inbound_tourism,11,1,493593.0
+647,2021,Total,Overnight Visitors,inbound_tourism,12,1,691418.0
+648,2021,Total,SAR,inbound_tourism,1,1,947841324.1
+649,2021,Total,SAR,inbound_tourism,2,1,582029153.64
+650,2021,Total,SAR,inbound_tourism,3,1,502989244.12
+651,2021,Total,SAR,inbound_tourism,4,1,800808054.76
+652,2021,Total,SAR,inbound_tourism,5,1,744948247.96
+653,2021,Total,SAR,inbound_tourism,6,1,793629701.37
+654,2021,Total,SAR,inbound_tourism,7,1,995754187.46
+655,2021,Total,SAR,inbound_tourism,8,1,966016808.98
+656,2021,Total,SAR,inbound_tourism,9,1,1111001131.86
+657,2021,Total,SAR,inbound_tourism,10,1,1932996439.13
+658,2021,Total,SAR,inbound_tourism,11,1,2240416527.07
+659,2021,Total,SAR,inbound_tourism,12,1,3097116570.03
+660,2022,Al Bahah,Overnight Visitors,domestics_tourism,1,1,48472.0
+661,2022,Al Bahah,Overnight Visitors,domestics_tourism,2,1,37792.0
+662,2022,Al Bahah,Overnight Visitors,domestics_tourism,3,1,43728.0
+663,2022,Al Bahah,Overnight Visitors,domestics_tourism,4,1,78339.0
+664,2022,Al Bahah,Overnight Visitors,domestics_tourism,5,1,91577.0
+665,2022,Al Bahah,Overnight Visitors,domestics_tourism,6,1,29098.0
+666,2022,Al Bahah,Overnight Visitors,domestics_tourism,7,1,413843.0
+667,2022,Al Bahah,Overnight Visitors,domestics_tourism,8,1,157036.0
+668,2022,Al Bahah,Overnight Visitors,domestics_tourism,9,1,34420.0
+669,2022,Al Bahah,Overnight Visitors,domestics_tourism,10,1,31937.0
+670,2022,Al Bahah,Overnight Visitors,domestics_tourism,11,1,34633.0
+671,2022,Al Bahah,Overnight Visitors,domestics_tourism,12,1,20168.0
+672,2022,Al Bahah,SAR,domestics_tourism,1,1,59269366.14
+673,2022,Al Bahah,SAR,domestics_tourism,2,1,41924749.67
+674,2022,Al Bahah,SAR,domestics_tourism,3,1,39359204.82
+675,2022,Al Bahah,SAR,domestics_tourism,4,1,61416722.79
+676,2022,Al Bahah,SAR,domestics_tourism,5,1,68818934.49
+677,2022,Al Bahah,SAR,domestics_tourism,6,1,25895176.97
+678,2022,Al Bahah,SAR,domestics_tourism,7,1,416487508.36
+679,2022,Al Bahah,SAR,domestics_tourism,8,1,170320838.87
+680,2022,Al Bahah,SAR,domestics_tourism,9,1,34828734.47
+681,2022,Al Bahah,SAR,domestics_tourism,10,1,40754130.06
+682,2022,Al Bahah,SAR,domestics_tourism,11,1,28262940.47
+683,2022,Al Bahah,SAR,domestics_tourism,12,1,13110752.61
+684,2022,AlQassim,Overnight Visitors,domestics_tourism,1,1,390502.0
+685,2022,AlQassim,Overnight Visitors,domestics_tourism,2,1,349713.0
+686,2022,AlQassim,Overnight Visitors,domestics_tourism,3,1,351766.0
+687,2022,AlQassim,Overnight Visitors,domestics_tourism,4,1,397219.0
+688,2022,AlQassim,Overnight Visitors,domestics_tourism,5,1,375143.0
+689,2022,AlQassim,Overnight Visitors,domestics_tourism,6,1,232384.0
+690,2022,AlQassim,Overnight Visitors,domestics_tourism,7,1,541155.0
+691,2022,AlQassim,Overnight Visitors,domestics_tourism,8,1,274187.0
+692,2022,AlQassim,Overnight Visitors,domestics_tourism,9,1,279147.0
+693,2022,AlQassim,Overnight Visitors,domestics_tourism,10,1,189074.0
+694,2022,AlQassim,Overnight Visitors,domestics_tourism,11,1,415283.0
+695,2022,AlQassim,Overnight Visitors,domestics_tourism,12,1,258492.0
+696,2022,AlQassim,SAR,domestics_tourism,1,1,451744922.09
+697,2022,AlQassim,SAR,domestics_tourism,2,1,485981867.13
+698,2022,AlQassim,SAR,domestics_tourism,3,1,314835635.78
+699,2022,AlQassim,SAR,domestics_tourism,4,1,534286112.25
+700,2022,AlQassim,SAR,domestics_tourism,5,1,340394915.94
+701,2022,AlQassim,SAR,domestics_tourism,6,1,330377940.12
+702,2022,AlQassim,SAR,domestics_tourism,7,1,548675529.29
+703,2022,AlQassim,SAR,domestics_tourism,8,1,371096227.14
+704,2022,AlQassim,SAR,domestics_tourism,9,1,317271865.83
+705,2022,AlQassim,SAR,domestics_tourism,10,1,199908269.89
+706,2022,AlQassim,SAR,domestics_tourism,11,1,334157429.15
+707,2022,AlQassim,SAR,domestics_tourism,12,1,249927776.19
+708,2022,AlQassim Province,Overnight Visitors,inbound_tourism,1,4,5032.75
+709,2022,AlQassim Province,Overnight Visitors,inbound_tourism,2,2,348.5
+710,2022,AlQassim Province,Overnight Visitors,inbound_tourism,3,2,1786.0
+711,2022,AlQassim Province,Overnight Visitors,inbound_tourism,4,2,1205.5
+712,2022,AlQassim Province,Overnight Visitors,inbound_tourism,5,3,1572.3333333333333
+713,2022,AlQassim Province,Overnight Visitors,inbound_tourism,6,3,1527.3333333333333
+714,2022,AlQassim Province,Overnight Visitors,inbound_tourism,7,3,456.6666666666667
+715,2022,AlQassim Province,Overnight Visitors,inbound_tourism,8,3,2496.6666666666665
+716,2022,AlQassim Province,Overnight Visitors,inbound_tourism,9,4,1300.5
+717,2022,AlQassim Province,Overnight Visitors,inbound_tourism,10,4,2463.5
+718,2022,AlQassim Province,Overnight Visitors,inbound_tourism,11,4,5278.75
+719,2022,AlQassim Province,Overnight Visitors,inbound_tourism,12,3,40251.333333333336
+720,2022,AlQassim Province,SAR,inbound_tourism,1,4,13860769.8275
+721,2022,AlQassim Province,SAR,inbound_tourism,2,2,677382.915
+722,2022,AlQassim Province,SAR,inbound_tourism,3,2,2467648.095
+723,2022,AlQassim Province,SAR,inbound_tourism,4,2,1573893.155
+724,2022,AlQassim Province,SAR,inbound_tourism,5,3,3591527.51
+725,2022,AlQassim Province,SAR,inbound_tourism,6,3,4239232.086666667
+726,2022,AlQassim Province,SAR,inbound_tourism,7,3,716794.2766666667
+727,2022,AlQassim Province,SAR,inbound_tourism,8,3,11246746.046666667
+728,2022,AlQassim Province,SAR,inbound_tourism,9,4,1350499.0975
+729,2022,AlQassim Province,SAR,inbound_tourism,10,4,11645639.42
+730,2022,AlQassim Province,SAR,inbound_tourism,11,4,24321139.4925
+731,2022,AlQassim Province,SAR,inbound_tourism,12,3,120980220.82
+732,2022,Albaha province,Overnight Visitors,inbound_tourism,1,1,103.05806359844053
+733,2022,Albaha province,Overnight Visitors,inbound_tourism,2,1,755.7604420430771
+734,2022,Albaha province,Overnight Visitors,inbound_tourism,3,2,67.39829133497881
+735,2022,Albaha province,Overnight Visitors,inbound_tourism,4,1,365.0129356576235
+736,2022,Albaha province,Overnight Visitors,inbound_tourism,6,1,539.5711230792515
+737,2022,Albaha province,Overnight Visitors,inbound_tourism,7,1,1558.7545776151014
+738,2022,Albaha province,Overnight Visitors,inbound_tourism,8,1,294.2096589030773
+739,2022,Albaha province,Overnight Visitors,inbound_tourism,9,1,274.24726453766266
+740,2022,Albaha province,Overnight Visitors,inbound_tourism,10,1,18.54814814814813
+741,2022,Albaha province,Overnight Visitors,inbound_tourism,11,1,123.14679255048657
+742,2022,Albaha province,SAR,inbound_tourism,1,1,322104.12982974574
+743,2022,Albaha province,SAR,inbound_tourism,2,1,3131190.4197517536
+744,2022,Albaha province,SAR,inbound_tourism,3,2,58365.76484078979
+745,2022,Albaha province,SAR,inbound_tourism,4,1,229958.1494643025
+746,2022,Albaha province,SAR,inbound_tourism,6,1,134892.78076981255
+747,2022,Albaha province,SAR,inbound_tourism,7,1,389688.6444037771
+748,2022,Albaha province,SAR,inbound_tourism,8,1,3137823.3033625013
+749,2022,Albaha province,SAR,inbound_tourism,9,1,736353.9052836248
+750,2022,Albaha province,SAR,inbound_tourism,10,1,280962.9715774535
+751,2022,Albaha province,SAR,inbound_tourism,11,1,407923.75032348593
+752,2022,Aseer,Overnight Visitors,domestics_tourism,1,1,532636.0
+753,2022,Aseer,Overnight Visitors,domestics_tourism,2,1,396562.0
+754,2022,Aseer,Overnight Visitors,domestics_tourism,3,1,365198.0
+755,2022,Aseer,Overnight Visitors,domestics_tourism,4,1,513029.0
+756,2022,Aseer,Overnight Visitors,domestics_tourism,5,1,493968.0
+757,2022,Aseer,Overnight Visitors,domestics_tourism,6,1,281209.0
+758,2022,Aseer,Overnight Visitors,domestics_tourism,7,1,1498079.0
+759,2022,Aseer,Overnight Visitors,domestics_tourism,8,1,745729.0
+760,2022,Aseer,Overnight Visitors,domestics_tourism,9,1,278697.0
+761,2022,Aseer,Overnight Visitors,domestics_tourism,10,1,336924.0
+762,2022,Aseer,Overnight Visitors,domestics_tourism,11,1,522430.0
+763,2022,Aseer,Overnight Visitors,domestics_tourism,12,1,365521.0
+764,2022,Aseer,SAR,domestics_tourism,1,1,575188825.54
+765,2022,Aseer,SAR,domestics_tourism,2,1,416727696.1
+766,2022,Aseer,SAR,domestics_tourism,3,1,294100817.86
+767,2022,Aseer,SAR,domestics_tourism,4,1,444559617.14
+768,2022,Aseer,SAR,domestics_tourism,5,1,571637076.45
+769,2022,Aseer,SAR,domestics_tourism,6,1,357357039.61
+770,2022,Aseer,SAR,domestics_tourism,7,1,2429069024.9
+771,2022,Aseer,SAR,domestics_tourism,8,1,992414282.85
+772,2022,Aseer,SAR,domestics_tourism,9,1,281613917.21
+773,2022,Aseer,SAR,domestics_tourism,10,1,296775351.03
+774,2022,Aseer,SAR,domestics_tourism,11,1,383555810.61
+775,2022,Aseer,SAR,domestics_tourism,12,1,308735618.1
+776,2022,Aseer Province,Overnight Visitors,inbound_tourism,1,3,2.0
+777,2022,Aseer Province,Overnight Visitors,inbound_tourism,2,2,585.0
+778,2022,Aseer Province,Overnight Visitors,inbound_tourism,3,3,837.0
+779,2022,Aseer Province,Overnight Visitors,inbound_tourism,4,2,7.0
+780,2022,Aseer Province,Overnight Visitors,inbound_tourism,5,3,49.0
+781,2022,Aseer Province,Overnight Visitors,inbound_tourism,6,3,734.0
+782,2022,Aseer Province,Overnight Visitors,inbound_tourism,7,3,537.3333333333334
+783,2022,Aseer Province,Overnight Visitors,inbound_tourism,8,3,2209.0
+784,2022,Aseer Province,Overnight Visitors,inbound_tourism,9,3,766.0
+785,2022,Aseer Province,Overnight Visitors,inbound_tourism,10,3,1081.6666666666667
+786,2022,Aseer Province,Overnight Visitors,inbound_tourism,11,3,3329.0
+787,2022,Aseer Province,Overnight Visitors,inbound_tourism,12,3,14755.666666666666
+788,2022,Aseer Province,SAR,inbound_tourism,1,3,10967.113333333333
+789,2022,Aseer Province,SAR,inbound_tourism,2,2,3703391.165
+790,2022,Aseer Province,SAR,inbound_tourism,3,3,2637199.4499999997
+791,2022,Aseer Province,SAR,inbound_tourism,4,2,37725.655
+792,2022,Aseer Province,SAR,inbound_tourism,5,3,122457.14333333333
+793,2022,Aseer Province,SAR,inbound_tourism,6,3,1963843.1600000001
+794,2022,Aseer Province,SAR,inbound_tourism,7,3,1602547.8566666667
+795,2022,Aseer Province,SAR,inbound_tourism,8,3,7525689.123333334
+796,2022,Aseer Province,SAR,inbound_tourism,9,3,3039167.4499999997
+797,2022,Aseer Province,SAR,inbound_tourism,10,3,3979009.2066666665
+798,2022,Aseer Province,SAR,inbound_tourism,11,3,11760668.986666666
+799,2022,Aseer Province,SAR,inbound_tourism,12,3,85067967.67666666
+800,2022,Eastern Province,Overnight Visitors,domestics_tourism,1,1,1201506.0
+801,2022,Eastern Province,Overnight Visitors,domestics_tourism,2,1,1044118.0
+802,2022,Eastern Province,Overnight Visitors,domestics_tourism,3,1,958961.0
+803,2022,Eastern Province,Overnight Visitors,domestics_tourism,4,1,878705.0
+804,2022,Eastern Province,Overnight Visitors,domestics_tourism,5,1,1128741.0
+805,2022,Eastern Province,Overnight Visitors,domestics_tourism,6,1,632441.0
+806,2022,Eastern Province,Overnight Visitors,domestics_tourism,7,1,1146011.0
+807,2022,Eastern Province,Overnight Visitors,domestics_tourism,8,1,873699.0
+808,2022,Eastern Province,Overnight Visitors,domestics_tourism,9,1,670397.0
+809,2022,Eastern Province,Overnight Visitors,domestics_tourism,10,1,868031.0
+810,2022,Eastern Province,Overnight Visitors,domestics_tourism,11,1,1058265.0
+811,2022,Eastern Province,Overnight Visitors,domestics_tourism,12,1,678578.0
+812,2022,Eastern Province,Overnight Visitors,inbound_tourism,1,4,28734.75
+813,2022,Eastern Province,Overnight Visitors,inbound_tourism,2,4,41089.25
+814,2022,Eastern Province,Overnight Visitors,inbound_tourism,3,4,81325.75
+815,2022,Eastern Province,Overnight Visitors,inbound_tourism,4,4,73335.25
+816,2022,Eastern Province,Overnight Visitors,inbound_tourism,5,4,87649.0
+817,2022,Eastern Province,Overnight Visitors,inbound_tourism,6,4,78321.0
+818,2022,Eastern Province,Overnight Visitors,inbound_tourism,7,4,106612.5
+819,2022,Eastern Province,Overnight Visitors,inbound_tourism,8,4,90446.75
+820,2022,Eastern Province,Overnight Visitors,inbound_tourism,9,4,86115.0
+821,2022,Eastern Province,Overnight Visitors,inbound_tourism,10,4,102349.0
+822,2022,Eastern Province,Overnight Visitors,inbound_tourism,11,4,98870.25
+823,2022,Eastern Province,Overnight Visitors,inbound_tourism,12,4,124733.25
+824,2022,Eastern Province,SAR,domestics_tourism,1,1,1736172978.98
+825,2022,Eastern Province,SAR,domestics_tourism,2,1,1062182056.2
+826,2022,Eastern Province,SAR,domestics_tourism,3,1,978286565.33
+827,2022,Eastern Province,SAR,domestics_tourism,4,1,797590403.87
+828,2022,Eastern Province,SAR,domestics_tourism,5,1,1252936120.23
+829,2022,Eastern Province,SAR,domestics_tourism,6,1,787501056.09
+830,2022,Eastern Province,SAR,domestics_tourism,7,1,1303936194.54
+831,2022,Eastern Province,SAR,domestics_tourism,8,1,1055113415.43
+832,2022,Eastern Province,SAR,domestics_tourism,9,1,731982242.12
+833,2022,Eastern Province,SAR,domestics_tourism,10,1,943969219.7
+834,2022,Eastern Province,SAR,domestics_tourism,11,1,1382214502.84
+835,2022,Eastern Province,SAR,domestics_tourism,12,1,651402062.48
+836,2022,Eastern Province,SAR,inbound_tourism,1,4,45559435.2475
+837,2022,Eastern Province,SAR,inbound_tourism,2,4,184185504.52
+838,2022,Eastern Province,SAR,inbound_tourism,3,4,246374802.2125
+839,2022,Eastern Province,SAR,inbound_tourism,4,4,196041051.4075
+840,2022,Eastern Province,SAR,inbound_tourism,5,4,246122797.765
+841,2022,Eastern Province,SAR,inbound_tourism,6,4,171459202.2225
+842,2022,Eastern Province,SAR,inbound_tourism,7,4,164605780.5075
+843,2022,Eastern Province,SAR,inbound_tourism,8,4,178797350.29000002
+844,2022,Eastern Province,SAR,inbound_tourism,9,4,159572626.875
+845,2022,Eastern Province,SAR,inbound_tourism,10,4,262358262.5175
+846,2022,Eastern Province,SAR,inbound_tourism,11,4,244128802.78000003
+847,2022,Eastern Province,SAR,inbound_tourism,12,4,190795619.25749996
+848,2022,Hail,Overnight Visitors,domestics_tourism,1,1,222938.0
+849,2022,Hail,Overnight Visitors,domestics_tourism,2,1,163346.0
+850,2022,Hail,Overnight Visitors,domestics_tourism,3,1,167726.0
+851,2022,Hail,Overnight Visitors,domestics_tourism,4,1,225486.0
+852,2022,Hail,Overnight Visitors,domestics_tourism,5,1,165272.0
+853,2022,Hail,Overnight Visitors,domestics_tourism,6,1,98517.0
+854,2022,Hail,Overnight Visitors,domestics_tourism,7,1,379081.0
+855,2022,Hail,Overnight Visitors,domestics_tourism,8,1,169923.0
+856,2022,Hail,Overnight Visitors,domestics_tourism,9,1,116986.0
+857,2022,Hail,Overnight Visitors,domestics_tourism,10,1,107016.0
+858,2022,Hail,Overnight Visitors,domestics_tourism,11,1,203065.0
+859,2022,Hail,Overnight Visitors,domestics_tourism,12,1,129187.0
+860,2022,Hail,SAR,domestics_tourism,1,1,307576289.76
+861,2022,Hail,SAR,domestics_tourism,2,1,260029504.76
+862,2022,Hail,SAR,domestics_tourism,3,1,288303941.31
+863,2022,Hail,SAR,domestics_tourism,4,1,268120504.86
+864,2022,Hail,SAR,domestics_tourism,5,1,282932204.14
+865,2022,Hail,SAR,domestics_tourism,6,1,221798856.38
+866,2022,Hail,SAR,domestics_tourism,7,1,928571708.61
+867,2022,Hail,SAR,domestics_tourism,8,1,751781896.04
+868,2022,Hail,SAR,domestics_tourism,9,1,167667225.48
+869,2022,Hail,SAR,domestics_tourism,10,1,148016943.73
+870,2022,Hail,SAR,domestics_tourism,11,1,219405803.83
+871,2022,Hail,SAR,domestics_tourism,12,1,163604555.8
+872,2022,Hail Province,Overnight Visitors,inbound_tourism,1,1,4697.0
+873,2022,Hail Province,Overnight Visitors,inbound_tourism,2,2,1954.5
+874,2022,Hail Province,Overnight Visitors,inbound_tourism,3,1,3913.0
+875,2022,Hail Province,Overnight Visitors,inbound_tourism,4,1,5415.0
+876,2022,Hail Province,Overnight Visitors,inbound_tourism,5,1,6081.0
+877,2022,Hail Province,Overnight Visitors,inbound_tourism,6,1,9864.0
+878,2022,Hail Province,Overnight Visitors,inbound_tourism,7,1,4910.0
+879,2022,Hail Province,Overnight Visitors,inbound_tourism,8,1,3395.0
+880,2022,Hail Province,Overnight Visitors,inbound_tourism,9,1,5393.0
+881,2022,Hail Province,Overnight Visitors,inbound_tourism,10,1,6630.0
+882,2022,Hail Province,Overnight Visitors,inbound_tourism,11,1,17616.0
+883,2022,Hail Province,Overnight Visitors,inbound_tourism,12,1,63999.0
+884,2022,Hail Province,SAR,inbound_tourism,1,1,12994390.05
+885,2022,Hail Province,SAR,inbound_tourism,2,2,8159336.114999999
+886,2022,Hail Province,SAR,inbound_tourism,3,1,10396949.68
+887,2022,Hail Province,SAR,inbound_tourism,4,1,25627245.12
+888,2022,Hail Province,SAR,inbound_tourism,5,1,20411702.8
+889,2022,Hail Province,SAR,inbound_tourism,6,1,19190930.69
+890,2022,Hail Province,SAR,inbound_tourism,7,1,3605816.88
+891,2022,Hail Province,SAR,inbound_tourism,8,1,10746921.99
+892,2022,Hail Province,SAR,inbound_tourism,9,1,20237467.94
+893,2022,Hail Province,SAR,inbound_tourism,10,1,19097687.5
+894,2022,Hail Province,SAR,inbound_tourism,11,1,99401543.04
+895,2022,Hail Province,SAR,inbound_tourism,12,1,120394584.51
+896,2022,Jazan,Overnight Visitors,domestics_tourism,1,1,300939.0
+897,2022,Jazan,Overnight Visitors,domestics_tourism,2,1,205688.0
+898,2022,Jazan,Overnight Visitors,domestics_tourism,3,1,155334.0
+899,2022,Jazan,Overnight Visitors,domestics_tourism,4,1,201548.0
+900,2022,Jazan,Overnight Visitors,domestics_tourism,5,1,152587.0
+901,2022,Jazan,Overnight Visitors,domestics_tourism,6,1,84572.0
+902,2022,Jazan,Overnight Visitors,domestics_tourism,7,1,257619.0
+903,2022,Jazan,Overnight Visitors,domestics_tourism,8,1,192795.0
+904,2022,Jazan,Overnight Visitors,domestics_tourism,9,1,95185.0
+905,2022,Jazan,Overnight Visitors,domestics_tourism,10,1,183404.0
+906,2022,Jazan,Overnight Visitors,domestics_tourism,11,1,176110.0
+907,2022,Jazan,Overnight Visitors,domestics_tourism,12,1,123109.0
+908,2022,Jazan,SAR,domestics_tourism,1,1,333205738.58
+909,2022,Jazan,SAR,domestics_tourism,2,1,221259115.97
+910,2022,Jazan,SAR,domestics_tourism,3,1,154928434.33
+911,2022,Jazan,SAR,domestics_tourism,4,1,189140119.98
+912,2022,Jazan,SAR,domestics_tourism,5,1,140743319.82
+913,2022,Jazan,SAR,domestics_tourism,6,1,117990283.18
+914,2022,Jazan,SAR,domestics_tourism,7,1,283376690.44
+915,2022,Jazan,SAR,domestics_tourism,8,1,184408387.72
+916,2022,Jazan,SAR,domestics_tourism,9,1,102723607.32
+917,2022,Jazan,SAR,domestics_tourism,10,1,125751864.26
+918,2022,Jazan,SAR,domestics_tourism,11,1,120755065.28
+919,2022,Jazan,SAR,domestics_tourism,12,1,80895622.63
+920,2022,Jazan Province,Overnight Visitors,inbound_tourism,1,1,94.0
+921,2022,Jazan Province,Overnight Visitors,inbound_tourism,2,2,5817.5
+922,2022,Jazan Province,Overnight Visitors,inbound_tourism,3,2,8671.5
+923,2022,Jazan Province,Overnight Visitors,inbound_tourism,5,1,362.0
+924,2022,Jazan Province,Overnight Visitors,inbound_tourism,6,2,865.5
+925,2022,Jazan Province,Overnight Visitors,inbound_tourism,7,2,11.0
+926,2022,Jazan Province,Overnight Visitors,inbound_tourism,8,1,0.0
+927,2022,Jazan Province,Overnight Visitors,inbound_tourism,9,2,33.5
+928,2022,Jazan Province,Overnight Visitors,inbound_tourism,10,2,276.0
+929,2022,Jazan Province,Overnight Visitors,inbound_tourism,11,2,1601.5
+930,2022,Jazan Province,Overnight Visitors,inbound_tourism,12,2,229.0
+931,2022,Jazan Province,SAR,inbound_tourism,1,1,48355.41
+932,2022,Jazan Province,SAR,inbound_tourism,2,2,19121897.925
+933,2022,Jazan Province,SAR,inbound_tourism,3,2,56879196.760000005
+934,2022,Jazan Province,SAR,inbound_tourism,5,1,338060.21
+935,2022,Jazan Province,SAR,inbound_tourism,6,2,3584229.325
+936,2022,Jazan Province,SAR,inbound_tourism,7,2,33682.985
+937,2022,Jazan Province,SAR,inbound_tourism,8,1,0.0
+938,2022,Jazan Province,SAR,inbound_tourism,9,2,172399.57
+939,2022,Jazan Province,SAR,inbound_tourism,10,2,678087.665
+940,2022,Jazan Province,SAR,inbound_tourism,11,2,5597779.42
+941,2022,Jazan Province,SAR,inbound_tourism,12,2,1176622.165
+942,2022,Jouf,Overnight Visitors,domestics_tourism,1,1,128030.0
+943,2022,Jouf,Overnight Visitors,domestics_tourism,2,1,106086.0
+944,2022,Jouf,Overnight Visitors,domestics_tourism,3,1,89630.0
+945,2022,Jouf,Overnight Visitors,domestics_tourism,4,1,115401.0
+946,2022,Jouf,Overnight Visitors,domestics_tourism,5,1,104358.0
+947,2022,Jouf,Overnight Visitors,domestics_tourism,6,1,75748.0
+948,2022,Jouf,Overnight Visitors,domestics_tourism,7,1,165665.0
+949,2022,Jouf,Overnight Visitors,domestics_tourism,8,1,133570.0
+950,2022,Jouf,Overnight Visitors,domestics_tourism,9,1,61761.0
+951,2022,Jouf,Overnight Visitors,domestics_tourism,10,1,102999.0
+952,2022,Jouf,Overnight Visitors,domestics_tourism,11,1,105520.0
+953,2022,Jouf,Overnight Visitors,domestics_tourism,12,1,63736.0
+954,2022,Jouf,SAR,domestics_tourism,1,1,297061180.58
+955,2022,Jouf,SAR,domestics_tourism,2,1,206030689.05
+956,2022,Jouf,SAR,domestics_tourism,3,1,231618471.86
+957,2022,Jouf,SAR,domestics_tourism,4,1,192350335.97
+958,2022,Jouf,SAR,domestics_tourism,5,1,254815106.46
+959,2022,Jouf,SAR,domestics_tourism,6,1,231549026.08
+960,2022,Jouf,SAR,domestics_tourism,7,1,458794641.63
+961,2022,Jouf,SAR,domestics_tourism,8,1,401196906.75
+962,2022,Jouf,SAR,domestics_tourism,9,1,95193961.17
+963,2022,Jouf,SAR,domestics_tourism,10,1,105546008.04
+964,2022,Jouf,SAR,domestics_tourism,11,1,96786640.3
+965,2022,Jouf,SAR,domestics_tourism,12,1,49775151.48
+966,2022,Jouf Province,Overnight Visitors,inbound_tourism,1,2,2166.0
+967,2022,Jouf Province,Overnight Visitors,inbound_tourism,2,2,574.0
+968,2022,Jouf Province,Overnight Visitors,inbound_tourism,3,1,1977.0
+969,2022,Jouf Province,Overnight Visitors,inbound_tourism,4,2,3128.0
+970,2022,Jouf Province,Overnight Visitors,inbound_tourism,5,2,1083.0
+971,2022,Jouf Province,Overnight Visitors,inbound_tourism,6,2,4965.5
+972,2022,Jouf Province,Overnight Visitors,inbound_tourism,7,2,2691.0
+973,2022,Jouf Province,Overnight Visitors,inbound_tourism,8,2,85.5
+974,2022,Jouf Province,Overnight Visitors,inbound_tourism,9,2,3132.5
+975,2022,Jouf Province,Overnight Visitors,inbound_tourism,10,3,2770.6666666666665
+976,2022,Jouf Province,Overnight Visitors,inbound_tourism,11,3,2161.0
+977,2022,Jouf Province,Overnight Visitors,inbound_tourism,12,3,0.6666666666666666
+978,2022,Jouf Province,SAR,inbound_tourism,1,2,8828273.62
+979,2022,Jouf Province,SAR,inbound_tourism,2,2,4063731.1100000003
+980,2022,Jouf Province,SAR,inbound_tourism,3,1,7570094.52
+981,2022,Jouf Province,SAR,inbound_tourism,4,2,6455235.965
+982,2022,Jouf Province,SAR,inbound_tourism,5,2,4597815.1
+983,2022,Jouf Province,SAR,inbound_tourism,6,2,7415749.025
+984,2022,Jouf Province,SAR,inbound_tourism,7,2,3032186.04
+985,2022,Jouf Province,SAR,inbound_tourism,8,2,240123.06000000003
+986,2022,Jouf Province,SAR,inbound_tourism,9,2,25667039.115
+987,2022,Jouf Province,SAR,inbound_tourism,10,3,9299439.26
+988,2022,Jouf Province,SAR,inbound_tourism,11,3,4917067.313333333
+989,2022,Jouf Province,SAR,inbound_tourism,12,3,1275.76
+990,2022,Madinah,Overnight Visitors,domestics_tourism,1,1,580164.0
+991,2022,Madinah,Overnight Visitors,domestics_tourism,2,1,465742.0
+992,2022,Madinah,Overnight Visitors,domestics_tourism,3,1,488231.0
+993,2022,Madinah,Overnight Visitors,domestics_tourism,4,1,773333.0
+994,2022,Madinah,Overnight Visitors,domestics_tourism,5,1,603769.0
+995,2022,Madinah,Overnight Visitors,domestics_tourism,6,1,279202.0
+996,2022,Madinah,Overnight Visitors,domestics_tourism,7,1,889452.0
+997,2022,Madinah,Overnight Visitors,domestics_tourism,8,1,539423.0
+998,2022,Madinah,Overnight Visitors,domestics_tourism,9,1,344752.0
+999,2022,Madinah,Overnight Visitors,domestics_tourism,10,1,360375.0
+1000,2022,Madinah,Overnight Visitors,domestics_tourism,11,1,529551.0
+1001,2022,Madinah,Overnight Visitors,domestics_tourism,12,1,366580.0
+1002,2022,Madinah,SAR,domestics_tourism,1,1,816909769.91
+1003,2022,Madinah,SAR,domestics_tourism,2,1,625592259.08
+1004,2022,Madinah,SAR,domestics_tourism,3,1,520032074.37
+1005,2022,Madinah,SAR,domestics_tourism,4,1,1036537489.29
+1006,2022,Madinah,SAR,domestics_tourism,5,1,633968863.46
+1007,2022,Madinah,SAR,domestics_tourism,6,1,399915175.91
+1008,2022,Madinah,SAR,domestics_tourism,7,1,1226082726.53
+1009,2022,Madinah,SAR,domestics_tourism,8,1,712499087.48
+1010,2022,Madinah,SAR,domestics_tourism,9,1,344665592.21
+1011,2022,Madinah,SAR,domestics_tourism,10,1,356269073.37
+1012,2022,Madinah,SAR,domestics_tourism,11,1,533460099.0
+1013,2022,Madinah,SAR,domestics_tourism,12,1,365666234.56
+1014,2022,Madinah Province,Overnight Visitors,inbound_tourism,1,4,605.25
+1015,2022,Madinah Province,Overnight Visitors,inbound_tourism,2,2,817.0
+1016,2022,Madinah Province,Overnight Visitors,inbound_tourism,3,2,2075.0
+1017,2022,Madinah Province,Overnight Visitors,inbound_tourism,4,2,583.5
+1018,2022,Madinah Province,Overnight Visitors,inbound_tourism,5,2,653.5
+1019,2022,Madinah Province,Overnight Visitors,inbound_tourism,6,3,977.3333333333334
+1020,2022,Madinah Province,Overnight Visitors,inbound_tourism,7,1,3790.0
+1021,2022,Madinah Province,Overnight Visitors,inbound_tourism,8,2,1850.0
+1022,2022,Madinah Province,Overnight Visitors,inbound_tourism,9,2,2306.5
+1023,2022,Madinah Province,Overnight Visitors,inbound_tourism,10,2,3949.5
+1024,2022,Madinah Province,Overnight Visitors,inbound_tourism,11,3,5309.333333333333
+1025,2022,Madinah Province,Overnight Visitors,inbound_tourism,12,3,23773.666666666668
+1026,2022,Madinah Province,SAR,inbound_tourism,1,4,2985250.55
+1027,2022,Madinah Province,SAR,inbound_tourism,2,2,4737275.815
+1028,2022,Madinah Province,SAR,inbound_tourism,3,2,22261199.21
+1029,2022,Madinah Province,SAR,inbound_tourism,4,2,1182673.5599999998
+1030,2022,Madinah Province,SAR,inbound_tourism,5,2,2199973.535
+1031,2022,Madinah Province,SAR,inbound_tourism,6,3,5387001.833333333
+1032,2022,Madinah Province,SAR,inbound_tourism,7,1,23228246.18
+1033,2022,Madinah Province,SAR,inbound_tourism,8,2,5896481.399999999
+1034,2022,Madinah Province,SAR,inbound_tourism,9,2,4435422.91
+1035,2022,Madinah Province,SAR,inbound_tourism,10,2,13823682.59
+1036,2022,Madinah Province,SAR,inbound_tourism,11,3,31293082.276666667
+1037,2022,Madinah Province,SAR,inbound_tourism,12,3,135874780.62666667
+1038,2022,Makkah,Overnight Visitors,domestics_tourism,1,1,2084903.0
+1039,2022,Makkah,Overnight Visitors,domestics_tourism,2,1,1790593.0
+1040,2022,Makkah,Overnight Visitors,domestics_tourism,3,1,1781854.0
+1041,2022,Makkah,Overnight Visitors,domestics_tourism,4,1,3363459.0
+1042,2022,Makkah,Overnight Visitors,domestics_tourism,5,1,2072431.0
+1043,2022,Makkah,Overnight Visitors,domestics_tourism,6,1,1189735.0
+1044,2022,Makkah,Overnight Visitors,domestics_tourism,7,1,3022765.0
+1045,2022,Makkah,Overnight Visitors,domestics_tourism,8,1,1966858.0
+1046,2022,Makkah,Overnight Visitors,domestics_tourism,9,1,1169428.0
+1047,2022,Makkah,Overnight Visitors,domestics_tourism,10,1,1185032.0
+1048,2022,Makkah,Overnight Visitors,domestics_tourism,11,1,1911198.0
+1049,2022,Makkah,Overnight Visitors,domestics_tourism,12,1,1125115.0
+1050,2022,Makkah,SAR,domestics_tourism,1,1,2889864033.47
+1051,2022,Makkah,SAR,domestics_tourism,2,1,2405311237.6
+1052,2022,Makkah,SAR,domestics_tourism,3,1,2535957367.73
+1053,2022,Makkah,SAR,domestics_tourism,4,1,4447572018.01
+1054,2022,Makkah,SAR,domestics_tourism,5,1,2726102856.28
+1055,2022,Makkah,SAR,domestics_tourism,6,1,1525397237.89
+1056,2022,Makkah,SAR,domestics_tourism,7,1,5525141166.35
+1057,2022,Makkah,SAR,domestics_tourism,8,1,2891239073.21
+1058,2022,Makkah,SAR,domestics_tourism,9,1,1342439030.47
+1059,2022,Makkah,SAR,domestics_tourism,10,1,1321300980.25
+1060,2022,Makkah,SAR,domestics_tourism,11,1,2104436500.29
+1061,2022,Makkah,SAR,domestics_tourism,12,1,932482642.16
+1062,2022,Makkah Province,Overnight Visitors,inbound_tourism,1,4,72315.0
+1063,2022,Makkah Province,Overnight Visitors,inbound_tourism,2,3,126637.66666666667
+1064,2022,Makkah Province,Overnight Visitors,inbound_tourism,3,3,213724.66666666666
+1065,2022,Makkah Province,Overnight Visitors,inbound_tourism,4,4,274676.75
+1066,2022,Makkah Province,Overnight Visitors,inbound_tourism,5,4,134575.25
+1067,2022,Makkah Province,Overnight Visitors,inbound_tourism,6,3,80805.0
+1068,2022,Makkah Province,Overnight Visitors,inbound_tourism,7,4,246589.5
+1069,2022,Makkah Province,Overnight Visitors,inbound_tourism,8,4,170336.75
+1070,2022,Makkah Province,Overnight Visitors,inbound_tourism,9,4,232905.25
+1071,2022,Makkah Province,Overnight Visitors,inbound_tourism,10,4,274978.75
+1072,2022,Makkah Province,Overnight Visitors,inbound_tourism,11,4,294157.25
+1073,2022,Makkah Province,Overnight Visitors,inbound_tourism,12,3,448885.0
+1074,2022,Makkah Province,SAR,inbound_tourism,1,4,607093346.2525
+1075,2022,Makkah Province,SAR,inbound_tourism,2,3,1108782642.0566666
+1076,2022,Makkah Province,SAR,inbound_tourism,3,3,1805264440.0933332
+1077,2022,Makkah Province,SAR,inbound_tourism,4,3,653367213.1800001
+1078,2022,Makkah Province,SAR,inbound_tourism,5,4,965169155.4525
+1079,2022,Makkah Province,SAR,inbound_tourism,6,4,434810133.28999996
+1080,2022,Makkah Province,SAR,inbound_tourism,7,3,146256537.84999952
+1081,2022,Makkah Province,SAR,inbound_tourism,8,3,240887542.17666662
+1082,2022,Makkah Province,SAR,inbound_tourism,9,3,334672075.22999996
+1083,2022,Makkah Province,SAR,inbound_tourism,10,3,276462786.6866668
+1084,2022,Makkah Province,SAR,inbound_tourism,11,3,357038018.2966667
+1085,2022,Makkah Province,SAR,inbound_tourism,12,3,414288824.82333344
+1086,2022,Najran,Overnight Visitors,domestics_tourism,1,1,105576.0
+1087,2022,Najran,Overnight Visitors,domestics_tourism,2,1,94897.0
+1088,2022,Najran,Overnight Visitors,domestics_tourism,3,1,63068.0
+1089,2022,Najran,Overnight Visitors,domestics_tourism,4,1,112498.0
+1090,2022,Najran,Overnight Visitors,domestics_tourism,5,1,90649.0
+1091,2022,Najran,Overnight Visitors,domestics_tourism,6,1,52823.0
+1092,2022,Najran,Overnight Visitors,domestics_tourism,7,1,183918.0
+1093,2022,Najran,Overnight Visitors,domestics_tourism,8,1,122891.0
+1094,2022,Najran,Overnight Visitors,domestics_tourism,9,1,48028.0
+1095,2022,Najran,Overnight Visitors,domestics_tourism,10,1,81145.0
+1096,2022,Najran,Overnight Visitors,domestics_tourism,11,1,101670.0
+1097,2022,Najran,Overnight Visitors,domestics_tourism,12,1,52356.0
+1098,2022,Najran,SAR,domestics_tourism,1,1,205173654.86
+1099,2022,Najran,SAR,domestics_tourism,2,1,196576071.7
+1100,2022,Najran,SAR,domestics_tourism,3,1,84276787.34
+1101,2022,Najran,SAR,domestics_tourism,4,1,170981905.19
+1102,2022,Najran,SAR,domestics_tourism,5,1,133190084.69
+1103,2022,Najran,SAR,domestics_tourism,6,1,126517583.75
+1104,2022,Najran,SAR,domestics_tourism,7,1,418252613.13
+1105,2022,Najran,SAR,domestics_tourism,8,1,193997182.59
+1106,2022,Najran,SAR,domestics_tourism,9,1,56310508.8
+1107,2022,Najran,SAR,domestics_tourism,10,1,124259759.2
+1108,2022,Najran,SAR,domestics_tourism,11,1,150093324.61
+1109,2022,Najran,SAR,domestics_tourism,12,1,83654699.45
+1110,2022,Najran Province,Overnight Visitors,inbound_tourism,1,1,1.0
+1111,2022,Najran Province,Overnight Visitors,inbound_tourism,3,1,10.0
+1112,2022,Najran Province,Overnight Visitors,inbound_tourism,5,1,1.0
+1113,2022,Najran Province,Overnight Visitors,inbound_tourism,6,1,405.0
+1114,2022,Najran Province,Overnight Visitors,inbound_tourism,7,1,477.0
+1115,2022,Najran Province,Overnight Visitors,inbound_tourism,8,1,758.0
+1116,2022,Najran Province,Overnight Visitors,inbound_tourism,9,1,1264.0
+1117,2022,Najran Province,Overnight Visitors,inbound_tourism,10,2,242.0
+1118,2022,Najran Province,Overnight Visitors,inbound_tourism,11,1,611.0
+1119,2022,Najran Province,Overnight Visitors,inbound_tourism,12,1,3128.0
+1120,2022,Najran Province,SAR,inbound_tourism,1,1,11130.83
+1121,2022,Najran Province,SAR,inbound_tourism,3,1,32185.4
+1122,2022,Najran Province,SAR,inbound_tourism,5,1,2339.83
+1123,2022,Najran Province,SAR,inbound_tourism,6,1,158390.23
+1124,2022,Najran Province,SAR,inbound_tourism,7,1,572081.58
+1125,2022,Najran Province,SAR,inbound_tourism,8,1,1403199.03
+1126,2022,Najran Province,SAR,inbound_tourism,9,1,5056963.0
+1127,2022,Najran Province,SAR,inbound_tourism,10,2,767007.72
+1128,2022,Najran Province,SAR,inbound_tourism,11,1,1630218.43
+1129,2022,Najran Province,SAR,inbound_tourism,12,1,10812860.8
+1130,2022,Northern Borders,Overnight Visitors,domestics_tourism,1,1,124274.0
+1131,2022,Northern Borders,Overnight Visitors,domestics_tourism,2,1,110373.0
+1132,2022,Northern Borders,Overnight Visitors,domestics_tourism,3,1,66321.0
+1133,2022,Northern Borders,Overnight Visitors,domestics_tourism,4,1,75809.0
+1134,2022,Northern Borders,Overnight Visitors,domestics_tourism,5,1,98049.0
+1135,2022,Northern Borders,Overnight Visitors,domestics_tourism,6,1,45107.0
+1136,2022,Northern Borders,Overnight Visitors,domestics_tourism,7,1,134903.0
+1137,2022,Northern Borders,Overnight Visitors,domestics_tourism,8,1,82483.0
+1138,2022,Northern Borders,Overnight Visitors,domestics_tourism,9,1,60338.0
+1139,2022,Northern Borders,Overnight Visitors,domestics_tourism,10,1,66126.0
+1140,2022,Northern Borders,Overnight Visitors,domestics_tourism,11,1,96409.0
+1141,2022,Northern Borders,Overnight Visitors,domestics_tourism,12,1,54444.0
+1142,2022,Northern Borders,SAR,domestics_tourism,1,1,299886586.69
+1143,2022,Northern Borders,SAR,domestics_tourism,2,1,340435269.13
+1144,2022,Northern Borders,SAR,domestics_tourism,3,1,194383356.12
+1145,2022,Northern Borders,SAR,domestics_tourism,4,1,176358251.4
+1146,2022,Northern Borders,SAR,domestics_tourism,5,1,209774551.9
+1147,2022,Northern Borders,SAR,domestics_tourism,6,1,131892626.4
+1148,2022,Northern Borders,SAR,domestics_tourism,7,1,493686343.07
+1149,2022,Northern Borders,SAR,domestics_tourism,8,1,335707040.3
+1150,2022,Northern Borders,SAR,domestics_tourism,9,1,100742633.51
+1151,2022,Northern Borders,SAR,domestics_tourism,10,1,94840254.54
+1152,2022,Northern Borders,SAR,domestics_tourism,11,1,133103423.11
+1153,2022,Northern Borders,SAR,domestics_tourism,12,1,63029455.36
+1154,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,1,2,7765.5
+1155,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,2,2,16124.5
+1156,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,3,2,31157.5
+1157,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,4,2,30131.0
+1158,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,5,2,28954.5
+1159,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,6,2,34043.5
+1160,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,7,2,64627.0
+1161,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,8,2,58465.0
+1162,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,9,2,19532.0
+1163,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,10,2,3299.5
+1164,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,11,2,4994.5
+1165,2022,Northern Borders Province,Overnight Visitors,inbound_tourism,12,2,147.0
+1166,2022,Northern Borders Province,SAR,inbound_tourism,1,2,7608454.24
+1167,2022,Northern Borders Province,SAR,inbound_tourism,2,2,7740252.78
+1168,2022,Northern Borders Province,SAR,inbound_tourism,3,2,14288559.78
+1169,2022,Northern Borders Province,SAR,inbound_tourism,4,2,21840506.035
+1170,2022,Northern Borders Province,SAR,inbound_tourism,5,2,20496496.4
+1171,2022,Northern Borders Province,SAR,inbound_tourism,6,2,30206655.985
+1172,2022,Northern Borders Province,SAR,inbound_tourism,7,2,46613675.86
+1173,2022,Northern Borders Province,SAR,inbound_tourism,8,2,42322348.715
+1174,2022,Northern Borders Province,SAR,inbound_tourism,9,2,12232466.48
+1175,2022,Northern Borders Province,SAR,inbound_tourism,10,2,7325908.09
+1176,2022,Northern Borders Province,SAR,inbound_tourism,11,2,6390373.5
+1177,2022,Northern Borders Province,SAR,inbound_tourism,12,2,356570.995
+1178,2022,Riyadh,Overnight Visitors,domestics_tourism,1,1,1653045.0
+1179,2022,Riyadh,Overnight Visitors,domestics_tourism,2,1,1464860.0
+1180,2022,Riyadh,Overnight Visitors,domestics_tourism,3,1,1478679.0
+1181,2022,Riyadh,Overnight Visitors,domestics_tourism,4,1,1082452.0
+1182,2022,Riyadh,Overnight Visitors,domestics_tourism,5,1,1623135.0
+1183,2022,Riyadh,Overnight Visitors,domestics_tourism,6,1,873794.0
+1184,2022,Riyadh,Overnight Visitors,domestics_tourism,7,1,1801836.0
+1185,2022,Riyadh,Overnight Visitors,domestics_tourism,8,1,1503380.0
+1186,2022,Riyadh,Overnight Visitors,domestics_tourism,9,1,891212.0
+1187,2022,Riyadh,Overnight Visitors,domestics_tourism,10,1,1149141.0
+1188,2022,Riyadh,Overnight Visitors,domestics_tourism,11,1,1643791.0
+1189,2022,Riyadh,Overnight Visitors,domestics_tourism,12,1,978457.0
+1190,2022,Riyadh,SAR,domestics_tourism,1,1,2626343102.92
+1191,2022,Riyadh,SAR,domestics_tourism,2,1,2368349938.89
+1192,2022,Riyadh,SAR,domestics_tourism,3,1,2263070631.19
+1193,2022,Riyadh,SAR,domestics_tourism,4,1,1449650324.51
+1194,2022,Riyadh,SAR,domestics_tourism,5,1,2341705111.6
+1195,2022,Riyadh,SAR,domestics_tourism,6,1,1312292114.39
+1196,2022,Riyadh,SAR,domestics_tourism,7,1,2748868808.36
+1197,2022,Riyadh,SAR,domestics_tourism,8,1,2750234369.57
+1198,2022,Riyadh,SAR,domestics_tourism,9,1,1428693961.77
+1199,2022,Riyadh,SAR,domestics_tourism,10,1,1737077956.18
+1200,2022,Riyadh,SAR,domestics_tourism,11,1,2508875563.52
+1201,2022,Riyadh,SAR,domestics_tourism,12,1,1411915914.68
+1202,2022,Riyadh Province,Overnight Visitors,inbound_tourism,1,2,46727.5
+1203,2022,Riyadh Province,Overnight Visitors,inbound_tourism,2,2,41303.5
+1204,2022,Riyadh Province,Overnight Visitors,inbound_tourism,3,2,77334.5
+1205,2022,Riyadh Province,Overnight Visitors,inbound_tourism,4,2,68470.5
+1206,2022,Riyadh Province,Overnight Visitors,inbound_tourism,5,2,62155.5
+1207,2022,Riyadh Province,Overnight Visitors,inbound_tourism,6,2,100516.5
+1208,2022,Riyadh Province,Overnight Visitors,inbound_tourism,7,2,100239.5
+1209,2022,Riyadh Province,Overnight Visitors,inbound_tourism,8,2,64037.5
+1210,2022,Riyadh Province,Overnight Visitors,inbound_tourism,9,2,90707.0
+1211,2022,Riyadh Province,Overnight Visitors,inbound_tourism,10,2,95790.0
+1212,2022,Riyadh Province,Overnight Visitors,inbound_tourism,11,2,88852.0
+1213,2022,Riyadh Province,Overnight Visitors,inbound_tourism,12,2,119181.5
+1214,2022,Riyadh Province,SAR,inbound_tourism,1,2,205809491.475
+1215,2022,Riyadh Province,SAR,inbound_tourism,2,2,299672608.07
+1216,2022,Riyadh Province,SAR,inbound_tourism,3,2,544602393.51
+1217,2022,Riyadh Province,SAR,inbound_tourism,4,2,541837640.39
+1218,2022,Riyadh Province,SAR,inbound_tourism,5,2,438899289.085
+1219,2022,Riyadh Province,SAR,inbound_tourism,6,2,568402331.545
+1220,2022,Riyadh Province,SAR,inbound_tourism,7,2,282735690.585
+1221,2022,Riyadh Province,SAR,inbound_tourism,8,2,364927507.57
+1222,2022,Riyadh Province,SAR,inbound_tourism,9,2,449756866.915
+1223,2022,Riyadh Province,SAR,inbound_tourism,10,2,617751861.89
+1224,2022,Riyadh Province,SAR,inbound_tourism,11,2,582718980.27
+1225,2022,Riyadh Province,SAR,inbound_tourism,12,2,870517940.935
+1226,2022,Tabuk,Overnight Visitors,domestics_tourism,1,1,302175.0
+1227,2022,Tabuk,Overnight Visitors,domestics_tourism,2,1,220168.0
+1228,2022,Tabuk,Overnight Visitors,domestics_tourism,3,1,194259.0
+1229,2022,Tabuk,Overnight Visitors,domestics_tourism,4,1,218853.0
+1230,2022,Tabuk,Overnight Visitors,domestics_tourism,5,1,246430.0
+1231,2022,Tabuk,Overnight Visitors,domestics_tourism,6,1,158157.0
+1232,2022,Tabuk,Overnight Visitors,domestics_tourism,7,1,361227.0
+1233,2022,Tabuk,Overnight Visitors,domestics_tourism,8,1,246464.0
+1234,2022,Tabuk,Overnight Visitors,domestics_tourism,9,1,145688.0
+1235,2022,Tabuk,Overnight Visitors,domestics_tourism,10,1,176982.0
+1236,2022,Tabuk,Overnight Visitors,domestics_tourism,11,1,205224.0
+1237,2022,Tabuk,Overnight Visitors,domestics_tourism,12,1,134512.0
+1238,2022,Tabuk,SAR,domestics_tourism,1,1,756611903.49
+1239,2022,Tabuk,SAR,domestics_tourism,2,1,503115818.58
+1240,2022,Tabuk,SAR,domestics_tourism,3,1,396467517.69
+1241,2022,Tabuk,SAR,domestics_tourism,4,1,346053136.75
+1242,2022,Tabuk,SAR,domestics_tourism,5,1,568517938.18
+1243,2022,Tabuk,SAR,domestics_tourism,6,1,432669681.76
+1244,2022,Tabuk,SAR,domestics_tourism,7,1,875841185.5
+1245,2022,Tabuk,SAR,domestics_tourism,8,1,422177251.98
+1246,2022,Tabuk,SAR,domestics_tourism,9,1,228139593.04
+1247,2022,Tabuk,SAR,domestics_tourism,10,1,449574342.41
+1248,2022,Tabuk,SAR,domestics_tourism,11,1,265020531.68
+1249,2022,Tabuk,SAR,domestics_tourism,12,1,134147760.91
+1250,2022,Tabuk Province,Overnight Visitors,inbound_tourism,1,1,3967.0
+1251,2022,Tabuk Province,Overnight Visitors,inbound_tourism,2,1,8965.0
+1252,2022,Tabuk Province,Overnight Visitors,inbound_tourism,3,1,43.0
+1253,2022,Tabuk Province,Overnight Visitors,inbound_tourism,4,1,7608.0
+1254,2022,Tabuk Province,Overnight Visitors,inbound_tourism,5,1,18472.0
+1255,2022,Tabuk Province,Overnight Visitors,inbound_tourism,6,1,10212.0
+1256,2022,Tabuk Province,Overnight Visitors,inbound_tourism,7,1,3963.0
+1257,2022,Tabuk Province,Overnight Visitors,inbound_tourism,9,1,17042.0
+1258,2022,Tabuk Province,Overnight Visitors,inbound_tourism,10,4,2072.0
+1259,2022,Tabuk Province,Overnight Visitors,inbound_tourism,11,3,1718.0
+1260,2022,Tabuk Province,Overnight Visitors,inbound_tourism,12,3,851.0
+1261,2022,Tabuk Province,SAR,inbound_tourism,1,1,11274087.24
+1262,2022,Tabuk Province,SAR,inbound_tourism,2,1,16102980.6
+1263,2022,Tabuk Province,SAR,inbound_tourism,3,1,129149.36
+1264,2022,Tabuk Province,SAR,inbound_tourism,4,1,12895922.45
+1265,2022,Tabuk Province,SAR,inbound_tourism,5,1,43286525.53
+1266,2022,Tabuk Province,SAR,inbound_tourism,6,1,19121353.41
+1267,2022,Tabuk Province,SAR,inbound_tourism,7,1,8239418.48
+1268,2022,Tabuk Province,SAR,inbound_tourism,9,1,152310391.38
+1269,2022,Tabuk Province,SAR,inbound_tourism,10,4,5129564.135
+1270,2022,Tabuk Province,SAR,inbound_tourism,11,3,4339994.03
+1271,2022,Tabuk Province,SAR,inbound_tourism,12,3,2983189.75
+1272,2022,Total,Overnight Visitors,domestics_tourism,1,1,7675160.0
+1273,2022,Total,Overnight Visitors,domestics_tourism,2,1,6449938.0
+1274,2022,Total,Overnight Visitors,domestics_tourism,3,1,6204755.0
+1275,2022,Total,Overnight Visitors,domestics_tourism,4,1,8036131.0
+1276,2022,Total,Overnight Visitors,domestics_tourism,5,1,7246109.0
+1277,2022,Total,Overnight Visitors,domestics_tourism,6,1,4032787.0
+1278,2022,Total,Overnight Visitors,domestics_tourism,7,1,10795554.0
+1279,2022,Total,Overnight Visitors,domestics_tourism,8,1,7008438.0
+1280,2022,Total,Overnight Visitors,domestics_tourism,9,1,4196039.0
+1281,2022,Total,Overnight Visitors,domestics_tourism,10,1,4838186.0
+1282,2022,Total,Overnight Visitors,domestics_tourism,11,1,7003149.0
+1283,2022,Total,Overnight Visitors,domestics_tourism,12,1,4350255.0
+1284,2022,Total,Overnight Visitors,inbound_tourism,1,1,548936.0
+1285,2022,Total,Overnight Visitors,inbound_tourism,2,1,689040.0
+1286,2022,Total,Overnight Visitors,inbound_tourism,3,1,1217114.0
+1287,2022,Total,Overnight Visitors,inbound_tourism,4,1,1612487.0
+1288,2022,Total,Overnight Visitors,inbound_tourism,5,1,1104371.0
+1289,2022,Total,Overnight Visitors,inbound_tourism,6,1,867216.0
+1290,2022,Total,Overnight Visitors,inbound_tourism,7,1,1765626.0
+1291,2022,Total,Overnight Visitors,inbound_tourism,8,1,1310573.0
+1292,2022,Total,Overnight Visitors,inbound_tourism,9,1,1538977.0
+1293,2022,Total,Overnight Visitors,inbound_tourism,10,1,1752774.0
+1294,2022,Total,Overnight Visitors,inbound_tourism,11,1,1840021.0
+1295,2022,Total,Overnight Visitors,inbound_tourism,12,1,2390726.0
+1296,2022,Total,SAR,domestics_tourism,6,1,6001153798.53
+1297,2022,Total,SAR,domestics_tourism,9,1,5232272873.4
+1298,2022,Total,SAR,domestics_tourism,10,1,5944044152.66
+1299,2022,Total,SAR,domestics_tourism,12,1,4508348246.41
+1300,2022,Total,SAR,inbound_tourism,1,1,3147170615.18
+1301,2022,Total,SAR,inbound_tourism,6,1,3717671072.16
+1302,2023,Al Bahah,Overnight Visitors,domestics_tourism,1,1,39183.0
+1303,2023,Al Bahah,Overnight Visitors,domestics_tourism,2,1,30045.0
+1304,2023,Al Bahah,Overnight Visitors,domestics_tourism,3,1,53008.0
+1305,2023,Al Bahah,Overnight Visitors,domestics_tourism,4,1,69457.0
+1306,2023,Al Bahah,Overnight Visitors,domestics_tourism,5,1,60160.0
+1307,2023,Al Bahah,Overnight Visitors,domestics_tourism,6,1,265081.0
+1308,2023,Al Bahah,Overnight Visitors,domestics_tourism,7,1,249008.0
+1309,2023,Al Bahah,Overnight Visitors,domestics_tourism,8,1,104824.0
+1310,2023,Al Bahah,Overnight Visitors,domestics_tourism,9,1,62547.0
+1311,2023,Al Bahah,Overnight Visitors,domestics_tourism,10,1,40069.0
+1312,2023,Al Bahah,Overnight Visitors,domestics_tourism,11,1,53722.0
+1313,2023,Al Bahah,Overnight Visitors,domestics_tourism,12,1,43725.0
+1314,2023,Al Bahah,SAR,domestics_tourism,1,1,32259515.85
+1315,2023,Al Bahah,SAR,domestics_tourism,2,1,44424048.12
+1316,2023,Al Bahah,SAR,domestics_tourism,3,1,59309281.1
+1317,2023,Al Bahah,SAR,domestics_tourism,4,1,90482742.81
+1318,2023,Al Bahah,SAR,domestics_tourism,5,1,60308176.08
+1319,2023,Al Bahah,SAR,domestics_tourism,6,1,333593080.01
+1320,2023,Al Bahah,SAR,domestics_tourism,7,1,345643555.62
+1321,2023,Al Bahah,SAR,domestics_tourism,8,1,87179752.63
+1322,2023,Al Bahah,SAR,domestics_tourism,9,1,52442867.93
+1323,2023,Al Bahah,SAR,domestics_tourism,10,1,46273684.65
+1324,2023,Al Bahah,SAR,domestics_tourism,11,1,39580898.74
+1325,2023,Al Bahah,SAR,domestics_tourism,12,1,45747470.53
+1326,2023,AlQassim,Overnight Visitors,domestics_tourism,1,1,279751.0
+1327,2023,AlQassim,Overnight Visitors,domestics_tourism,2,1,438099.0
+1328,2023,AlQassim,Overnight Visitors,domestics_tourism,3,1,312158.0
+1329,2023,AlQassim,Overnight Visitors,domestics_tourism,4,1,573190.0
+1330,2023,AlQassim,Overnight Visitors,domestics_tourism,5,1,239156.0
+1331,2023,AlQassim,Overnight Visitors,domestics_tourism,6,1,616403.0
+1332,2023,AlQassim,Overnight Visitors,domestics_tourism,7,1,384155.0
+1333,2023,AlQassim,Overnight Visitors,domestics_tourism,8,1,304713.0
+1334,2023,AlQassim,Overnight Visitors,domestics_tourism,9,1,306215.0
+1335,2023,AlQassim,Overnight Visitors,domestics_tourism,10,1,321187.0
+1336,2023,AlQassim,Overnight Visitors,domestics_tourism,11,1,454746.0
+1337,2023,AlQassim,Overnight Visitors,domestics_tourism,12,1,334759.0
+1338,2023,AlQassim,SAR,domestics_tourism,1,1,287333543.31
+1339,2023,AlQassim,SAR,domestics_tourism,2,1,448811010.16
+1340,2023,AlQassim,SAR,domestics_tourism,3,1,385995850.9
+1341,2023,AlQassim,SAR,domestics_tourism,4,1,692933820.6
+1342,2023,AlQassim,SAR,domestics_tourism,5,1,328844999.02
+1343,2023,AlQassim,SAR,domestics_tourism,6,1,789866877.69
+1344,2023,AlQassim,SAR,domestics_tourism,7,1,545137601.48
+1345,2023,AlQassim,SAR,domestics_tourism,8,1,421191519.6
+1346,2023,AlQassim,SAR,domestics_tourism,9,1,269280241.79
+1347,2023,AlQassim,SAR,domestics_tourism,10,1,559250754.81
+1348,2023,AlQassim,SAR,domestics_tourism,11,1,497989963.63
+1349,2023,AlQassim,SAR,domestics_tourism,12,1,427476890.07
+1350,2023,AlQassim Province,Overnight Visitors,inbound_tourism,1,4,2300.0
+1351,2023,AlQassim Province,Overnight Visitors,inbound_tourism,2,3,3196.3333333333335
+1352,2023,AlQassim Province,Overnight Visitors,inbound_tourism,3,4,4325.0
+1353,2023,AlQassim Province,Overnight Visitors,inbound_tourism,4,3,663.3333333333334
+1354,2023,AlQassim Province,Overnight Visitors,inbound_tourism,5,3,2540.3333333333335
+1355,2023,AlQassim Province,Overnight Visitors,inbound_tourism,6,3,1576.6666666666667
+1356,2023,AlQassim Province,Overnight Visitors,inbound_tourism,7,4,4864.25
+1357,2023,AlQassim Province,Overnight Visitors,inbound_tourism,8,3,3843.0
+1358,2023,AlQassim Province,Overnight Visitors,inbound_tourism,9,4,3597.75
+1359,2023,AlQassim Province,Overnight Visitors,inbound_tourism,10,3,1521.3333333333333
+1360,2023,AlQassim Province,Overnight Visitors,inbound_tourism,11,3,3140.3333333333335
+1361,2023,AlQassim Province,Overnight Visitors,inbound_tourism,12,3,5487.0
+1362,2023,AlQassim Province,SAR,inbound_tourism,1,4,5350510.975
+1363,2023,AlQassim Province,SAR,inbound_tourism,2,3,9906731.226666667
+1364,2023,AlQassim Province,SAR,inbound_tourism,3,4,14298593.620000001
+1365,2023,AlQassim Province,SAR,inbound_tourism,4,3,1747219.5333333332
+1366,2023,AlQassim Province,SAR,inbound_tourism,5,3,6424645.253333333
+1367,2023,AlQassim Province,SAR,inbound_tourism,6,3,5222283.636666667
+1368,2023,AlQassim Province,SAR,inbound_tourism,7,4,8362114.595
+1369,2023,AlQassim Province,SAR,inbound_tourism,8,3,8223331.153333333
+1370,2023,AlQassim Province,SAR,inbound_tourism,9,4,7965548.9799999995
+1371,2023,AlQassim Province,SAR,inbound_tourism,10,3,3021339.78
+1372,2023,AlQassim Province,SAR,inbound_tourism,11,3,4659357.963333334
+1373,2023,AlQassim Province,SAR,inbound_tourism,12,3,8930398.386666665
+1374,2023,Albaha province,Overnight Visitors,inbound_tourism,1,1,340.0
+1375,2023,Albaha province,Overnight Visitors,inbound_tourism,5,1,1188.0
+1376,2023,Albaha province,Overnight Visitors,inbound_tourism,7,1,1383.0
+1377,2023,Albaha province,Overnight Visitors,inbound_tourism,8,1,8195.0
+1378,2023,Albaha province,Overnight Visitors,inbound_tourism,9,1,3031.0
+1379,2023,Albaha province,Overnight Visitors,inbound_tourism,10,1,1703.0
+1380,2023,Albaha province,Overnight Visitors,inbound_tourism,11,1,415.0
+1381,2023,Albaha province,Overnight Visitors,inbound_tourism,12,1,2.0
+1382,2023,Albaha province,SAR,inbound_tourism,1,1,1478175.45
+1383,2023,Albaha province,SAR,inbound_tourism,5,1,2827553.99
+1384,2023,Albaha province,SAR,inbound_tourism,7,1,3972836.47
+1385,2023,Albaha province,SAR,inbound_tourism,8,1,21871808.1
+1386,2023,Albaha province,SAR,inbound_tourism,9,1,7814897.52
+1387,2023,Albaha province,SAR,inbound_tourism,10,1,4564939.33
+1388,2023,Albaha province,SAR,inbound_tourism,11,1,773543.19
+1389,2023,Albaha province,SAR,inbound_tourism,12,1,3456.77
+1390,2023,Aseer,Overnight Visitors,domestics_tourism,1,1,540122.0
+1391,2023,Aseer,Overnight Visitors,domestics_tourism,2,1,448544.0
+1392,2023,Aseer,Overnight Visitors,domestics_tourism,3,1,501582.0
+1393,2023,Aseer,Overnight Visitors,domestics_tourism,4,1,495447.0
+1394,2023,Aseer,Overnight Visitors,domestics_tourism,5,1,413729.0
+1395,2023,Aseer,Overnight Visitors,domestics_tourism,6,1,1293412.0
+1396,2023,Aseer,Overnight Visitors,domestics_tourism,7,1,1192372.0
+1397,2023,Aseer,Overnight Visitors,domestics_tourism,8,1,646052.0
+1398,2023,Aseer,Overnight Visitors,domestics_tourism,9,1,470275.0
+1399,2023,Aseer,Overnight Visitors,domestics_tourism,10,1,456876.0
+1400,2023,Aseer,Overnight Visitors,domestics_tourism,11,1,641634.0
+1401,2023,Aseer,Overnight Visitors,domestics_tourism,12,1,556564.0
+1402,2023,Aseer,SAR,domestics_tourism,1,1,628210473.23
+1403,2023,Aseer,SAR,domestics_tourism,2,1,651126650.17
+1404,2023,Aseer,SAR,domestics_tourism,3,1,669807178.96
+1405,2023,Aseer,SAR,domestics_tourism,4,1,735947550.38
+1406,2023,Aseer,SAR,domestics_tourism,5,1,469044608.9
+1407,2023,Aseer,SAR,domestics_tourism,6,1,1895929410.85
+1408,2023,Aseer,SAR,domestics_tourism,7,1,1909364782.91
+1409,2023,Aseer,SAR,domestics_tourism,8,1,711899089.45
+1410,2023,Aseer,SAR,domestics_tourism,9,1,605214900.97
+1411,2023,Aseer,SAR,domestics_tourism,10,1,725467903.48
+1412,2023,Aseer,SAR,domestics_tourism,11,1,810847895.96
+1413,2023,Aseer,SAR,domestics_tourism,12,1,768315366.19
+1414,2023,Aseer Province,Overnight Visitors,inbound_tourism,1,3,4176.0
+1415,2023,Aseer Province,Overnight Visitors,inbound_tourism,2,3,4186.666666666667
+1416,2023,Aseer Province,Overnight Visitors,inbound_tourism,3,3,4413.666666666667
+1417,2023,Aseer Province,Overnight Visitors,inbound_tourism,4,3,4805.666666666667
+1418,2023,Aseer Province,Overnight Visitors,inbound_tourism,5,3,2768.6666666666665
+1419,2023,Aseer Province,Overnight Visitors,inbound_tourism,6,3,2877.0
+1420,2023,Aseer Province,Overnight Visitors,inbound_tourism,7,3,6359.0
+1421,2023,Aseer Province,Overnight Visitors,inbound_tourism,8,3,9469.0
+1422,2023,Aseer Province,Overnight Visitors,inbound_tourism,9,3,5958.666666666667
+1423,2023,Aseer Province,Overnight Visitors,inbound_tourism,10,3,5308.0
+1424,2023,Aseer Province,Overnight Visitors,inbound_tourism,11,3,4840.666666666667
+1425,2023,Aseer Province,Overnight Visitors,inbound_tourism,12,3,7138.666666666667
+1426,2023,Aseer Province,SAR,inbound_tourism,1,3,23738757.45
+1427,2023,Aseer Province,SAR,inbound_tourism,2,3,19263217.44333333
+1428,2023,Aseer Province,SAR,inbound_tourism,3,3,42068452.53666667
+1429,2023,Aseer Province,SAR,inbound_tourism,4,3,37753661.95
+1430,2023,Aseer Province,SAR,inbound_tourism,5,3,32534075.02666667
+1431,2023,Aseer Province,SAR,inbound_tourism,6,3,12786423.829999998
+1432,2023,Aseer Province,SAR,inbound_tourism,7,3,17866072.11
+1433,2023,Aseer Province,SAR,inbound_tourism,8,3,26655471.013333336
+1434,2023,Aseer Province,SAR,inbound_tourism,9,3,17806155.746666666
+1435,2023,Aseer Province,SAR,inbound_tourism,10,3,13827841.293333331
+1436,2023,Aseer Province,SAR,inbound_tourism,11,3,14423226.06
+1437,2023,Aseer Province,SAR,inbound_tourism,12,3,15633842.093333334
+1438,2023,Eastern Province,Overnight Visitors,domestics_tourism,1,1,956874.0
+1439,2023,Eastern Province,Overnight Visitors,domestics_tourism,2,1,936612.0
+1440,2023,Eastern Province,Overnight Visitors,domestics_tourism,3,1,1117327.0
+1441,2023,Eastern Province,Overnight Visitors,domestics_tourism,4,1,1141790.0
+1442,2023,Eastern Province,Overnight Visitors,domestics_tourism,5,1,902744.0
+1443,2023,Eastern Province,Overnight Visitors,domestics_tourism,6,1,1395174.0
+1444,2023,Eastern Province,Overnight Visitors,domestics_tourism,7,1,1222664.0
+1445,2023,Eastern Province,Overnight Visitors,domestics_tourism,8,1,1197714.0
+1446,2023,Eastern Province,Overnight Visitors,domestics_tourism,9,1,1092625.0
+1447,2023,Eastern Province,Overnight Visitors,domestics_tourism,10,1,1071765.0
+1448,2023,Eastern Province,Overnight Visitors,domestics_tourism,11,1,1404080.0
+1449,2023,Eastern Province,Overnight Visitors,domestics_tourism,12,1,1017995.0
+1450,2023,Eastern Province,Overnight Visitors,inbound_tourism,1,4,158232.75
+1451,2023,Eastern Province,Overnight Visitors,inbound_tourism,2,4,123147.25
+1452,2023,Eastern Province,Overnight Visitors,inbound_tourism,3,4,115631.75
+1453,2023,Eastern Province,Overnight Visitors,inbound_tourism,4,4,128280.25
+1454,2023,Eastern Province,Overnight Visitors,inbound_tourism,5,4,88676.25
+1455,2023,Eastern Province,Overnight Visitors,inbound_tourism,6,4,120665.75
+1456,2023,Eastern Province,Overnight Visitors,inbound_tourism,7,4,120471.0
+1457,2023,Eastern Province,Overnight Visitors,inbound_tourism,8,4,137876.25
+1458,2023,Eastern Province,Overnight Visitors,inbound_tourism,9,4,104734.0
+1459,2023,Eastern Province,Overnight Visitors,inbound_tourism,10,4,95411.0
+1460,2023,Eastern Province,Overnight Visitors,inbound_tourism,11,4,92279.0
+1461,2023,Eastern Province,Overnight Visitors,inbound_tourism,12,4,131435.75
+1462,2023,Eastern Province,SAR,domestics_tourism,1,1,1038780546.58
+1463,2023,Eastern Province,SAR,domestics_tourism,2,1,1143373256.21
+1464,2023,Eastern Province,SAR,domestics_tourism,3,1,1423126473.49
+1465,2023,Eastern Province,SAR,domestics_tourism,4,1,1481223649.1
+1466,2023,Eastern Province,SAR,domestics_tourism,5,1,1281479060.72
+1467,2023,Eastern Province,SAR,domestics_tourism,6,1,1681866034.06
+1468,2023,Eastern Province,SAR,domestics_tourism,7,1,1511213106.47
+1469,2023,Eastern Province,SAR,domestics_tourism,8,1,1541475919.28
+1470,2023,Eastern Province,SAR,domestics_tourism,9,1,1526308843.29
+1471,2023,Eastern Province,SAR,domestics_tourism,10,1,1404267760.19
+1472,2023,Eastern Province,SAR,domestics_tourism,11,1,1652264468.18
+1473,2023,Eastern Province,SAR,domestics_tourism,12,1,1106544241.29
+1474,2023,Eastern Province,SAR,inbound_tourism,1,4,334542365.6075
+1475,2023,Eastern Province,SAR,inbound_tourism,2,4,282099338.39
+1476,2023,Eastern Province,SAR,inbound_tourism,3,4,226587465.4625
+1477,2023,Eastern Province,SAR,inbound_tourism,4,4,251132623.6425
+1478,2023,Eastern Province,SAR,inbound_tourism,5,4,267268287.6975
+1479,2023,Eastern Province,SAR,inbound_tourism,6,4,219651078.9725
+1480,2023,Eastern Province,SAR,inbound_tourism,7,4,226242362.70499998
+1481,2023,Eastern Province,SAR,inbound_tourism,8,4,216625219.57999998
+1482,2023,Eastern Province,SAR,inbound_tourism,9,4,164065603.86
+1483,2023,Eastern Province,SAR,inbound_tourism,10,4,173320598.94750002
+1484,2023,Eastern Province,SAR,inbound_tourism,11,4,216049084.83999997
+1485,2023,Eastern Province,SAR,inbound_tourism,12,4,181752623.2
+1486,2023,Hail,Overnight Visitors,domestics_tourism,1,1,124398.0
+1487,2023,Hail,Overnight Visitors,domestics_tourism,2,1,127236.0
+1488,2023,Hail,Overnight Visitors,domestics_tourism,3,1,201187.0
+1489,2023,Hail,Overnight Visitors,domestics_tourism,4,1,163058.0
+1490,2023,Hail,Overnight Visitors,domestics_tourism,5,1,98837.0
+1491,2023,Hail,Overnight Visitors,domestics_tourism,6,1,241338.0
+1492,2023,Hail,Overnight Visitors,domestics_tourism,7,1,130601.0
+1493,2023,Hail,Overnight Visitors,domestics_tourism,8,1,134874.0
+1494,2023,Hail,Overnight Visitors,domestics_tourism,9,1,141959.0
+1495,2023,Hail,Overnight Visitors,domestics_tourism,10,1,124394.0
+1496,2023,Hail,Overnight Visitors,domestics_tourism,11,1,216386.0
+1497,2023,Hail,Overnight Visitors,domestics_tourism,12,1,131549.0
+1498,2023,Hail,SAR,domestics_tourism,1,1,203215462.33
+1499,2023,Hail,SAR,domestics_tourism,2,1,178383095.16
+1500,2023,Hail,SAR,domestics_tourism,3,1,243875162.53
+1501,2023,Hail,SAR,domestics_tourism,4,1,282337931.5
+1502,2023,Hail,SAR,domestics_tourism,5,1,158954442.91
+1503,2023,Hail,SAR,domestics_tourism,6,1,369684068.35
+1504,2023,Hail,SAR,domestics_tourism,7,1,201965979.87
+1505,2023,Hail,SAR,domestics_tourism,8,1,166100533.99
+1506,2023,Hail,SAR,domestics_tourism,9,1,303571791.41
+1507,2023,Hail,SAR,domestics_tourism,10,1,182639236.02
+1508,2023,Hail,SAR,domestics_tourism,11,1,255884048.22
+1509,2023,Hail,SAR,domestics_tourism,12,1,233608853.23
+1510,2023,Hail Province,Overnight Visitors,inbound_tourism,1,1,28913.0
+1511,2023,Hail Province,Overnight Visitors,inbound_tourism,2,1,27920.0
+1512,2023,Hail Province,Overnight Visitors,inbound_tourism,3,1,51614.0
+1513,2023,Hail Province,Overnight Visitors,inbound_tourism,4,1,29591.0
+1514,2023,Hail Province,Overnight Visitors,inbound_tourism,5,1,49748.0
+1515,2023,Hail Province,Overnight Visitors,inbound_tourism,6,1,20201.0
+1516,2023,Hail Province,Overnight Visitors,inbound_tourism,7,1,24251.0
+1517,2023,Hail Province,Overnight Visitors,inbound_tourism,8,1,26448.0
+1518,2023,Hail Province,Overnight Visitors,inbound_tourism,9,1,29867.0
+1519,2023,Hail Province,Overnight Visitors,inbound_tourism,10,1,25985.0
+1520,2023,Hail Province,Overnight Visitors,inbound_tourism,11,1,19992.0
+1521,2023,Hail Province,Overnight Visitors,inbound_tourism,12,1,23290.0
+1522,2023,Hail Province,SAR,inbound_tourism,1,1,80905150.88
+1523,2023,Hail Province,SAR,inbound_tourism,2,1,341555952.22
+1524,2023,Hail Province,SAR,inbound_tourism,3,1,446833800.22
+1525,2023,Hail Province,SAR,inbound_tourism,4,1,61958759.28
+1526,2023,Hail Province,SAR,inbound_tourism,5,1,597894850.62
+1527,2023,Hail Province,SAR,inbound_tourism,6,1,103741513.81
+1528,2023,Hail Province,SAR,inbound_tourism,7,1,95752114.81
+1529,2023,Hail Province,SAR,inbound_tourism,8,1,100630816.29
+1530,2023,Hail Province,SAR,inbound_tourism,9,1,134883213.99
+1531,2023,Hail Province,SAR,inbound_tourism,10,1,137343800.04
+1532,2023,Hail Province,SAR,inbound_tourism,11,1,93082466.42
+1533,2023,Hail Province,SAR,inbound_tourism,12,1,78485969.98
+1534,2023,Jazan,Overnight Visitors,domestics_tourism,1,1,374146.0
+1535,2023,Jazan,Overnight Visitors,domestics_tourism,2,1,246886.0
+1536,2023,Jazan,Overnight Visitors,domestics_tourism,3,1,188810.0
+1537,2023,Jazan,Overnight Visitors,domestics_tourism,4,1,190129.0
+1538,2023,Jazan,Overnight Visitors,domestics_tourism,5,1,78674.0
+1539,2023,Jazan,Overnight Visitors,domestics_tourism,6,1,152348.0
+1540,2023,Jazan,Overnight Visitors,domestics_tourism,7,1,113161.0
+1541,2023,Jazan,Overnight Visitors,domestics_tourism,8,1,130252.0
+1542,2023,Jazan,Overnight Visitors,domestics_tourism,9,1,116191.0
+1543,2023,Jazan,Overnight Visitors,domestics_tourism,10,1,122749.0
+1544,2023,Jazan,Overnight Visitors,domestics_tourism,11,1,254341.0
+1545,2023,Jazan,Overnight Visitors,domestics_tourism,12,1,204674.0
+1546,2023,Jazan,SAR,domestics_tourism,1,1,297658226.25
+1547,2023,Jazan,SAR,domestics_tourism,2,1,207199485.9
+1548,2023,Jazan,SAR,domestics_tourism,3,1,295199315.6
+1549,2023,Jazan,SAR,domestics_tourism,4,1,286632691.95
+1550,2023,Jazan,SAR,domestics_tourism,5,1,104607087.61
+1551,2023,Jazan,SAR,domestics_tourism,6,1,267506903.56
+1552,2023,Jazan,SAR,domestics_tourism,7,1,138910048.06
+1553,2023,Jazan,SAR,domestics_tourism,8,1,187360471.91
+1554,2023,Jazan,SAR,domestics_tourism,9,1,151310717.77
+1555,2023,Jazan,SAR,domestics_tourism,10,1,129112931.69
+1556,2023,Jazan,SAR,domestics_tourism,11,1,361109266.61
+1557,2023,Jazan,SAR,domestics_tourism,12,1,243066901.71
+1558,2023,Jazan Province,Overnight Visitors,inbound_tourism,1,2,1261.5
+1559,2023,Jazan Province,Overnight Visitors,inbound_tourism,2,2,2121.0
+1560,2023,Jazan Province,Overnight Visitors,inbound_tourism,3,2,705.0
+1561,2023,Jazan Province,Overnight Visitors,inbound_tourism,4,2,50.0
+1562,2023,Jazan Province,Overnight Visitors,inbound_tourism,5,2,602.5
+1563,2023,Jazan Province,Overnight Visitors,inbound_tourism,6,2,596.0
+1564,2023,Jazan Province,Overnight Visitors,inbound_tourism,7,2,441.5
+1565,2023,Jazan Province,Overnight Visitors,inbound_tourism,8,2,411.0
+1566,2023,Jazan Province,Overnight Visitors,inbound_tourism,9,1,0.0
+1567,2023,Jazan Province,Overnight Visitors,inbound_tourism,10,2,11.0
+1568,2023,Jazan Province,Overnight Visitors,inbound_tourism,11,2,513.5
+1569,2023,Jazan Province,Overnight Visitors,inbound_tourism,12,1,1424.0
+1570,2023,Jazan Province,SAR,inbound_tourism,1,2,3279667.2800000003
+1571,2023,Jazan Province,SAR,inbound_tourism,2,2,8824388.46
+1572,2023,Jazan Province,SAR,inbound_tourism,3,2,2356695.815
+1573,2023,Jazan Province,SAR,inbound_tourism,4,2,311491.66
+1574,2023,Jazan Province,SAR,inbound_tourism,5,2,2575317.4699999997
+1575,2023,Jazan Province,SAR,inbound_tourism,6,2,1334689.82
+1576,2023,Jazan Province,SAR,inbound_tourism,7,2,1043585.94
+1577,2023,Jazan Province,SAR,inbound_tourism,8,2,975451.18
+1578,2023,Jazan Province,SAR,inbound_tourism,9,1,0.0
+1579,2023,Jazan Province,SAR,inbound_tourism,10,2,27610.415
+1580,2023,Jazan Province,SAR,inbound_tourism,11,2,992430.885
+1581,2023,Jazan Province,SAR,inbound_tourism,12,1,2549193.21
+1582,2023,Jouf,Overnight Visitors,domestics_tourism,1,1,74255.0
+1583,2023,Jouf,Overnight Visitors,domestics_tourism,2,1,79146.0
+1584,2023,Jouf,Overnight Visitors,domestics_tourism,3,1,97938.0
+1585,2023,Jouf,Overnight Visitors,domestics_tourism,4,1,98404.0
+1586,2023,Jouf,Overnight Visitors,domestics_tourism,5,1,63512.0
+1587,2023,Jouf,Overnight Visitors,domestics_tourism,6,1,140792.0
+1588,2023,Jouf,Overnight Visitors,domestics_tourism,7,1,100025.0
+1589,2023,Jouf,Overnight Visitors,domestics_tourism,8,1,82476.0
+1590,2023,Jouf,Overnight Visitors,domestics_tourism,9,1,90373.0
+1591,2023,Jouf,Overnight Visitors,domestics_tourism,10,1,89601.0
+1592,2023,Jouf,Overnight Visitors,domestics_tourism,11,1,135644.0
+1593,2023,Jouf,Overnight Visitors,domestics_tourism,12,1,86711.0
+1594,2023,Jouf,SAR,domestics_tourism,1,1,131689080.81
+1595,2023,Jouf,SAR,domestics_tourism,2,1,149182207.25
+1596,2023,Jouf,SAR,domestics_tourism,3,1,140012221.2
+1597,2023,Jouf,SAR,domestics_tourism,4,1,119424114.09
+1598,2023,Jouf,SAR,domestics_tourism,5,1,66347488.01
+1599,2023,Jouf,SAR,domestics_tourism,6,1,188805278.71
+1600,2023,Jouf,SAR,domestics_tourism,7,1,241909400.35
+1601,2023,Jouf,SAR,domestics_tourism,8,1,103321666.85
+1602,2023,Jouf,SAR,domestics_tourism,9,1,99242542.09
+1603,2023,Jouf,SAR,domestics_tourism,10,1,142314923.47
+1604,2023,Jouf,SAR,domestics_tourism,11,1,190255766.73
+1605,2023,Jouf,SAR,domestics_tourism,12,1,110642758.25
+1606,2023,Jouf Province,Overnight Visitors,inbound_tourism,1,3,5512.333333333333
+1607,2023,Jouf Province,Overnight Visitors,inbound_tourism,2,3,3342.6666666666665
+1608,2023,Jouf Province,Overnight Visitors,inbound_tourism,3,2,8761.0
+1609,2023,Jouf Province,Overnight Visitors,inbound_tourism,4,2,6481.0
+1610,2023,Jouf Province,Overnight Visitors,inbound_tourism,5,3,5254.333333333333
+1611,2023,Jouf Province,Overnight Visitors,inbound_tourism,6,2,6948.5
+1612,2023,Jouf Province,Overnight Visitors,inbound_tourism,7,3,4952.666666666667
+1613,2023,Jouf Province,Overnight Visitors,inbound_tourism,8,3,6454.0
+1614,2023,Jouf Province,Overnight Visitors,inbound_tourism,9,3,5080.333333333333
+1615,2023,Jouf Province,Overnight Visitors,inbound_tourism,10,3,5217.333333333333
+1616,2023,Jouf Province,Overnight Visitors,inbound_tourism,11,3,6165.0
+1617,2023,Jouf Province,Overnight Visitors,inbound_tourism,12,2,13195.5
+1618,2023,Jouf Province,SAR,inbound_tourism,1,3,17503160.21666667
+1619,2023,Jouf Province,SAR,inbound_tourism,2,3,13530946.686666667
+1620,2023,Jouf Province,SAR,inbound_tourism,3,2,37758489.875
+1621,2023,Jouf Province,SAR,inbound_tourism,4,2,11288629.295
+1622,2023,Jouf Province,SAR,inbound_tourism,5,3,18083632.526666667
+1623,2023,Jouf Province,SAR,inbound_tourism,6,2,21073049.965
+1624,2023,Jouf Province,SAR,inbound_tourism,7,3,6572778.966666666
+1625,2023,Jouf Province,SAR,inbound_tourism,8,3,10525377.81
+1626,2023,Jouf Province,SAR,inbound_tourism,9,3,5556708.239999999
+1627,2023,Jouf Province,SAR,inbound_tourism,10,3,7093424.393333334
+1628,2023,Jouf Province,SAR,inbound_tourism,11,3,11571485.576666668
+1629,2023,Jouf Province,SAR,inbound_tourism,12,2,12988805.01
+1630,2023,Madinah,Overnight Visitors,domestics_tourism,1,1,424782.0
+1631,2023,Madinah,Overnight Visitors,domestics_tourism,2,1,390244.0
+1632,2023,Madinah,Overnight Visitors,domestics_tourism,3,1,500722.0
+1633,2023,Madinah,Overnight Visitors,domestics_tourism,4,1,553587.0
+1634,2023,Madinah,Overnight Visitors,domestics_tourism,5,1,353315.0
+1635,2023,Madinah,Overnight Visitors,domestics_tourism,6,1,650764.0
+1636,2023,Madinah,Overnight Visitors,domestics_tourism,7,1,523139.0
+1637,2023,Madinah,Overnight Visitors,domestics_tourism,8,1,525512.0
+1638,2023,Madinah,Overnight Visitors,domestics_tourism,9,1,454869.0
+1639,2023,Madinah,Overnight Visitors,domestics_tourism,10,1,444321.0
+1640,2023,Madinah,Overnight Visitors,domestics_tourism,11,1,678525.0
+1641,2023,Madinah,Overnight Visitors,domestics_tourism,12,1,503420.0
+1642,2023,Madinah,SAR,domestics_tourism,1,1,456189849.99
+1643,2023,Madinah,SAR,domestics_tourism,2,1,430928872.48
+1644,2023,Madinah,SAR,domestics_tourism,3,1,646830190.55
+1645,2023,Madinah,SAR,domestics_tourism,4,1,585522793.09
+1646,2023,Madinah,SAR,domestics_tourism,5,1,373609572.47
+1647,2023,Madinah,SAR,domestics_tourism,6,1,689960043.58
+1648,2023,Madinah,SAR,domestics_tourism,7,1,439188406.43
+1649,2023,Madinah,SAR,domestics_tourism,8,1,527780902.65
+1650,2023,Madinah,SAR,domestics_tourism,9,1,468771268.07
+1651,2023,Madinah,SAR,domestics_tourism,10,1,406987207.2
+1652,2023,Madinah,SAR,domestics_tourism,11,1,642794451.34
+1653,2023,Madinah,SAR,domestics_tourism,12,1,596799989.9
+1654,2023,Madinah Province,Overnight Visitors,inbound_tourism,1,3,7250.333333333333
+1655,2023,Madinah Province,Overnight Visitors,inbound_tourism,2,4,7365.5
+1656,2023,Madinah Province,Overnight Visitors,inbound_tourism,3,4,6298.5
+1657,2023,Madinah Province,Overnight Visitors,inbound_tourism,4,4,15864.0
+1658,2023,Madinah Province,Overnight Visitors,inbound_tourism,5,3,4887.0
+1659,2023,Madinah Province,Overnight Visitors,inbound_tourism,6,3,5282.0
+1660,2023,Madinah Province,Overnight Visitors,inbound_tourism,7,4,10942.0
+1661,2023,Madinah Province,Overnight Visitors,inbound_tourism,8,3,5867.666666666667
+1662,2023,Madinah Province,Overnight Visitors,inbound_tourism,9,4,6528.5
+1663,2023,Madinah Province,Overnight Visitors,inbound_tourism,10,4,5111.25
+1664,2023,Madinah Province,Overnight Visitors,inbound_tourism,11,4,3105.25
+1665,2023,Madinah Province,Overnight Visitors,inbound_tourism,12,4,7586.75
+1666,2023,Madinah Province,SAR,inbound_tourism,1,3,24044208.153333336
+1667,2023,Madinah Province,SAR,inbound_tourism,2,4,27184767.5425
+1668,2023,Madinah Province,SAR,inbound_tourism,3,4,27796266.4125
+1669,2023,Madinah Province,SAR,inbound_tourism,4,4,116971562.55749999
+1670,2023,Madinah Province,SAR,inbound_tourism,5,3,21439816.896666665
+1671,2023,Madinah Province,SAR,inbound_tourism,6,3,23717621.75
+1672,2023,Madinah Province,SAR,inbound_tourism,7,4,44326042.7175
+1673,2023,Madinah Province,SAR,inbound_tourism,8,3,15596653.236666666
+1674,2023,Madinah Province,SAR,inbound_tourism,9,4,20450958.495
+1675,2023,Madinah Province,SAR,inbound_tourism,10,4,15085776.015
+1676,2023,Madinah Province,SAR,inbound_tourism,11,4,5560821.005
+1677,2023,Madinah Province,SAR,inbound_tourism,12,4,13395013.1075
+1678,2023,Makkah,Overnight Visitors,domestics_tourism,1,1,1723958.0
+1679,2023,Makkah,Overnight Visitors,domestics_tourism,2,1,1445499.0
+1680,2023,Makkah,Overnight Visitors,domestics_tourism,3,1,1965067.0
+1681,2023,Makkah,Overnight Visitors,domestics_tourism,4,1,2163229.0
+1682,2023,Makkah,Overnight Visitors,domestics_tourism,5,1,1424077.0
+1683,2023,Makkah,Overnight Visitors,domestics_tourism,6,1,2726540.0
+1684,2023,Makkah,Overnight Visitors,domestics_tourism,7,1,2204132.0
+1685,2023,Makkah,Overnight Visitors,domestics_tourism,8,1,1975918.0
+1686,2023,Makkah,Overnight Visitors,domestics_tourism,9,1,1584524.0
+1687,2023,Makkah,Overnight Visitors,domestics_tourism,10,1,1610516.0
+1688,2023,Makkah,Overnight Visitors,domestics_tourism,11,1,2143437.0
+1689,2023,Makkah,Overnight Visitors,domestics_tourism,12,1,1658113.0
+1690,2023,Makkah,SAR,domestics_tourism,1,1,1847830260.46
+1691,2023,Makkah,SAR,domestics_tourism,2,1,1788620353.67
+1692,2023,Makkah,SAR,domestics_tourism,3,1,2864291013.47
+1693,2023,Makkah,SAR,domestics_tourism,4,1,3091998275.71
+1694,2023,Makkah,SAR,domestics_tourism,5,1,1883922231.68
+1695,2023,Makkah,SAR,domestics_tourism,6,1,5891430331.17
+1696,2023,Makkah,SAR,domestics_tourism,7,1,2802709649.59
+1697,2023,Makkah,SAR,domestics_tourism,8,1,2159581462.75
+1698,2023,Makkah,SAR,domestics_tourism,9,1,1933728733.18
+1699,2023,Makkah,SAR,domestics_tourism,10,1,1707396135.48
+1700,2023,Makkah,SAR,domestics_tourism,11,1,2256558503.64
+1701,2023,Makkah,SAR,domestics_tourism,12,1,1713005008.86
+1702,2023,Makkah Province,Overnight Visitors,inbound_tourism,1,4,359670.5
+1703,2023,Makkah Province,Overnight Visitors,inbound_tourism,2,4,383908.0
+1704,2023,Makkah Province,Overnight Visitors,inbound_tourism,3,4,486507.0
+1705,2023,Makkah Province,Overnight Visitors,inbound_tourism,4,4,389510.75
+1706,2023,Makkah Province,Overnight Visitors,inbound_tourism,5,4,185682.75
+1707,2023,Makkah Province,Overnight Visitors,inbound_tourism,6,4,510319.5
+1708,2023,Makkah Province,Overnight Visitors,inbound_tourism,7,5,94388.0
+1709,2023,Makkah Province,Overnight Visitors,inbound_tourism,8,4,288024.25
+1710,2023,Makkah Province,Overnight Visitors,inbound_tourism,9,4,311960.5
+1711,2023,Makkah Province,Overnight Visitors,inbound_tourism,10,4,370870.0
+1712,2023,Makkah Province,Overnight Visitors,inbound_tourism,11,4,383616.0
+1713,2023,Makkah Province,Overnight Visitors,inbound_tourism,12,4,465589.25
+1714,2023,Makkah Province,SAR,inbound_tourism,1,3,336561386.1433333
+1715,2023,Makkah Province,SAR,inbound_tourism,2,3,349575640.4766667
+1716,2023,Makkah Province,SAR,inbound_tourism,3,3,472074051.36999995
+1717,2023,Makkah Province,SAR,inbound_tourism,4,3,481338835.3066667
+1718,2023,Makkah Province,SAR,inbound_tourism,5,4,1250037023.1175
+1719,2023,Makkah Province,SAR,inbound_tourism,6,3,351821428.69
+1720,2023,Makkah Province,SAR,inbound_tourism,7,5,575105906.908
+1721,2023,Makkah Province,SAR,inbound_tourism,8,4,1232377124.2525
+1722,2023,Makkah Province,SAR,inbound_tourism,9,3,133296671.31
+1723,2023,Makkah Province,SAR,inbound_tourism,10,3,119611958.02
+1724,2023,Makkah Province,SAR,inbound_tourism,11,3,162470560.27333334
+1725,2023,Makkah Province,SAR,inbound_tourism,12,3,220978017.60666668
+1726,2023,Najran,Overnight Visitors,domestics_tourism,1,1,106398.0
+1727,2023,Najran,Overnight Visitors,domestics_tourism,2,1,76058.0
+1728,2023,Najran,Overnight Visitors,domestics_tourism,3,1,76835.0
+1729,2023,Najran,Overnight Visitors,domestics_tourism,4,1,97739.0
+1730,2023,Najran,Overnight Visitors,domestics_tourism,5,1,63019.0
+1731,2023,Najran,Overnight Visitors,domestics_tourism,6,1,156630.0
+1732,2023,Najran,Overnight Visitors,domestics_tourism,7,1,104720.0
+1733,2023,Najran,Overnight Visitors,domestics_tourism,8,1,95194.0
+1734,2023,Najran,Overnight Visitors,domestics_tourism,9,1,96795.0
+1735,2023,Najran,Overnight Visitors,domestics_tourism,10,1,87871.0
+1736,2023,Najran,Overnight Visitors,domestics_tourism,11,1,100409.0
+1737,2023,Najran,Overnight Visitors,domestics_tourism,12,1,98814.0
+1738,2023,Najran,SAR,domestics_tourism,1,1,163502538.9
+1739,2023,Najran,SAR,domestics_tourism,2,1,136582152.17
+1740,2023,Najran,SAR,domestics_tourism,3,1,141789560.81
+1741,2023,Najran,SAR,domestics_tourism,4,1,108139320.49
+1742,2023,Najran,SAR,domestics_tourism,5,1,71110193.4
+1743,2023,Najran,SAR,domestics_tourism,6,1,237702768.26
+1744,2023,Najran,SAR,domestics_tourism,7,1,111713419.44
+1745,2023,Najran,SAR,domestics_tourism,8,1,94008944.96
+1746,2023,Najran,SAR,domestics_tourism,9,1,221809465.55
+1747,2023,Najran,SAR,domestics_tourism,10,1,270084319.12
+1748,2023,Najran,SAR,domestics_tourism,11,1,206124828.15
+1749,2023,Najran,SAR,domestics_tourism,12,1,278723766.21
+1750,2023,Najran Province,Overnight Visitors,inbound_tourism,1,2,1577.0
+1751,2023,Najran Province,Overnight Visitors,inbound_tourism,2,2,52.0
+1752,2023,Najran Province,Overnight Visitors,inbound_tourism,3,1,0.0
+1753,2023,Najran Province,Overnight Visitors,inbound_tourism,4,2,103.5
+1754,2023,Najran Province,Overnight Visitors,inbound_tourism,5,2,163.0
+1755,2023,Najran Province,Overnight Visitors,inbound_tourism,6,2,459.0
+1756,2023,Najran Province,Overnight Visitors,inbound_tourism,7,2,2018.5
+1757,2023,Najran Province,Overnight Visitors,inbound_tourism,8,2,891.0
+1758,2023,Najran Province,Overnight Visitors,inbound_tourism,9,2,695.5
+1759,2023,Najran Province,Overnight Visitors,inbound_tourism,10,2,56.5
+1760,2023,Najran Province,Overnight Visitors,inbound_tourism,11,2,477.5
+1761,2023,Najran Province,Overnight Visitors,inbound_tourism,12,2,2201.5
+1762,2023,Najran Province,SAR,inbound_tourism,1,2,4486279.78
+1763,2023,Najran Province,SAR,inbound_tourism,2,2,1138316.12
+1764,2023,Najran Province,SAR,inbound_tourism,3,1,0.0
+1765,2023,Najran Province,SAR,inbound_tourism,4,2,370366.815
+1766,2023,Najran Province,SAR,inbound_tourism,5,2,467753.78
+1767,2023,Najran Province,SAR,inbound_tourism,6,2,238530.435
+1768,2023,Najran Province,SAR,inbound_tourism,7,2,5095495.3
+1769,2023,Najran Province,SAR,inbound_tourism,8,2,2762909.1950000003
+1770,2023,Najran Province,SAR,inbound_tourism,9,2,1534900.085
+1771,2023,Najran Province,SAR,inbound_tourism,10,2,320198.13
+1772,2023,Najran Province,SAR,inbound_tourism,11,2,1559604.245
+1773,2023,Najran Province,SAR,inbound_tourism,12,2,3130937.8099999996
+1774,2023,Northern Borders,Overnight Visitors,domestics_tourism,1,1,93776.0
+1775,2023,Northern Borders,Overnight Visitors,domestics_tourism,2,1,91724.0
+1776,2023,Northern Borders,Overnight Visitors,domestics_tourism,3,1,85893.0
+1777,2023,Northern Borders,Overnight Visitors,domestics_tourism,4,1,94872.0
+1778,2023,Northern Borders,Overnight Visitors,domestics_tourism,5,1,56611.0
+1779,2023,Northern Borders,Overnight Visitors,domestics_tourism,6,1,134262.0
+1780,2023,Northern Borders,Overnight Visitors,domestics_tourism,7,1,85676.0
+1781,2023,Northern Borders,Overnight Visitors,domestics_tourism,8,1,77579.0
+1782,2023,Northern Borders,Overnight Visitors,domestics_tourism,9,1,72992.0
+1783,2023,Northern Borders,Overnight Visitors,domestics_tourism,10,1,83342.0
+1784,2023,Northern Borders,Overnight Visitors,domestics_tourism,11,1,111255.0
+1785,2023,Northern Borders,Overnight Visitors,domestics_tourism,12,1,82463.0
+1786,2023,Northern Borders,SAR,domestics_tourism,1,1,175185618.25
+1787,2023,Northern Borders,SAR,domestics_tourism,2,1,176718788.27
+1788,2023,Northern Borders,SAR,domestics_tourism,3,1,180779926.21
+1789,2023,Northern Borders,SAR,domestics_tourism,4,1,129929124.51
+1790,2023,Northern Borders,SAR,domestics_tourism,5,1,117727117.55
+1791,2023,Northern Borders,SAR,domestics_tourism,6,1,286359870.79
+1792,2023,Northern Borders,SAR,domestics_tourism,7,1,98630290.49
+1793,2023,Northern Borders,SAR,domestics_tourism,8,1,161675028.59
+1794,2023,Northern Borders,SAR,domestics_tourism,9,1,98590080.84
+1795,2023,Northern Borders,SAR,domestics_tourism,10,1,128733541.96
+1796,2023,Northern Borders,SAR,domestics_tourism,11,1,244937409.53
+1797,2023,Northern Borders,SAR,domestics_tourism,12,1,184752049.73
+1798,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,1,2,15529.5
+1799,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,2,2,11658.0
+1800,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,3,2,11993.5
+1801,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,4,2,10301.0
+1802,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,5,2,11546.5
+1803,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,6,2,19765.5
+1804,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,7,2,13926.0
+1805,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,8,2,19147.0
+1806,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,9,2,16635.0
+1807,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,10,2,13869.5
+1808,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,11,2,18454.0
+1809,2023,Northern Borders Province,Overnight Visitors,inbound_tourism,12,2,15295.0
+1810,2023,Northern Borders Province,SAR,inbound_tourism,1,2,28543159.445
+1811,2023,Northern Borders Province,SAR,inbound_tourism,2,2,28171788.07
+1812,2023,Northern Borders Province,SAR,inbound_tourism,3,2,22038578.46
+1813,2023,Northern Borders Province,SAR,inbound_tourism,4,2,14412761.525
+1814,2023,Northern Borders Province,SAR,inbound_tourism,5,2,21863826.725
+1815,2023,Northern Borders Province,SAR,inbound_tourism,6,2,38836606.205
+1816,2023,Northern Borders Province,SAR,inbound_tourism,7,2,15462635.190000001
+1817,2023,Northern Borders Province,SAR,inbound_tourism,8,2,26143065.93
+1818,2023,Northern Borders Province,SAR,inbound_tourism,9,2,23113054.035
+1819,2023,Northern Borders Province,SAR,inbound_tourism,10,2,15366449.215
+1820,2023,Northern Borders Province,SAR,inbound_tourism,11,2,20989241.174999997
+1821,2023,Northern Borders Province,SAR,inbound_tourism,12,2,12828734.370000001
+1822,2023,Riyadh,Overnight Visitors,domestics_tourism,1,1,1364905.0
+1823,2023,Riyadh,Overnight Visitors,domestics_tourism,2,1,1130922.0
+1824,2023,Riyadh,Overnight Visitors,domestics_tourism,3,1,1180665.0
+1825,2023,Riyadh,Overnight Visitors,domestics_tourism,4,1,1042259.0
+1826,2023,Riyadh,Overnight Visitors,domestics_tourism,5,1,1060746.0
+1827,2023,Riyadh,Overnight Visitors,domestics_tourism,6,1,1488316.0
+1828,2023,Riyadh,Overnight Visitors,domestics_tourism,7,1,1497871.0
+1829,2023,Riyadh,Overnight Visitors,domestics_tourism,8,1,1449446.0
+1830,2023,Riyadh,Overnight Visitors,domestics_tourism,9,1,1357970.0
+1831,2023,Riyadh,Overnight Visitors,domestics_tourism,10,1,1476108.0
+1832,2023,Riyadh,Overnight Visitors,domestics_tourism,11,1,1765195.0
+1833,2023,Riyadh,Overnight Visitors,domestics_tourism,12,1,1533375.0
+1834,2023,Riyadh,SAR,domestics_tourism,1,1,2769144034.0
+1835,2023,Riyadh,SAR,domestics_tourism,2,1,1993535097.88
+1836,2023,Riyadh,SAR,domestics_tourism,3,1,2357876062.65
+1837,2023,Riyadh,SAR,domestics_tourism,4,1,1561498914.72
+1838,2023,Riyadh,SAR,domestics_tourism,5,1,1518754823.68
+1839,2023,Riyadh,SAR,domestics_tourism,6,1,2273401953.97
+1840,2023,Riyadh,SAR,domestics_tourism,7,1,2438841377.82
+1841,2023,Riyadh,SAR,domestics_tourism,8,1,2072123481.4
+1842,2023,Riyadh,SAR,domestics_tourism,9,1,2327375994.43
+1843,2023,Riyadh,SAR,domestics_tourism,10,1,3033582739.6
+1844,2023,Riyadh,SAR,domestics_tourism,11,1,3251684597.87
+1845,2023,Riyadh,SAR,domestics_tourism,12,1,2978127647.9
+1846,2023,Riyadh Province,Overnight Visitors,inbound_tourism,1,2,138532.0
+1847,2023,Riyadh Province,Overnight Visitors,inbound_tourism,2,2,149290.5
+1848,2023,Riyadh Province,Overnight Visitors,inbound_tourism,3,2,146852.0
+1849,2023,Riyadh Province,Overnight Visitors,inbound_tourism,4,2,103325.0
+1850,2023,Riyadh Province,Overnight Visitors,inbound_tourism,5,2,141977.0
+1851,2023,Riyadh Province,Overnight Visitors,inbound_tourism,6,2,103279.5
+1852,2023,Riyadh Province,Overnight Visitors,inbound_tourism,7,2,108843.5
+1853,2023,Riyadh Province,Overnight Visitors,inbound_tourism,8,2,121904.5
+1854,2023,Riyadh Province,Overnight Visitors,inbound_tourism,9,2,111958.0
+1855,2023,Riyadh Province,Overnight Visitors,inbound_tourism,10,2,101969.5
+1856,2023,Riyadh Province,Overnight Visitors,inbound_tourism,11,2,105773.0
+1857,2023,Riyadh Province,Overnight Visitors,inbound_tourism,12,2,171324.0
+1858,2023,Riyadh Province,SAR,inbound_tourism,1,2,644356135.3100001
+1859,2023,Riyadh Province,SAR,inbound_tourism,2,2,622666130.82
+1860,2023,Riyadh Province,SAR,inbound_tourism,3,2,791693323.03
+1861,2023,Riyadh Province,SAR,inbound_tourism,4,2,448549327.575
+1862,2023,Riyadh Province,SAR,inbound_tourism,5,2,1089317647.07
+1863,2023,Riyadh Province,SAR,inbound_tourism,6,2,441581849.325
+1864,2023,Riyadh Province,SAR,inbound_tourism,7,2,347158371.765
+1865,2023,Riyadh Province,SAR,inbound_tourism,8,2,384465005.03999996
+1866,2023,Riyadh Province,SAR,inbound_tourism,9,2,370223461.44500005
+1867,2023,Riyadh Province,SAR,inbound_tourism,10,2,314593841.665
+1868,2023,Riyadh Province,SAR,inbound_tourism,11,2,371037078.86
+1869,2023,Riyadh Province,SAR,inbound_tourism,12,2,445137936.04
+1870,2023,Tabuk,Overnight Visitors,domestics_tourism,1,1,191408.0
+1871,2023,Tabuk,Overnight Visitors,domestics_tourism,2,1,166622.0
+1872,2023,Tabuk,Overnight Visitors,domestics_tourism,3,1,220964.0
+1873,2023,Tabuk,Overnight Visitors,domestics_tourism,4,1,198135.0
+1874,2023,Tabuk,Overnight Visitors,domestics_tourism,5,1,188411.0
+1875,2023,Tabuk,Overnight Visitors,domestics_tourism,6,1,286800.0
+1876,2023,Tabuk,Overnight Visitors,domestics_tourism,7,1,310732.0
+1877,2023,Tabuk,Overnight Visitors,domestics_tourism,8,1,261394.0
+1878,2023,Tabuk,Overnight Visitors,domestics_tourism,9,1,226492.0
+1879,2023,Tabuk,Overnight Visitors,domestics_tourism,10,1,273220.0
+1880,2023,Tabuk,Overnight Visitors,domestics_tourism,11,1,260953.0
+1881,2023,Tabuk,Overnight Visitors,domestics_tourism,12,1,231927.0
+1882,2023,Tabuk,SAR,domestics_tourism,1,1,302364430.94
+1883,2023,Tabuk,SAR,domestics_tourism,2,1,272232632.36
+1884,2023,Tabuk,SAR,domestics_tourism,3,1,334596504.72
+1885,2023,Tabuk,SAR,domestics_tourism,4,1,261976607.18
+1886,2023,Tabuk,SAR,domestics_tourism,5,1,278846758.6
+1887,2023,Tabuk,SAR,domestics_tourism,6,1,505486594.57
+1888,2023,Tabuk,SAR,domestics_tourism,7,1,475582344.96
+1889,2023,Tabuk,SAR,domestics_tourism,8,1,393059530.27
+1890,2023,Tabuk,SAR,domestics_tourism,9,1,251237861.44
+1891,2023,Tabuk,SAR,domestics_tourism,10,1,333798787.65
+1892,2023,Tabuk,SAR,domestics_tourism,11,1,359184427.49
+1893,2023,Tabuk,SAR,domestics_tourism,12,1,433175293.22
+1894,2023,Tabuk Province,Overnight Visitors,inbound_tourism,1,4,1796.75
+1895,2023,Tabuk Province,Overnight Visitors,inbound_tourism,2,5,2350.8
+1896,2023,Tabuk Province,Overnight Visitors,inbound_tourism,3,4,4255.0
+1897,2023,Tabuk Province,Overnight Visitors,inbound_tourism,4,2,1501.0
+1898,2023,Tabuk Province,Overnight Visitors,inbound_tourism,5,5,2219.8
+1899,2023,Tabuk Province,Overnight Visitors,inbound_tourism,6,4,3012.25
+1900,2023,Tabuk Province,Overnight Visitors,inbound_tourism,7,5,4538.6
+1901,2023,Tabuk Province,Overnight Visitors,inbound_tourism,8,5,1876.0
+1902,2023,Tabuk Province,Overnight Visitors,inbound_tourism,9,4,2010.75
+1903,2023,Tabuk Province,Overnight Visitors,inbound_tourism,10,4,2457.25
+1904,2023,Tabuk Province,Overnight Visitors,inbound_tourism,11,5,1655.2
+1905,2023,Tabuk Province,Overnight Visitors,inbound_tourism,12,3,5905.666666666667
+1906,2023,Tabuk Province,SAR,inbound_tourism,1,4,4644159.61
+1907,2023,Tabuk Province,SAR,inbound_tourism,2,5,6434566.914
+1908,2023,Tabuk Province,SAR,inbound_tourism,3,4,9226408.7225
+1909,2023,Tabuk Province,SAR,inbound_tourism,4,2,1147464.13
+1910,2023,Tabuk Province,SAR,inbound_tourism,5,5,6017768.071999999
+1911,2023,Tabuk Province,SAR,inbound_tourism,6,4,6746662.162500001
+1912,2023,Tabuk Province,SAR,inbound_tourism,7,5,14530292.286000002
+1913,2023,Tabuk Province,SAR,inbound_tourism,8,5,4482026.208
+1914,2023,Tabuk Province,SAR,inbound_tourism,9,4,4898920.69
+1915,2023,Tabuk Province,SAR,inbound_tourism,10,4,4771132.06
+1916,2023,Tabuk Province,SAR,inbound_tourism,11,5,3494371.032
+1917,2023,Tabuk Province,SAR,inbound_tourism,12,3,14360528.066666665
+1918,2023,Total,Overnight Visitors,domestics_tourism,1,1,6293956.0
+1919,2023,Total,Overnight Visitors,domestics_tourism,2,1,5607637.0
+1920,2023,Total,Overnight Visitors,domestics_tourism,3,1,6502156.0
+1921,2023,Total,Overnight Visitors,domestics_tourism,4,1,6881296.0
+1922,2023,Total,Overnight Visitors,domestics_tourism,5,1,5002991.0
+1923,2023,Total,Overnight Visitors,domestics_tourism,6,1,9547860.0
+1924,2023,Total,Overnight Visitors,domestics_tourism,7,1,8118256.0
+1925,2023,Total,Overnight Visitors,domestics_tourism,8,1,6985948.0
+1926,2023,Total,Overnight Visitors,domestics_tourism,9,1,6073827.0
+1927,2023,Total,Overnight Visitors,domestics_tourism,10,1,6202019.0
+1928,2023,Total,Overnight Visitors,domestics_tourism,11,1,8220327.0
+1929,2023,Total,Overnight Visitors,domestics_tourism,12,1,6484089.0
+1930,2023,Total,Overnight Visitors,inbound_tourism,1,1,2481869.0
+1931,2023,Total,Overnight Visitors,inbound_tourism,2,1,2455777.0
+1932,2023,Total,Overnight Visitors,inbound_tourism,3,1,2869547.0
+1933,2023,Total,Overnight Visitors,inbound_tourism,4,1,2424141.0
+1934,2023,Total,Overnight Visitors,inbound_tourism,5,1,1514400.0
+1935,2023,Total,Overnight Visitors,inbound_tourism,6,1,2847495.0
+1936,2023,Total,Overnight Visitors,inbound_tourism,7,1,1349770.0
+1937,2023,Total,Overnight Visitors,inbound_tourism,8,1,2109233.0
+1938,2023,Total,Overnight Visitors,inbound_tourism,9,1,2039918.0
+1939,2023,Total,Overnight Visitors,inbound_tourism,10,1,2191039.0
+1940,2023,Total,Overnight Visitors,inbound_tourism,11,1,2237558.0
+1941,2023,Total,Overnight Visitors,inbound_tourism,12,1,2902789.0

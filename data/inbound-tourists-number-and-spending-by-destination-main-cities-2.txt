@@ -1,0 +1,2363 @@
+﻿Date;Indicator;Province;Destination;value
+2021-March;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;31.0
+2023-May;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;1188.0
+2023-October;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;1703.0
+2022-November;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;123.14679255048655
+2023-November;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;415.0
+year-February;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-November;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-April;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+2023-January;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4158.0
+2021-March;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;21503.0
+2022-April;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;2411.0
+2021-July;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;437.0
+2022-July;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;1137.0
+2023-September;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;13490.0
+2023-October;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;3163.0
+2023-March;Tourists Number (Overnight Visitors);AlQassim Province;Rass;259.0
+2021-June;Tourists Number (Overnight Visitors);AlQassim Province;Rass;232.0
+2023-September;Tourists Number (Overnight Visitors);AlQassim Province;Rass;320.0
+2023-March;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;7443.0
+2021-May;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;266.0
+2022-June;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;743.0
+2021-August;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;1068.0
+2022-August;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;4254.0
+2023-August;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;232.0
+2022-September;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;401.0
+2021-December;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;946.0
+2022-January;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2022-February;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2023-May;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-June;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;33.0
+2022-June;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;141.0
+2023-August;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;6.0
+2023-December;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;562.0
+2023-January;Tourists Number (Overnight Visitors);Aseer Province;Abha;4206.0
+2022-February;Tourists Number (Overnight Visitors);Aseer Province;Abha;4.0
+2021-March;Tourists Number (Overnight Visitors);Aseer Province;Abha;624.0
+2021-April;Tourists Number (Overnight Visitors);Aseer Province;Abha;580.0
+2021-June;Tourists Number (Overnight Visitors);Aseer Province;Abha;7.0
+2021-December;Tourists Number (Overnight Visitors);Aseer Province;Abha;7309.0
+2022-May;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;130.0
+2022-July;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;120.0
+2023-July;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;2616.0
+2022-August;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;34.0
+2023-August;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;3119.0
+2021-September;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;92.0
+2022-December;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;14573.0
+2022-January;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;1.0
+2023-January;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;5556.0
+2023-May;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;2419.0
+2022-July;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2021-August;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;129.0
+2022-November;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;2680.0
+2021-December;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;240.0
+2023-August;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;111251.0
+2023-October;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;66593.0
+2023-January;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;164123.0
+2021-February;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;18421.0
+2023-February;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;133745.0
+2023-March;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;112353.0
+2023-April;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;119328.0
+2021-May;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;7792.0
+2022-August;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;59375.0
+2023-August;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;124113.0
+2021-September;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;53616.0
+2022-November;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;123987.0
+2023-December;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;111505.0
+2021-January;Tourists Number (Overnight Visitors);Eastern Province;Dammam;23707.0
+2022-June;Tourists Number (Overnight Visitors);Eastern Province;Dammam;65538.0
+2021-July;Tourists Number (Overnight Visitors);Eastern Province;Dammam;42719.0
+2022-August;Tourists Number (Overnight Visitors);Eastern Province;Dammam;127327.0
+2023-September;Tourists Number (Overnight Visitors);Eastern Province;Dammam;95495.0
+2021-May;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;9725.0
+2021-July;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;16029.0
+2023-November;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;106325.0
+2021-December;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;66036.0
+2022-December;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;91592.0
+2023-December;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;119771.0
+2023-January;Tourists Number (Overnight Visitors);Hail Province;Hail;28913.0
+2023-February;Tourists Number (Overnight Visitors);Hail Province;Hail;27920.0
+2021-March;Tourists Number (Overnight Visitors);Hail Province;Hail;1013.0
+2023-March;Tourists Number (Overnight Visitors);Hail Province;Hail;51614.0
+2023-May;Tourists Number (Overnight Visitors);Hail Province;Hail;49748.0
+2023-June;Tourists Number (Overnight Visitors);Hail Province;Hail;20201.0
+2023-September;Tourists Number (Overnight Visitors);Hail Province;Hail;29867.0
+2021-November;Tourists Number (Overnight Visitors);Hail Province;Hail;16837.0
+2022-December;Tourists Number (Overnight Visitors);Hail Province;Hail;63999.0
+year-May;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-July;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+2022-February;Tourists Number (Overnight Visitors);Jazan Province;Jazan;5947.0
+2023-February;Tourists Number (Overnight Visitors);Jazan Province;Jazan;2494.0
+2021-April;Tourists Number (Overnight Visitors);Jazan Province;Jazan;423.0
+2023-May;Tourists Number (Overnight Visitors);Jazan Province;Jazan;1061.0
+2022-October;Tourists Number (Overnight Visitors);Jazan Province;Jazan;278.0
+2023-October;Tourists Number (Overnight Visitors);Jazan Province;Jazan;22.0
+2023-February;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1748.0
+2021-March;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1343.0
+2021-July;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;80.0
+2022-September;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2021-December;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;143.0
+2021-January;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1285.0
+2021-February;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;234.0
+2022-February;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;861.0
+2021-March;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;107.0
+2023-May;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;11522.0
+2021-July;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;333.0
+2023-July;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;6519.0
+2021-August;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;243.0
+2022-November;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;3130.0
+2023-February;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;4152.0
+2021-July;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1760.0
+2021-August;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;2116.0
+2022-October;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;2138.0
+2022-November;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;3001.0
+2021-December;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;627.0
+year-March;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;
+2023-May;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;91.0
+2022-November;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;352.0
+2022-December;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;1.0
+2021-July;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;144.0
+2021-September;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;109.0
+2021-November;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;3769.0
+2022-November;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;2984.0
+2021-December;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;2639.0
+2021-February;Tourists Number (Overnight Visitors);Madinah Province;Madinah;168.0
+2023-February;Tourists Number (Overnight Visitors);Madinah Province;Madinah;11908.0
+2021-July;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1417.0
+2022-July;Tourists Number (Overnight Visitors);Madinah Province;Madinah;3790.0
+2022-August;Tourists Number (Overnight Visitors);Madinah Province;Madinah;3656.0
+2022-September;Tourists Number (Overnight Visitors);Madinah Province;Madinah;4610.0
+2021-October;Tourists Number (Overnight Visitors);Madinah Province;Madinah;4615.0
+2022-October;Tourists Number (Overnight Visitors);Madinah Province;Madinah;7463.0
+2021-November;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1398.0
+year-May;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;
+2022-December;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;7.0
+2023-January;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;406.0
+2023-February;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2023-April;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;239.0
+2023-May;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2021-July;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;64.0
+2021-October;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;21.0
+2023-January;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;148324.0
+2022-April;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;184950.0
+2023-September;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;79964.0
+2021-November;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;67684.0
+2021-January;Tourists Number (Overnight Visitors);Makkah Province;Makkah;3403.0
+2023-May;Tourists Number (Overnight Visitors);Makkah Province;Makkah;632895.0
+2023-July;Tourists Number (Overnight Visitors);Makkah Province;Makkah;360971.0
+2022-November;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1065204.0
+year-January;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+2021-July;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;62.0
+year-August;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+2023-July;Tourists Number (Overnight Visitors);Makkah Province;Taif;8037.0
+2022-September;Tourists Number (Overnight Visitors);Makkah Province;Taif;3646.0
+2021-October;Tourists Number (Overnight Visitors);Makkah Province;Taif;364.0
+2023-October;Tourists Number (Overnight Visitors);Makkah Province;Taif;3568.0
+2021-November;Tourists Number (Overnight Visitors);Makkah Province;Taif;168.0
+2023-February;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-March;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;423.0
+2023-May;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2022-July;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;132.0
+2022-August;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-August;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-September;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2021-October;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;212.0
+2022-May;Tourists Number (Overnight Visitors);Najran Province;Najran;1.0
+2021-June;Tourists Number (Overnight Visitors);Najran Province;Najran;104.0
+2021-July;Tourists Number (Overnight Visitors);Najran Province;Najran;80.0
+2023-July;Tourists Number (Overnight Visitors);Najran Province;Najran;3331.0
+2022-November;Tourists Number (Overnight Visitors);Najran Province;Najran;611.0
+2021-December;Tourists Number (Overnight Visitors);Najran Province;Najran;1861.0
+2023-June;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2021-January;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;1459.0
+2022-January;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;10534.0
+2021-March;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;1337.0
+2021-July;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;16151.0
+2022-July;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;93019.0
+2023-September;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;15064.0
+2021-October;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;12033.0
+2021-January;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;850.0
+2022-February;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;7613.0
+2022-March;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;25337.0
+2023-May;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;12607.0
+2023-July;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;14226.0
+2022-November;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;5513.0
+2021-February;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;48859.0
+2021-April;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;70664.0
+2022-April;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;134086.0
+2022-May;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;112981.0
+2023-May;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;273006.0
+2021-June;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;72069.0
+2023-July;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;195450.0
+2023-August;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;225440.0
+2022-September;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;158077.0
+2022-December;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;238363.0
+2021-March;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;153.0
+2023-March;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;24981.0
+2021-April;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;223.0
+2022-April;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;2855.0
+2023-April;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;15065.0
+2023-May;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;10948.0
+2022-June;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;11516.0
+2021-September;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;2127.0
+2021-October;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;7995.0
+2023-October;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;15997.0
+2023-February;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;998.0
+year-March;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+2023-May;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;302.0
+year-June;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+year-September;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+2022-November;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;493.0
+year-December;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+2023-January;Tourists Number (Overnight Visitors);Tabuk Province;Duba;679.0
+2023-February;Tourists Number (Overnight Visitors);Tabuk Province;Duba;2208.0
+2023-March;Tourists Number (Overnight Visitors);Tabuk Province;Duba;1516.0
+2023-June;Tourists Number (Overnight Visitors);Tabuk Province;Duba;947.0
+2022-October;Tourists Number (Overnight Visitors);Tabuk Province;Duba;275.0
+2022-December;Tourists Number (Overnight Visitors);Tabuk Province;Duba;820.0
+2022-January;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;3967.0
+2021-February;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;214.0
+2023-April;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;3002.0
+2021-May;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;733.0
+2023-May;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;8401.0
+2021-July;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;1663.0
+2021-August;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;2528.0
+2022-September;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;17042.0
+2023-September;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;5945.0
+2021-December;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;494.0
+2023-September;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;1114.0
+2021-July;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;24.0
+2022-January;Tourists Number (Overnight Visitors);Total;Total;548936.0
+2022-July;Tourists Number (Overnight Visitors);Total;Total;1765626.0
+2023-July;Tourists Number (Overnight Visitors);Total;Total;1349770.0
+2021-August;Tourists Number (Overnight Visitors);Total;Total;257364.0
+2022-September;Tourists Number (Overnight Visitors);Total;Total;1538977.0
+2021-October;Tourists Number (Overnight Visitors);Total;Total;452985.0
+2023-October;Tourists Number (Overnight Visitors);Total;Total;2191039.0
+2021-December;Tourists Number (Overnight Visitors);Total;Total;691418.0
+2022-March;Tourists Spending (SAR);Albaha province;Al Bahah;40222.359681579575
+2022-June;Tourists Spending (SAR);Albaha province;Al Bahah;134892.78076981255
+2021-December;Tourists Spending (SAR);Albaha province;Al Bahah;124617.58
+2023-December;Tourists Spending (SAR);Albaha province;Al Bahah;3456.77
+year-January;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-October;Tourists Spending (SAR);Albaha province;BILJURASHI;
+2021-January;Tourists Spending (SAR);Albaha province;Other AlBaha;22551.98
+year-February;Tourists Spending (SAR);Albaha province;Other AlBaha;
+2021-January;Tourists Spending (SAR);AlQassim Province;Buraydah;628522.1
+2022-January;Tourists Spending (SAR);AlQassim Province;Buraydah;52108902.78
+2023-March;Tourists Spending (SAR);AlQassim Province;Buraydah;25805066.3
+2021-April;Tourists Spending (SAR);AlQassim Province;Buraydah;2749792.93
+2022-July;Tourists Spending (SAR);AlQassim Province;Buraydah;1749826.4
+2022-August;Tourists Spending (SAR);AlQassim Province;Buraydah;8639459.41
+2023-October;Tourists Spending (SAR);AlQassim Province;Buraydah;5754816.13
+2022-January;Tourists Spending (SAR);AlQassim Province;Rass;481778.89
+2021-May;Tourists Spending (SAR);AlQassim Province;Rass;1576857.38
+2022-October;Tourists Spending (SAR);AlQassim Province;Rass;575736.44
+2021-November;Tourists Spending (SAR);AlQassim Province;Rass;96043.78
+2022-November;Tourists Spending (SAR);AlQassim Province;Rass;71818078.96
+2022-January;Tourists Spending (SAR);AlQassim Province;Unayzah;2852397.64
+2023-February;Tourists Spending (SAR);AlQassim Province;Unayzah;7409472.92
+2023-March;Tourists Spending (SAR);AlQassim Province;Unayzah;30422191.28
+2023-April;Tourists Spending (SAR);AlQassim Province;Unayzah;2440758.84
+2023-May;Tourists Spending (SAR);AlQassim Province;Unayzah;5770869.0
+2022-June;Tourists Spending (SAR);AlQassim Province;Unayzah;1722910.09
+2023-July;Tourists Spending (SAR);AlQassim Province;Unayzah;14697432.13
+2021-October;Tourists Spending (SAR);AlQassim Province;Unayzah;1757674.85
+2023-November;Tourists Spending (SAR);AlQassim Province;Unayzah;4347779.11
+2023-December;Tourists Spending (SAR);AlQassim Province;Unayzah;6810741.06
+2022-January;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2023-March;Tourists Spending (SAR);AlQassim Province;Other AlQassim;707941.74
+2021-April;Tourists Spending (SAR);AlQassim Province;Other AlQassim;241435.36
+2023-April;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2021-July;Tourists Spending (SAR);AlQassim Province;Other AlQassim;627188.58
+2021-October;Tourists Spending (SAR);AlQassim Province;Other AlQassim;613997.18
+2021-November;Tourists Spending (SAR);AlQassim Province;Other AlQassim;367178.35
+2022-November;Tourists Spending (SAR);AlQassim Province;Other AlQassim;62438.310000002384
+2023-November;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2021-April;Tourists Spending (SAR);Aseer Province;Abha;6362784.77
+2021-June;Tourists Spending (SAR);Aseer Province;Abha;10932.99
+2023-June;Tourists Spending (SAR);Aseer Province;Abha;26989704.57
+2022-September;Tourists Spending (SAR);Aseer Province;Abha;2793049.96
+2023-September;Tourists Spending (SAR);Aseer Province;Abha;26224371.37
+2022-December;Tourists Spending (SAR);Aseer Province;Abha;79748950.39
+2022-March;Tourists Spending (SAR);Aseer Province;Khamis Mushait;3830.5
+2022-October;Tourists Spending (SAR);Aseer Province;Khamis Mushait;1891445.27
+2023-October;Tourists Spending (SAR);Aseer Province;Khamis Mushait;4061030.68
+2021-November;Tourists Spending (SAR);Aseer Province;Khamis Mushait;28744543.01
+2022-January;Tourists Spending (SAR);Aseer Province;Other Aseer;9203.609999999993
+2023-February;Tourists Spending (SAR);Aseer Province;Other Aseer;24049050.29
+2021-October;Tourists Spending (SAR);Aseer Province;Other Aseer;237826.92
+2022-November;Tourists Spending (SAR);Aseer Province;Other Aseer;9274317.82
+2022-December;Tourists Spending (SAR);Aseer Province;Other Aseer;21984065.119999975
+2022-March;Tourists Spending (SAR);Eastern Province;Al Ahsa;87838538.95
+2023-May;Tourists Spending (SAR);Eastern Province;Al Ahsa;57033836.97
+2021-July;Tourists Spending (SAR);Eastern Province;Al Ahsa;3867899.4
+2021-October;Tourists Spending (SAR);Eastern Province;Al Ahsa;26040219.8
+2023-November;Tourists Spending (SAR);Eastern Province;Al Ahsa;70893239.52
+2021-February;Tourists Spending (SAR);Eastern Province;Al Khobar;54820223.19
+2021-March;Tourists Spending (SAR);Eastern Province;Al Khobar;73561182.69
+2022-March;Tourists Spending (SAR);Eastern Province;Al Khobar;694526317.86
+2021-April;Tourists Spending (SAR);Eastern Province;Al Khobar;19813419.05
+2022-April;Tourists Spending (SAR);Eastern Province;Al Khobar;455799099.51
+2023-May;Tourists Spending (SAR);Eastern Province;Al Khobar;653595722.18
+2022-June;Tourists Spending (SAR);Eastern Province;Al Khobar;347360246.03
+2023-October;Tourists Spending (SAR);Eastern Province;Al Khobar;300303543.41
+2023-January;Tourists Spending (SAR);Eastern Province;Dammam;368778923.81
+2023-February;Tourists Spending (SAR);Eastern Province;Dammam;275068379.56
+2021-April;Tourists Spending (SAR);Eastern Province;Dammam;135235222.82
+2023-May;Tourists Spending (SAR);Eastern Province;Dammam;267866930.59
+2021-September;Tourists Spending (SAR);Eastern Province;Dammam;55728221.35
+2023-September;Tourists Spending (SAR);Eastern Province;Dammam;158843298.79
+2022-October;Tourists Spending (SAR);Eastern Province;Dammam;191140225.99
+2022-December;Tourists Spending (SAR);Eastern Province;Dammam;248870851.17
+2023-January;Tourists Spending (SAR);Eastern Province;Other Eastern;208203368.47000003
+2023-February;Tourists Spending (SAR);Eastern Province;Other Eastern;239605953.58999997
+2022-March;Tourists Spending (SAR);Eastern Province;Other Eastern;87910728.92999995
+2021-May;Tourists Spending (SAR);Eastern Province;Other Eastern;9059856.42
+2021-July;Tourists Spending (SAR);Eastern Province;Other Eastern;18041484.91
+2022-July;Tourists Spending (SAR);Eastern Province;Other Eastern;105618152.58999991
+2022-September;Tourists Spending (SAR);Eastern Province;Other Eastern;107754916.38999999
+2023-September;Tourists Spending (SAR);Eastern Province;Other Eastern;102935746.15000002
+2021-December;Tourists Spending (SAR);Eastern Province;Other Eastern;175349413.55
+2023-January;Tourists Spending (SAR);Hail Province;Hail;80905150.88
+2022-February;Tourists Spending (SAR);Hail Province;Hail;16256879.11
+2021-April;Tourists Spending (SAR);Hail Province;Hail;100480.8
+2022-May;Tourists Spending (SAR);Hail Province;Hail;20411702.8
+2021-September;Tourists Spending (SAR);Hail Province;Hail;1509679.02
+2022-November;Tourists Spending (SAR);Hail Province;Hail;99401543.04
+2021-December;Tourists Spending (SAR);Hail Province;Hail;121557993.81
+year-January;Tourists Spending (SAR);Hail Province;Other Hail;
+2022-February;Tourists Spending (SAR);Hail Province;Other Hail;61793.12
+year-April;Tourists Spending (SAR);Hail Province;Other Hail;
+2021-March;Tourists Spending (SAR);Jazan Province;Jazan;4333094.44
+2023-August;Tourists Spending (SAR);Jazan Province;Jazan;1950902.36
+2022-September;Tourists Spending (SAR);Jazan Province;Jazan;344799.14
+2022-December;Tourists Spending (SAR);Jazan Province;Jazan;2353244.33
+2022-May;Tourists Spending (SAR);Jazan Province;Other Jazan;338060.21
+2022-July;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2023-October;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2023-January;Tourists Spending (SAR);Jouf Province;Al Qurayyat;28249603.14
+2021-February;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1622486.82
+2023-March;Tourists Spending (SAR);Jouf Province;Al Qurayyat;44014526.66
+2023-April;Tourists Spending (SAR);Jouf Province;Al Qurayyat;19099460.63
+2023-May;Tourists Spending (SAR);Jouf Province;Al Qurayyat;44100234.91
+2021-September;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1179299.9
+2022-September;Tourists Spending (SAR);Jouf Province;Al Qurayyat;50309750.12
+2023-October;Tourists Spending (SAR);Jouf Province;Al Qurayyat;11443784.11
+2022-November;Tourists Spending (SAR);Jouf Province;Al Qurayyat;4843539.98
+2023-December;Tourists Spending (SAR);Jouf Province;Al Qurayyat;13240895.79
+2023-January;Tourists Spending (SAR);Jouf Province;Sakaka;19537554.94
+2021-March;Tourists Spending (SAR);Jouf Province;Sakaka;1544600.59
+2023-May;Tourists Spending (SAR);Jouf Province;Sakaka;10108333.81
+2022-October;Tourists Spending (SAR);Jouf Province;Sakaka;8785393.07
+2023-January;Tourists Spending (SAR);Jouf Province;Other Jouf;4722322.57
+2022-November;Tourists Spending (SAR);Jouf Province;Other Jouf;2358882.2699999977
+2022-February;Tourists Spending (SAR);Madinah Province;Al Ula;7145817.15
+2021-April;Tourists Spending (SAR);Madinah Province;Al Ula;26881.46
+2022-October;Tourists Spending (SAR);Madinah Province;Al Ula;1352152.73
+2023-October;Tourists Spending (SAR);Madinah Province;Al Ula;35969177.63
+2021-November;Tourists Spending (SAR);Madinah Province;Al Ula;10716057.24
+2022-January;Tourists Spending (SAR);Madinah Province;Madinah;1894482.07
+2021-February;Tourists Spending (SAR);Madinah Province;Madinah;477424.32
+2022-February;Tourists Spending (SAR);Madinah Province;Madinah;2328734.48
+2023-June;Tourists Spending (SAR);Madinah Province;Madinah;33212830.19
+2021-July;Tourists Spending (SAR);Madinah Province;Madinah;12057211.32
+2022-July;Tourists Spending (SAR);Madinah Province;Madinah;23228246.18
+2022-January;Tourists Spending (SAR);Madinah Province;Yanbu;4826032.01
+2023-March;Tourists Spending (SAR);Madinah Province;Other Madinah;854310.18
+2021-March;Tourists Spending (SAR);Makkah Province;Jeddah;76746900.53
+2023-April;Tourists Spending (SAR);Makkah Province;Jeddah;1416901328.79
+2021-May;Tourists Spending (SAR);Makkah Province;Jeddah;61371540.07
+2023-May;Tourists Spending (SAR);Makkah Province;Jeddah;657761672.95
+2021-June;Tourists Spending (SAR);Makkah Province;Jeddah;83083588.82
+2021-July;Tourists Spending (SAR);Makkah Province;Jeddah;92587802.0
+2022-November;Tourists Spending (SAR);Makkah Province;Jeddah;1042424360.58
+2022-December;Tourists Spending (SAR);Makkah Province;Jeddah;1238312122.54
+2023-December;Tourists Spending (SAR);Makkah Province;Jeddah;640151336.97
+2023-January;Tourists Spending (SAR);Makkah Province;Makkah;6544770808.43
+2022-February;Tourists Spending (SAR);Makkah Province;Makkah;2743155658.06
+2022-June;Tourists Spending (SAR);Makkah Province;Makkah;1366182410.06
+2021-August;Tourists Spending (SAR);Makkah Province;Makkah;76920889.52
+2023-July;Tourists Spending (SAR);Makkah Province;Rabigh;329712.61
+year-August;Tourists Spending (SAR);Makkah Province;Rabigh;
+2022-April;Tourists Spending (SAR);Makkah Province;Taif;2505483.0
+2023-June;Tourists Spending (SAR);Makkah Province;Taif;3642094.41
+2022-August;Tourists Spending (SAR);Makkah Province;Taif;17982043.09
+2023-August;Tourists Spending (SAR);Makkah Province;Taif;33824327.68
+2023-September;Tourists Spending (SAR);Makkah Province;Taif;32146019.87
+2021-October;Tourists Spending (SAR);Makkah Province;Taif;690984.7
+2022-October;Tourists Spending (SAR);Makkah Province;Taif;1641087.81
+2023-November;Tourists Spending (SAR);Makkah Province;Taif;10998376.1
+2022-January;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2023-March;Tourists Spending (SAR);Makkah Province;Other Makkah;1079080.34
+2022-May;Tourists Spending (SAR);Makkah Province;Other Makkah;0.009999752044677734
+2023-June;Tourists Spending (SAR);Makkah Province;Other Makkah;7539067.25
+2022-November;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2022-January;Tourists Spending (SAR);Najran Province;Najran;11130.83
+2021-July;Tourists Spending (SAR);Najran Province;Najran;34828.56
+2023-October;Tourists Spending (SAR);Najran Province;Najran;640396.26
+2021-November;Tourists Spending (SAR);Najran Province;Najran;473190.0
+2023-January;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2023-February;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2021-March;Tourists Spending (SAR);Najran Province;Other Najran;295192.37
+2023-March;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2022-October;Tourists Spending (SAR);Najran Province;Other Najran;450206.87
+2023-November;Tourists Spending (SAR);Najran Province;Other Najran;840591.62
+2023-December;Tourists Spending (SAR);Najran Province;Other Najran;3039694.86
+2022-April;Tourists Spending (SAR);Northern Borders Province;Arar;35785839.56
+2023-May;Tourists Spending (SAR);Northern Borders Province;Arar;21591398.5
+2022-June;Tourists Spending (SAR);Northern Borders Province;Arar;40096651.27
+2021-July;Tourists Spending (SAR);Northern Borders Province;Arar;25114136.73
+2023-September;Tourists Spending (SAR);Northern Borders Province;Arar;12228889.9
+2022-January;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;5979237.77
+2023-February;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;16748974.11
+2021-April;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;3461752.59
+2022-May;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;15798375.889999997
+2023-May;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;22136254.950000003
+2021-August;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;6575229.45
+2023-September;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;33997218.17
+2021-October;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;6629767.17
+2022-November;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;5037505.63
+2023-November;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;25491373.310000002
+2022-December;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;268812.11
+2021-January;Tourists Spending (SAR);Riyadh Province;Riyadh;600858527.95
+2022-March;Tourists Spending (SAR);Riyadh Province;Riyadh;1083457044.44
+2022-April;Tourists Spending (SAR);Riyadh Province;Riyadh;1077538949.45
+2023-May;Tourists Spending (SAR);Riyadh Province;Riyadh;2142219323.94
+2022-June;Tourists Spending (SAR);Riyadh Province;Riyadh;1108805251.68
+2021-August;Tourists Spending (SAR);Riyadh Province;Riyadh;478523418.18
+2021-February;Tourists Spending (SAR);Riyadh Province;Other Riyadh;1129493.5
+2023-July;Tourists Spending (SAR);Riyadh Province;Other Riyadh;69825168.44999999
+2023-October;Tourists Spending (SAR);Riyadh Province;Other Riyadh;56811367.72
+2023-August;Tourists Spending (SAR);Tabuk Province;Al Wajh;606077.25
+2022-November;Tourists Spending (SAR);Tabuk Province;Al Wajh;1650167.02
+2023-November;Tourists Spending (SAR);Tabuk Province;Al Wajh;319100.03
+2023-January;Tourists Spending (SAR);Tabuk Province;Duba;2660715.82
+2021-March;Tourists Spending (SAR);Tabuk Province;Duba;1248162.09
+2023-January;Tourists Spending (SAR);Tabuk Province;Tabuk;11629213.83
+2022-March;Tourists Spending (SAR);Tabuk Province;Tabuk;129149.36
+2023-March;Tourists Spending (SAR);Tabuk Province;Tabuk;26723142.11
+2021-April;Tourists Spending (SAR);Tabuk Province;Tabuk;29959684.57
+2022-June;Tourists Spending (SAR);Tabuk Province;Tabuk;19121353.41
+2022-October;Tourists Spending (SAR);Tabuk Province;Tabuk;18725105.12
+2023-November;Tourists Spending (SAR);Tabuk Province;Tabuk;9806781.78
+2022-October;Tourists Spending (SAR);Tabuk Province;Umluj;543635.97
+2023-April;Tourists Spending (SAR);Tabuk Province;Other Tabuk;0.0
+2021-September;Tourists Spending (SAR);Tabuk Province;Other Tabuk;603218.03
+2023-March;Tourists Spending (SAR);Total;Total;17297589825.28
+2021-April;Tourists Spending (SAR);Total;Total;800808054.76
+2022-April;Tourists Spending (SAR);Total;Total;12214308726.97
+2021-July;Tourists Spending (SAR);Total;Total;995754187.46
+2021-August;Tourists Spending (SAR);Total;Total;966016808.98
+2022-August;Tourists Spending (SAR);Total;Total;7867792431.21
+2023-August;Tourists Spending (SAR);Total;Total;6952617493.09
+2022-January;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;103.05806359844051
+2021-April;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;48.0
+2021-July;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;107.0
+2022-August;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;294.2096589030773
+2021-September;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;26.0
+2022-October;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;18.54814814814813
+year-January;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-March;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-April;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-July;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-August;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-October;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-February;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+year-September;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+year-October;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+2022-January;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;18958.0
+2022-February;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;697.0
+2021-April;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;730.0
+2023-June;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;2734.0
+2023-July;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;10530.0
+2021-August;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;1295.0
+2022-November;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;3021.0
+2021-December;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4465.0
+2022-January;Tourists Number (Overnight Visitors);AlQassim Province;Rass;175.0
+2023-July;Tourists Number (Overnight Visitors);AlQassim Province;Rass;1386.0
+2021-August;Tourists Number (Overnight Visitors);AlQassim Province;Rass;41.0
+2022-September;Tourists Number (Overnight Visitors);AlQassim Province;Rass;52.0
+2021-December;Tourists Number (Overnight Visitors);AlQassim Province;Rass;40.0
+2023-May;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;2172.0
+2023-June;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;1996.0
+2021-July;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;1161.0
+2023-September;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;206.0
+2022-November;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;3500.0
+2022-March;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2023-June;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-July;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;322.0
+2021-August;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;378.0
+2021-October;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;231.0
+2022-November;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;38.0
+2023-November;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-December;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;308.0
+2022-January;Tourists Number (Overnight Visitors);Aseer Province;Abha;4.0
+2022-March;Tourists Number (Overnight Visitors);Aseer Province;Abha;2510.0
+2023-May;Tourists Number (Overnight Visitors);Aseer Province;Abha;1935.0
+2022-June;Tourists Number (Overnight Visitors);Aseer Province;Abha;791.0
+2023-June;Tourists Number (Overnight Visitors);Aseer Province;Abha;5780.0
+2022-July;Tourists Number (Overnight Visitors);Aseer Province;Abha;1492.0
+2021-September;Tourists Number (Overnight Visitors);Aseer Province;Abha;42.0
+2022-September;Tourists Number (Overnight Visitors);Aseer Province;Abha;687.0
+2021-January;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;375.0
+2023-January;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;2766.0
+2023-March;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;2142.0
+2023-June;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;355.0
+2023-December;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;3707.0
+2021-February;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;773.0
+2023-March;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;7629.0
+2021-October;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;90.0
+2021-January;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;10754.0
+2021-March;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;5393.0
+2022-March;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;64169.0
+2022-April;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;57229.0
+2023-April;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;108121.0
+2022-May;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;59897.0
+2023-May;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;70786.0
+2021-June;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;3591.0
+2022-September;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;65699.0
+2021-October;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;24032.0
+2023-December;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;137628.0
+2021-April;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;7361.0
+2022-April;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;73628.0
+2022-May;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;98854.0
+2023-May;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;105427.0
+2023-June;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;133821.0
+2021-August;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;13603.0
+2023-November;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;101695.0
+2022-December;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;178758.0
+2022-February;Tourists Number (Overnight Visitors);Eastern Province;Dammam;41936.0
+2023-February;Tourists Number (Overnight Visitors);Eastern Province;Dammam;139142.0
+2021-April;Tourists Number (Overnight Visitors);Eastern Province;Dammam;28557.0
+2023-April;Tourists Number (Overnight Visitors);Eastern Province;Dammam;133681.0
+2021-May;Tourists Number (Overnight Visitors);Eastern Province;Dammam;40470.0
+2023-July;Tourists Number (Overnight Visitors);Eastern Province;Dammam;111457.0
+2023-August;Tourists Number (Overnight Visitors);Eastern Province;Dammam;139710.0
+2022-September;Tourists Number (Overnight Visitors);Eastern Province;Dammam;109263.0
+2021-October;Tourists Number (Overnight Visitors);Eastern Province;Dammam;55648.0
+2023-October;Tourists Number (Overnight Visitors);Eastern Province;Dammam;113338.0
+2021-November;Tourists Number (Overnight Visitors);Eastern Province;Dammam;33958.0
+2022-December;Tourists Number (Overnight Visitors);Eastern Province;Dammam;154977.0
+2023-December;Tourists Number (Overnight Visitors);Eastern Province;Dammam;156839.0
+2021-February;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;11453.0
+2022-May;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;105656.0
+2023-June;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;138378.0
+2021-February;Tourists Number (Overnight Visitors);Hail Province;Hail;2898.0
+2022-March;Tourists Number (Overnight Visitors);Hail Province;Hail;3913.0
+2022-April;Tourists Number (Overnight Visitors);Hail Province;Hail;5415.0
+2021-July;Tourists Number (Overnight Visitors);Hail Province;Hail;275.0
+2022-July;Tourists Number (Overnight Visitors);Hail Province;Hail;4910.0
+2023-August;Tourists Number (Overnight Visitors);Hail Province;Hail;26448.0
+2022-September;Tourists Number (Overnight Visitors);Hail Province;Hail;5393.0
+2021-October;Tourists Number (Overnight Visitors);Hail Province;Hail;29766.0
+2023-October;Tourists Number (Overnight Visitors);Hail Province;Hail;25985.0
+2023-November;Tourists Number (Overnight Visitors);Hail Province;Hail;19992.0
+year-January;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+2023-January;Tourists Number (Overnight Visitors);Jazan Province;Jazan;1165.0
+2022-June;Tourists Number (Overnight Visitors);Jazan Province;Jazan;30.0
+2023-June;Tourists Number (Overnight Visitors);Jazan Province;Jazan;55.0
+2021-August;Tourists Number (Overnight Visitors);Jazan Province;Jazan;2.0
+2022-December;Tourists Number (Overnight Visitors);Jazan Province;Jazan;458.0
+2022-January;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;94.0
+2021-April;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;970.0
+2023-June;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1137.0
+2023-July;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2022-August;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2022-January;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;3853.0
+2022-March;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1977.0
+2023-August;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;9673.0
+2021-September;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;219.0
+2022-December;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1.0
+2023-December;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;17423.0
+2022-February;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;287.0
+2023-March;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;8720.0
+2021-April;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;939.0
+2022-April;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;5081.0
+2021-May;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1379.0
+2022-June;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;7967.0
+2023-July;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;8161.0
+2023-August;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;8367.0
+2021-September;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1758.0
+2022-September;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;790.0
+2023-January;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;1135.0
+2021-February;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;93.0
+2023-February;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;339.0
+2023-July;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;178.0
+2023-October;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;160.0
+2022-September;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;3.0
+2023-September;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;4714.0
+2023-December;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;18410.0
+2022-February;Tourists Number (Overnight Visitors);Madinah Province;Madinah;671.0
+2022-April;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1165.0
+2023-September;Tourists Number (Overnight Visitors);Madinah Province;Madinah;19400.0
+2022-November;Tourists Number (Overnight Visitors);Madinah Province;Madinah;12872.0
+2023-December;Tourists Number (Overnight Visitors);Madinah Province;Madinah;7539.0
+2023-February;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;1775.0
+2023-April;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;8190.0
+2023-July;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;2485.0
+2021-October;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;145.0
+2023-October;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;700.0
+2022-June;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;98.0
+2023-October;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;190.0
+2021-January;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;35015.0
+2021-April;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;28502.0
+2022-July;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;141121.0
+2022-September;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;122208.0
+2022-October;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;84792.0
+2023-October;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;90702.0
+2022-November;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;103060.0
+2022-January;Tourists Number (Overnight Visitors);Makkah Province;Makkah;247220.0
+2023-January;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1286770.0
+2021-February;Tourists Number (Overnight Visitors);Makkah Province;Makkah;2977.0
+2021-April;Tourists Number (Overnight Visitors);Makkah Province;Makkah;15023.0
+2021-May;Tourists Number (Overnight Visitors);Makkah Province;Makkah;8087.0
+2021-June;Tourists Number (Overnight Visitors);Makkah Province;Makkah;3471.0
+2022-October;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1014152.0
+2021-November;Tourists Number (Overnight Visitors);Makkah Province;Makkah;65060.0
+2021-April;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;156.0
+2021-October;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;81.0
+2021-January;Tourists Number (Overnight Visitors);Makkah Province;Taif;229.0
+2021-February;Tourists Number (Overnight Visitors);Makkah Province;Taif;302.0
+2023-March;Tourists Number (Overnight Visitors);Makkah Province;Taif;3806.0
+2021-April;Tourists Number (Overnight Visitors);Makkah Province;Taif;736.0
+2021-June;Tourists Number (Overnight Visitors);Makkah Province;Taif;74.0
+2022-June;Tourists Number (Overnight Visitors);Makkah Province;Taif;1032.0
+2023-June;Tourists Number (Overnight Visitors);Makkah Province;Taif;1085.0
+2023-September;Tourists Number (Overnight Visitors);Makkah Province;Taif;11551.0
+2022-November;Tourists Number (Overnight Visitors);Makkah Province;Taif;8365.0
+2023-December;Tourists Number (Overnight Visitors);Makkah Province;Taif;11655.0
+2021-January;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;51.0
+2022-January;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;1.0
+2021-May;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;25.0
+2023-June;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;1526.0
+2023-February;Tourists Number (Overnight Visitors);Najran Province;Najran;104.0
+2023-April;Tourists Number (Overnight Visitors);Najran Province;Najran;207.0
+2021-May;Tourists Number (Overnight Visitors);Najran Province;Najran;95.0
+2022-June;Tourists Number (Overnight Visitors);Najran Province;Najran;405.0
+2023-June;Tourists Number (Overnight Visitors);Najran Province;Najran;918.0
+2023-September;Tourists Number (Overnight Visitors);Najran Province;Najran;1391.0
+2023-October;Tourists Number (Overnight Visitors);Najran Province;Najran;113.0
+2021-January;Tourists Number (Overnight Visitors);Najran Province;Other Najran;148.0
+2023-January;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2023-May;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2021-June;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;7208.0
+2022-September;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;30516.0
+2022-October;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;4427.0
+2023-October;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;14379.0
+2021-November;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;9198.0
+2023-December;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;17273.0
+2023-March;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;15071.0
+2022-July;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;36235.0
+2022-October;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;2172.0
+2021-November;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;4693.0
+2022-February;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;80884.0
+2023-June;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;195478.0
+2021-August;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;83245.0
+2022-August;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;124745.0
+2021-September;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;101706.0
+2023-September;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;205114.0
+2021-October;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;118391.0
+2022-October;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;180325.0
+2022-February;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;1723.0
+2023-February;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;12583.0
+2021-May;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;833.0
+2022-May;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;11330.0
+2023-July;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;22237.0
+2023-September;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;18802.0
+2022-October;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;11255.0
+2023-January;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;850.0
+2023-July;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;178.0
+2021-May;Tourists Number (Overnight Visitors);Tabuk Province;Duba;564.0
+2021-August;Tourists Number (Overnight Visitors);Tabuk Province;Duba;163.0
+2021-October;Tourists Number (Overnight Visitors);Tabuk Province;Duba;101.0
+2022-February;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;8965.0
+2022-March;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;43.0
+2021-April;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;2367.0
+2021-September;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;1572.0
+2021-November;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;1001.0
+2022-December;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;1213.0
+2023-May;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;962.0
+2023-August;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;448.0
+2023-October;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;844.0
+2023-June;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;840.0
+2021-January;Tourists Number (Overnight Visitors);Total;Total;232765.0
+2021-February;Tourists Number (Overnight Visitors);Total;Total;125032.0
+2023-April;Tourists Number (Overnight Visitors);Total;Total;2424141.0
+2021-June;Tourists Number (Overnight Visitors);Total;Total;175431.0
+2022-June;Tourists Number (Overnight Visitors);Total;Total;867216.0
+2021-September;Tourists Number (Overnight Visitors);Total;Total;308163.0
+2022-October;Tourists Number (Overnight Visitors);Total;Total;1752774.0
+2021-November;Tourists Number (Overnight Visitors);Total;Total;493593.0
+2021-July;Tourists Spending (SAR);Albaha province;Al Bahah;26791.2
+2022-July;Tourists Spending (SAR);Albaha province;Al Bahah;389688.6444037771
+2023-August;Tourists Spending (SAR);Albaha province;Al Bahah;21871808.1
+year-July;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-August;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-September;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-October;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-November;Tourists Spending (SAR);Albaha province;Other AlBaha;
+2023-February;Tourists Spending (SAR);AlQassim Province;Buraydah;22258981.31
+2021-March;Tourists Spending (SAR);AlQassim Province;Buraydah;80286635.1
+2022-March;Tourists Spending (SAR);AlQassim Province;Buraydah;4935296.19
+2022-April;Tourists Spending (SAR);AlQassim Province;Buraydah;3147786.31
+2023-April;Tourists Spending (SAR);AlQassim Province;Buraydah;2800899.76
+2022-May;Tourists Spending (SAR);AlQassim Province;Buraydah;10248612.79
+2022-June;Tourists Spending (SAR);AlQassim Province;Buraydah;10701354.76
+year-February;Tourists Spending (SAR);AlQassim Province;Rass;
+2023-July;Tourists Spending (SAR);AlQassim Province;Rass;1536786.67
+2021-December;Tourists Spending (SAR);AlQassim Province;Rass;87157.19
+2023-January;Tourists Spending (SAR);AlQassim Province;Unayzah;6637674.27
+2022-May;Tourists Spending (SAR);AlQassim Province;Unayzah;259249.44
+2021-June;Tourists Spending (SAR);AlQassim Province;Unayzah;768405.42
+2022-July;Tourists Spending (SAR);AlQassim Province;Unayzah;334312.03
+2023-August;Tourists Spending (SAR);AlQassim Province;Unayzah;727200.23
+2023-October;Tourists Spending (SAR);AlQassim Province;Unayzah;3136411.19
+2022-December;Tourists Spending (SAR);AlQassim Province;Unayzah;195975969.39
+2021-May;Tourists Spending (SAR);AlQassim Province;Other AlQassim;66264.84
+2022-May;Tourists Spending (SAR);AlQassim Province;Other AlQassim;266720.30000000075
+2021-August;Tourists Spending (SAR);AlQassim Province;Other AlQassim;770248.5
+2022-January;Tourists Spending (SAR);Aseer Province;Abha;20810.74
+2023-January;Tourists Spending (SAR);Aseer Province;Abha;23276499.72
+2022-March;Tourists Spending (SAR);Aseer Province;Abha;7907767.85
+2021-May;Tourists Spending (SAR);Aseer Province;Abha;117295.14
+2022-May;Tourists Spending (SAR);Aseer Province;Abha;41816.33
+2022-June;Tourists Spending (SAR);Aseer Province;Abha;2700208.73
+2023-October;Tourists Spending (SAR);Aseer Province;Abha;20400039.13
+2023-November;Tourists Spending (SAR);Aseer Province;Abha;20278317.5
+2021-December;Tourists Spending (SAR);Aseer Province;Abha;39752935.46
+2023-February;Tourists Spending (SAR);Aseer Province;Khamis Mushait;17700044.87
+2023-May;Tourists Spending (SAR);Aseer Province;Khamis Mushait;46102236.01
+2022-June;Tourists Spending (SAR);Aseer Province;Khamis Mushait;3191320.75
+2023-June;Tourists Spending (SAR);Aseer Province;Khamis Mushait;2131331.8
+2022-July;Tourists Spending (SAR);Aseer Province;Khamis Mushait;559843.77
+2021-October;Tourists Spending (SAR);Aseer Province;Khamis Mushait;1277831.67
+2022-November;Tourists Spending (SAR);Aseer Province;Khamis Mushait;6746467.83
+2022-December;Tourists Spending (SAR);Aseer Province;Khamis Mushait;153470887.52
+2023-December;Tourists Spending (SAR);Aseer Province;Khamis Mushait;11516695.18
+2021-February;Tourists Spending (SAR);Aseer Province;Other Aseer;1581993.13
+2021-August;Tourists Spending (SAR);Aseer Province;Other Aseer;735836.6
+2023-September;Tourists Spending (SAR);Aseer Province;Other Aseer;12987956.509999998
+2022-October;Tourists Spending (SAR);Aseer Province;Other Aseer;2891698.3599999994
+2021-November;Tourists Spending (SAR);Aseer Province;Other Aseer;270898.61
+2023-November;Tourists Spending (SAR);Aseer Province;Other Aseer;20301603.53
+2023-December;Tourists Spending (SAR);Aseer Province;Other Aseer;18256255.61
+2023-January;Tourists Spending (SAR);Eastern Province;Al Ahsa;228853017.48
+2021-February;Tourists Spending (SAR);Eastern Province;Al Ahsa;7008775.28
+2023-February;Tourists Spending (SAR);Eastern Province;Al Ahsa;137677615.86
+2021-April;Tourists Spending (SAR);Eastern Province;Al Ahsa;3150068.69
+2022-April;Tourists Spending (SAR);Eastern Province;Al Ahsa;83447683.61
+2021-June;Tourists Spending (SAR);Eastern Province;Al Ahsa;2377894.39
+2021-August;Tourists Spending (SAR);Eastern Province;Al Ahsa;11355333.49
+2023-September;Tourists Spending (SAR);Eastern Province;Al Ahsa;66363282.95
+2021-January;Tourists Spending (SAR);Eastern Province;Al Khobar;87711929.54
+2023-April;Tourists Spending (SAR);Eastern Province;Al Khobar;467499814.75
+2021-May;Tourists Spending (SAR);Eastern Province;Al Khobar;13682073.88
+2021-July;Tourists Spending (SAR);Eastern Province;Al Khobar;14718393.5
+2021-November;Tourists Spending (SAR);Eastern Province;Al Khobar;133456290.03
+2021-December;Tourists Spending (SAR);Eastern Province;Al Khobar;126765756.78
+2021-March;Tourists Spending (SAR);Eastern Province;Dammam;21235272.0
+2021-June;Tourists Spending (SAR);Eastern Province;Dammam;183234537.39
+2022-August;Tourists Spending (SAR);Eastern Province;Dammam;174504822.48
+2023-August;Tourists Spending (SAR);Eastern Province;Dammam;300661359.21
+2022-September;Tourists Spending (SAR);Eastern Province;Dammam;153502422.72
+2021-October;Tourists Spending (SAR);Eastern Province;Dammam;156742789.09
+2022-November;Tourists Spending (SAR);Eastern Province;Dammam;185849133.2
+2021-March;Tourists Spending (SAR);Eastern Province;Other Eastern;10334152.42
+2022-April;Tourists Spending (SAR);Eastern Province;Other Eastern;89458304.12
+2023-June;Tourists Spending (SAR);Eastern Province;Other Eastern;128396230.52
+2021-August;Tourists Spending (SAR);Eastern Province;Other Eastern;23528303.09
+2022-August;Tourists Spending (SAR);Eastern Province;Other Eastern;149677888.11
+2023-August;Tourists Spending (SAR);Eastern Province;Other Eastern;151752987.17000002
+2023-November;Tourists Spending (SAR);Eastern Province;Other Eastern;182382503.79000002
+2021-January;Tourists Spending (SAR);Hail Province;Hail;361931.1
+2021-March;Tourists Spending (SAR);Hail Province;Hail;4497216.63
+2023-June;Tourists Spending (SAR);Hail Province;Hail;103741513.81
+2023-July;Tourists Spending (SAR);Hail Province;Hail;95752114.81
+2021-August;Tourists Spending (SAR);Hail Province;Hail;3493614.49
+2022-August;Tourists Spending (SAR);Hail Province;Hail;10746921.99
+2022-October;Tourists Spending (SAR);Hail Province;Hail;19097687.5
+2023-October;Tourists Spending (SAR);Hail Province;Hail;137343800.04
+year-July;Tourists Spending (SAR);Hail Province;Other Hail;
+year-August;Tourists Spending (SAR);Hail Province;Other Hail;
+2021-January;Tourists Spending (SAR);Jazan Province;Jazan;2910693.04
+2023-February;Tourists Spending (SAR);Jazan Province;Jazan;11724711.92
+2023-October;Tourists Spending (SAR);Jazan Province;Jazan;55220.83
+2022-March;Tourists Spending (SAR);Jazan Province;Other Jazan;61299929.949999996
+2023-March;Tourists Spending (SAR);Jazan Province;Other Jazan;3791592.12
+2023-June;Tourists Spending (SAR);Jazan Province;Other Jazan;2488183.18
+2023-February;Tourists Spending (SAR);Jouf Province;Al Qurayyat;20647816.76
+2022-May;Tourists Spending (SAR);Jouf Province;Al Qurayyat;2458955.73
+2022-June;Tourists Spending (SAR);Jouf Province;Al Qurayyat;5184213.74
+2023-June;Tourists Spending (SAR);Jouf Province;Al Qurayyat;22469116.21
+2021-August;Tourists Spending (SAR);Jouf Province;Al Qurayyat;893950.6
+2022-August;Tourists Spending (SAR);Jouf Province;Al Qurayyat;513.84
+2023-September;Tourists Spending (SAR);Jouf Province;Al Qurayyat;8270360.39
+2022-December;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1799.9
+2021-February;Tourists Spending (SAR);Jouf Province;Sakaka;688897.77
+2021-May;Tourists Spending (SAR);Jouf Province;Sakaka;3626645.99
+2021-June;Tourists Spending (SAR);Jouf Province;Sakaka;3496624.77
+2022-June;Tourists Spending (SAR);Jouf Province;Sakaka;9647284.31
+2023-June;Tourists Spending (SAR);Jouf Province;Sakaka;19676983.72
+2023-July;Tourists Spending (SAR);Jouf Province;Sakaka;10138820.04
+2022-September;Tourists Spending (SAR);Jouf Province;Sakaka;1024328.11
+2023-September;Tourists Spending (SAR);Jouf Province;Sakaka;7483005.13
+2023-October;Tourists Spending (SAR);Jouf Province;Sakaka;9643050.36
+2023-February;Tourists Spending (SAR);Jouf Province;Other Jouf;2243507.98
+year-June;Tourists Spending (SAR);Jouf Province;Other Jouf;
+2023-October;Tourists Spending (SAR);Jouf Province;Other Jouf;193438.71
+2023-March;Tourists Spending (SAR);Madinah Province;Al Ula;80613544.91
+2022-April;Tourists Spending (SAR);Madinah Province;Al Ula;19336.57
+2022-November;Tourists Spending (SAR);Madinah Province;Al Ula;35865456.18
+2021-April;Tourists Spending (SAR);Madinah Province;Madinah;73734.42
+2023-April;Tourists Spending (SAR);Madinah Province;Madinah;406728552.08
+2023-July;Tourists Spending (SAR);Madinah Province;Madinah;127471218.77
+2023-September;Tourists Spending (SAR);Madinah Province;Madinah;52156206.83
+year-June;Tourists Spending (SAR);Madinah Province;Yanbu;
+2023-September;Tourists Spending (SAR);Madinah Province;Yanbu;4634620.96
+2023-November;Tourists Spending (SAR);Madinah Province;Yanbu;1717337.51
+2023-January;Tourists Spending (SAR);Madinah Province;Other Madinah;541268.02
+2023-July;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2023-September;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2021-October;Tourists Spending (SAR);Madinah Province;Other Madinah;116045.53
+2022-January;Tourists Spending (SAR);Makkah Province;Jeddah;154244307.38
+2021-February;Tourists Spending (SAR);Makkah Province;Jeddah;68265646.77
+2021-October;Tourists Spending (SAR);Makkah Province;Jeddah;49087105.37
+2023-November;Tourists Spending (SAR);Makkah Province;Jeddah;476413304.72
+2021-February;Tourists Spending (SAR);Makkah Province;Makkah;15424064.81
+2022-March;Tourists Spending (SAR);Makkah Province;Makkah;4109685971.32
+2023-May;Tourists Spending (SAR);Makkah Province;Makkah;4334102074.17
+2023-June;Tourists Spending (SAR);Makkah Province;Makkah;27094061300.28
+2022-October;Tourists Spending (SAR);Makkah Province;Makkah;5599891634.08
+2022-November;Tourists Spending (SAR);Makkah Province;Makkah;4946226060.47
+2023-November;Tourists Spending (SAR);Makkah Province;Makkah;7423749310.65
+2021-April;Tourists Spending (SAR);Makkah Province;Rabigh;952069.3
+2021-June;Tourists Spending (SAR);Makkah Province;Rabigh;171328.35
+2021-July;Tourists Spending (SAR);Makkah Province;Rabigh;242037.09
+year-September;Tourists Spending (SAR);Makkah Province;Rabigh;
+2021-October;Tourists Spending (SAR);Makkah Province;Rabigh;156888.44
+2021-February;Tourists Spending (SAR);Makkah Province;Taif;418219.21
+2021-June;Tourists Spending (SAR);Makkah Province;Taif;225792.09
+2022-June;Tourists Spending (SAR);Makkah Province;Taif;2620656.71
+2022-July;Tourists Spending (SAR);Makkah Province;Taif;2360593.53
+2022-September;Tourists Spending (SAR);Makkah Province;Taif;7709755.14
+2023-January;Tourists Spending (SAR);Makkah Province;Other Makkah;223966.4
+2023-February;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2021-April;Tourists Spending (SAR);Makkah Province;Other Makkah;2234005.92
+2022-April;Tourists Spending (SAR);Makkah Province;Other Makkah;0.010000228881835938
+2023-April;Tourists Spending (SAR);Makkah Province;Other Makkah;6636695.62
+2021-May;Tourists Spending (SAR);Makkah Province;Other Makkah;66919.93
+2023-May;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2022-June;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2023-September;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2023-November;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2022-December;Tourists Spending (SAR);Makkah Province;Other Makkah;0.010000228881835938
+2022-March;Tourists Spending (SAR);Najran Province;Najran;32185.4
+2023-April;Tourists Spending (SAR);Najran Province;Najran;740733.63
+2021-February;Tourists Spending (SAR);Najran Province;Other Najran;76428.0
+2023-June;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2023-July;Tourists Spending (SAR);Najran Province;Other Najran;927333.49
+2021-September;Tourists Spending (SAR);Najran Province;Other Najran;61464.19
+2023-September;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2021-January;Tourists Spending (SAR);Northern Borders Province;Arar;2488747.46
+2023-April;Tourists Spending (SAR);Northern Borders Province;Arar;5919145.29
+2021-May;Tourists Spending (SAR);Northern Borders Province;Arar;7371945.25
+2023-June;Tourists Spending (SAR);Northern Borders Province;Arar;21791245.62
+2023-July;Tourists Spending (SAR);Northern Borders Province;Arar;13075893.37
+2023-August;Tourists Spending (SAR);Northern Borders Province;Arar;17310016.19
+2021-September;Tourists Spending (SAR);Northern Borders Province;Arar;21478776.1
+2021-October;Tourists Spending (SAR);Northern Borders Province;Arar;22481343.26
+2022-November;Tourists Spending (SAR);Northern Borders Province;Arar;7743241.37
+2023-December;Tourists Spending (SAR);Northern Borders Province;Arar;9068849.22
+2021-March;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;1671526.09
+2023-March;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;26291460.11
+2023-June;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;55881966.79
+2021-September;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;14854403.98
+2022-September;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;4127214.5100000016
+2023-March;Tourists Spending (SAR);Riyadh Province;Riyadh;1478085215.12
+2022-July;Tourists Spending (SAR);Riyadh Province;Riyadh;516299151.18
+2023-August;Tourists Spending (SAR);Riyadh Province;Riyadh;718101402.42
+2022-September;Tourists Spending (SAR);Riyadh Province;Riyadh;845192569.35
+2023-September;Tourists Spending (SAR);Riyadh Province;Riyadh;679852586.33
+2023-October;Tourists Spending (SAR);Riyadh Province;Riyadh;572376315.61
+2023-December;Tourists Spending (SAR);Riyadh Province;Riyadh;782899487.23
+2023-February;Tourists Spending (SAR);Riyadh Province;Other Riyadh;37087617.410000004
+2022-March;Tourists Spending (SAR);Riyadh Province;Other Riyadh;5747742.579999924
+2022-April;Tourists Spending (SAR);Riyadh Province;Other Riyadh;6136331.329999924
+2023-April;Tourists Spending (SAR);Riyadh Province;Other Riyadh;67119970.5
+2022-June;Tourists Spending (SAR);Riyadh Province;Other Riyadh;27999411.409999847
+2023-June;Tourists Spending (SAR);Riyadh Province;Other Riyadh;44649337.53
+2021-July;Tourists Spending (SAR);Riyadh Province;Other Riyadh;1539644.09
+2023-August;Tourists Spending (SAR);Riyadh Province;Other Riyadh;50828607.66000001
+2021-November;Tourists Spending (SAR);Riyadh Province;Other Riyadh;11917083.33
+2022-December;Tourists Spending (SAR);Riyadh Province;Other Riyadh;0.0
+2023-February;Tourists Spending (SAR);Tabuk Province;Duba;6792563.38
+2023-March;Tourists Spending (SAR);Tabuk Province;Duba;4479517.05
+2023-May;Tourists Spending (SAR);Tabuk Province;Duba;2350425.4
+2022-December;Tourists Spending (SAR);Tabuk Province;Duba;2514763.62
+2023-December;Tourists Spending (SAR);Tabuk Province;Duba;2974621.33
+2021-February;Tourists Spending (SAR);Tabuk Province;Tabuk;4097608.01
+2023-April;Tourists Spending (SAR);Tabuk Province;Tabuk;2294928.26
+2021-May;Tourists Spending (SAR);Tabuk Province;Tabuk;5329730.51
+2022-September;Tourists Spending (SAR);Tabuk Province;Tabuk;152310391.38
+2023-December;Tourists Spending (SAR);Tabuk Province;Tabuk;34476791.04
+2023-February;Tourists Spending (SAR);Tabuk Province;Umluj;3856506.89
+2023-June;Tourists Spending (SAR);Tabuk Province;Umluj;1657855.73
+2023-October;Tourists Spending (SAR);Tabuk Province;Umluj;2090143.08
+2023-May;Tourists Spending (SAR);Tabuk Province;Other Tabuk;1659255.11
+2022-October;Tourists Spending (SAR);Tabuk Province;Other Tabuk;361011.83999999985
+2023-November;Tourists Spending (SAR);Tabuk Province;Other Tabuk;1116912.43
+2022-January;Tourists Spending (SAR);Total;Total;3147170615.18
+2023-February;Tourists Spending (SAR);Total;Total;11704957341.86
+2021-March;Tourists Spending (SAR);Total;Total;502989244.12
+2023-May;Tourists Spending (SAR);Total;Total;9163928087.43
+2023-June;Tourists Spending (SAR);Total;Total;30290166503.85
+2023-July;Tourists Spending (SAR);Total;Total;4974464756.94
+2021-October;Tourists Spending (SAR);Total;Total;1932996439.13
+2022-October;Tourists Spending (SAR);Total;Total;8885720950.22
+2022-December;Tourists Spending (SAR);Total;Total;12059526178.01
+2021-February;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;27.0
+2021-June;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;139.0
+2023-September;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;3031.0
+2023-December;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;2.0
+year-May;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-December;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+year-May;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+year-June;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+2021-February;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;1148.0
+2023-March;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;9031.0
+2023-April;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;1193.0
+2023-May;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;5449.0
+2022-June;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;3698.0
+2021-September;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;742.0
+2023-December;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;11675.0
+2023-January;Tourists Number (Overnight Visitors);AlQassim Province;Rass;1830.0
+2021-July;Tourists Number (Overnight Visitors);AlQassim Province;Rass;258.0
+2022-October;Tourists Number (Overnight Visitors);AlQassim Province;Rass;300.0
+2021-November;Tourists Number (Overnight Visitors);AlQassim Province;Rass;34.0
+2022-January;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;998.0
+2022-July;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;201.0
+2023-November;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;3192.0
+2023-March;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;567.0
+2021-April;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;105.0
+2022-April;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-May;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;30.0
+2022-July;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;32.0
+2023-October;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;145.0
+2022-December;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;4927.0
+2023-March;Tourists Number (Overnight Visitors);Aseer Province;Abha;3470.0
+2021-August;Tourists Number (Overnight Visitors);Aseer Province;Abha;590.0
+2023-September;Tourists Number (Overnight Visitors);Aseer Province;Abha;10155.0
+2021-November;Tourists Number (Overnight Visitors);Aseer Province;Abha;1274.0
+2022-November;Tourists Number (Overnight Visitors);Aseer Province;Abha;5594.0
+2022-January;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1.0
+2023-February;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;3807.0
+2023-September;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;3633.0
+2022-October;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;652.0
+2023-April;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;10598.0
+2023-June;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;2496.0
+2022-October;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;817.0
+2022-December;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;5233.0
+2023-June;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;92940.0
+2021-August;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;13262.0
+2021-September;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;19238.0
+2022-October;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;76493.0
+2023-November;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;61949.0
+2021-January;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;27788.0
+2022-July;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;150213.0
+2022-September;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;69334.0
+2023-September;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;128032.0
+2023-October;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;96187.0
+2021-December;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;55544.0
+2021-March;Tourists Number (Overnight Visitors);Eastern Province;Dammam;8959.0
+2022-April;Tourists Number (Overnight Visitors);Eastern Province;Dammam;96238.0
+2021-June;Tourists Number (Overnight Visitors);Eastern Province;Dammam;35998.0
+2023-June;Tourists Number (Overnight Visitors);Eastern Province;Dammam;117524.0
+2021-December;Tourists Number (Overnight Visitors);Eastern Province;Dammam;50536.0
+2022-March;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;73855.0
+2022-April;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;66246.0
+2023-July;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;130768.0
+2022-August;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;105160.0
+2021-September;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;28278.0
+2023-September;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;120856.0
+2021-October;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;45319.0
+2022-November;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;82803.0
+2023-April;Tourists Number (Overnight Visitors);Hail Province;Hail;29591.0
+2021-June;Tourists Number (Overnight Visitors);Hail Province;Hail;279.0
+2022-June;Tourists Number (Overnight Visitors);Hail Province;Hail;9864.0
+2021-September;Tourists Number (Overnight Visitors);Hail Province;Hail;490.0
+2022-November;Tourists Number (Overnight Visitors);Hail Province;Hail;17616.0
+year-March;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-June;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+2021-January;Tourists Number (Overnight Visitors);Jazan Province;Jazan;232.0
+2021-March;Tourists Number (Overnight Visitors);Jazan Province;Jazan;693.0
+2022-July;Tourists Number (Overnight Visitors);Jazan Province;Jazan;22.0
+2023-July;Tourists Number (Overnight Visitors);Jazan Province;Jazan;883.0
+2021-September;Tourists Number (Overnight Visitors);Jazan Province;Jazan;3.0
+2021-November;Tourists Number (Overnight Visitors);Jazan Province;Jazan;14.0
+2023-November;Tourists Number (Overnight Visitors);Jazan Province;Jazan;204.0
+2021-February;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;16.0
+2021-June;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;104.0
+2022-October;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;274.0
+2023-October;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2023-November;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;823.0
+2023-February;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;5537.0
+2021-April;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;244.0
+2022-June;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1964.0
+2023-June;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;7839.0
+2022-August;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1.0
+2023-September;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;8456.0
+2022-October;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;5654.0
+2023-October;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;7142.0
+2023-November;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;9550.0
+2023-January;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;7529.0
+2022-August;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;170.0
+2023-September;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;4853.0
+2021-October;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;619.0
+2023-October;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;8350.0
+2021-November;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1080.0
+2023-December;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;8968.0
+year-April;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;
+2023-August;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;1322.0
+2023-September;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;1932.0
+2023-November;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;1584.0
+2022-January;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;848.0
+2022-March;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;2568.0
+2021-April;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;15.0
+2022-May;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;195.0
+2023-May;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;6064.0
+2021-August;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;246.0
+2023-August;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;4539.0
+2023-November;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;7245.0
+2022-December;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;40471.0
+2021-January;Tourists Number (Overnight Visitors);Madinah Province;Madinah;91.0
+2021-March;Tourists Number (Overnight Visitors);Madinah Province;Madinah;2443.0
+2022-March;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1582.0
+2023-March;Tourists Number (Overnight Visitors);Madinah Province;Madinah;10526.0
+2022-May;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1112.0
+2023-May;Tourists Number (Overnight Visitors);Madinah Province;Madinah;8597.0
+2023-October;Tourists Number (Overnight Visitors);Madinah Province;Madinah;9910.0
+2021-April;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;15.0
+year-June;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;
+2023-March;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;232.0
+2023-August;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2021-September;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;36.0
+2023-September;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2022-November;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;72.0
+2023-December;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2023-May;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;106815.0
+2023-June;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;157663.0
+2022-August;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;59393.0
+2021-September;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;14909.0
+2023-December;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;181472.0
+2021-July;Tourists Number (Overnight Visitors);Makkah Province;Makkah;13238.0
+2022-July;Tourists Number (Overnight Visitors);Makkah Province;Makkah;843041.0
+2021-September;Tourists Number (Overnight Visitors);Makkah Province;Makkah;36384.0
+2023-October;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1389210.0
+2023-November;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1420111.0
+2023-July;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;67.0
+2023-January;Tourists Number (Overnight Visitors);Makkah Province;Taif;3553.0
+2023-February;Tourists Number (Overnight Visitors);Makkah Province;Taif;5750.0
+2021-March;Tourists Number (Overnight Visitors);Makkah Province;Taif;381.0
+2022-April;Tourists Number (Overnight Visitors);Makkah Province;Taif;554.0
+2021-July;Tourists Number (Overnight Visitors);Makkah Province;Taif;31.0
+2021-September;Tourists Number (Overnight Visitors);Makkah Province;Taif;73.0
+2023-November;Tourists Number (Overnight Visitors);Makkah Province;Taif;5833.0
+2022-March;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;1.0
+2021-April;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;326.0
+2022-April;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;1.0
+2021-July;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;101.0
+2021-August;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;44.0
+2022-September;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2021-November;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;185.0
+2021-January;Tourists Number (Overnight Visitors);Najran Province;Najran;196.0
+2023-January;Tourists Number (Overnight Visitors);Najran Province;Najran;3154.0
+2023-May;Tourists Number (Overnight Visitors);Najran Province;Najran;326.0
+2022-July;Tourists Number (Overnight Visitors);Najran Province;Najran;477.0
+2022-August;Tourists Number (Overnight Visitors);Najran Province;Najran;758.0
+2022-September;Tourists Number (Overnight Visitors);Najran Province;Najran;1264.0
+2021-October;Tourists Number (Overnight Visitors);Najran Province;Najran;636.0
+2021-February;Tourists Number (Overnight Visitors);Najran Province;Other Najran;30.0
+2023-February;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2023-March;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2021-September;Tourists Number (Overnight Visitors);Najran Province;Other Najran;36.0
+2023-September;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2022-October;Tourists Number (Overnight Visitors);Najran Province;Other Najran;145.0
+2023-October;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2022-March;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;36978.0
+2023-March;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;8916.0
+2022-April;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;44500.0
+2022-August;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;67761.0
+2022-December;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;51.0
+2023-January;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;11174.0
+2021-February;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;584.0
+2021-April;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;1587.0
+2022-April;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;15762.0
+2022-May;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;29917.0
+2021-June;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;1726.0
+2021-July;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;7131.0
+2021-August;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;3309.0
+2023-September;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;18206.0
+2022-December;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;243.0
+2022-March;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;150525.0
+2021-July;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;87729.0
+2022-July;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;178640.0
+2023-October;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;187942.0
+2022-November;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;170348.0
+2021-December;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;240630.0
+2021-January;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;1665.0
+2021-June;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;1100.0
+2021-July;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;1297.0
+2022-July;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;21839.0
+2023-August;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;18369.0
+2022-November;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;7356.0
+2021-February;Tourists Number (Overnight Visitors);Tabuk Province;Duba;257.0
+year-April;Tourists Number (Overnight Visitors);Tabuk Province;Duba;
+2023-July;Tourists Number (Overnight Visitors);Tabuk Province;Duba;780.0
+2023-August;Tourists Number (Overnight Visitors);Tabuk Province;Duba;778.0
+2023-September;Tourists Number (Overnight Visitors);Tabuk Province;Duba;246.0
+2023-October;Tourists Number (Overnight Visitors);Tabuk Province;Duba;1165.0
+2023-November;Tourists Number (Overnight Visitors);Tabuk Province;Duba;1494.0
+2021-December;Tourists Number (Overnight Visitors);Tabuk Province;Duba;385.0
+2023-December;Tourists Number (Overnight Visitors);Tabuk Province;Duba;954.0
+2022-June;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;10212.0
+2023-June;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;840.0
+2023-March;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;744.0
+2021-September;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;139.0
+2023-September;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;738.0
+2022-October;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;68.0
+2023-October;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;1510.0
+2023-January;Tourists Number (Overnight Visitors);Total;Total;2481869.0
+2023-February;Tourists Number (Overnight Visitors);Total;Total;2455777.0
+2022-March;Tourists Number (Overnight Visitors);Total;Total;1217114.0
+2021-April;Tourists Number (Overnight Visitors);Total;Total;176031.0
+2021-May;Tourists Number (Overnight Visitors);Total;Total;184845.0
+2022-May;Tourists Number (Overnight Visitors);Total;Total;1104371.0
+2021-July;Tourists Number (Overnight Visitors);Total;Total;231295.0
+2022-January;Tourists Spending (SAR);Albaha province;Al Bahah;322104.12982974574
+2023-January;Tourists Spending (SAR);Albaha province;Al Bahah;1478175.45
+2021-March;Tourists Spending (SAR);Albaha province;Al Bahah;38707.33
+2022-April;Tourists Spending (SAR);Albaha province;Al Bahah;229958.1494643025
+2021-May;Tourists Spending (SAR);Albaha province;Al Bahah;126752.2
+2021-August;Tourists Spending (SAR);Albaha province;Al Bahah;95415.37
+2022-August;Tourists Spending (SAR);Albaha province;Al Bahah;3137823.3033625013
+2022-September;Tourists Spending (SAR);Albaha province;Al Bahah;736353.9052836248
+2023-October;Tourists Spending (SAR);Albaha province;Al Bahah;4564939.33
+year-February;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-May;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-August;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-September;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-June;Tourists Spending (SAR);Albaha province;Other AlBaha;
+2022-February;Tourists Spending (SAR);AlQassim Province;Buraydah;1354765.83
+2021-May;Tourists Spending (SAR);AlQassim Province;Buraydah;3073069.16
+2023-May;Tourists Spending (SAR);AlQassim Province;Buraydah;13503066.76
+2021-July;Tourists Spending (SAR);AlQassim Province;Buraydah;1297109.12
+2021-September;Tourists Spending (SAR);AlQassim Province;Buraydah;1965214.83
+2022-October;Tourists Spending (SAR);AlQassim Province;Buraydah;12285746.82
+2023-December;Tourists Spending (SAR);AlQassim Province;Buraydah;19277142.7
+2023-January;Tourists Spending (SAR);AlQassim Province;Rass;2553592.47
+2021-July;Tourists Spending (SAR);AlQassim Province;Rass;554634.63
+2022-September;Tourists Spending (SAR);AlQassim Province;Rass;98813.02
+2021-August;Tourists Spending (SAR);AlQassim Province;Unayzah;2129387.3
+2022-October;Tourists Spending (SAR);AlQassim Province;Unayzah;33721074.43
+2022-November;Tourists Spending (SAR);AlQassim Province;Unayzah;9166836.68
+2021-December;Tourists Spending (SAR);AlQassim Province;Unayzah;2511555.88
+2022-February;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2023-August;Tourists Spending (SAR);AlQassim Province;Other AlQassim;7724.37
+2021-September;Tourists Spending (SAR);AlQassim Province;Other AlQassim;339011.83
+2022-October;Tourists Spending (SAR);AlQassim Province;Other AlQassim;-0.009999997913837433
+2022-December;Tourists Spending (SAR);AlQassim Province;Other AlQassim;13585772.870000005
+2021-January;Tourists Spending (SAR);Aseer Province;Abha;1716789.39
+2023-July;Tourists Spending (SAR);Aseer Province;Abha;29559427.07
+2023-August;Tourists Spending (SAR);Aseer Province;Abha;54728362.31
+2021-September;Tourists Spending (SAR);Aseer Province;Abha;48628.96
+2021-May;Tourists Spending (SAR);Aseer Province;Khamis Mushait;153919.95
+2021-July;Tourists Spending (SAR);Aseer Province;Khamis Mushait;128597.77
+2023-August;Tourists Spending (SAR);Aseer Province;Khamis Mushait;9574872.4
+2022-September;Tourists Spending (SAR);Aseer Province;Khamis Mushait;6324452.39
+2023-November;Tourists Spending (SAR);Aseer Province;Khamis Mushait;2689757.15
+2021-December;Tourists Spending (SAR);Aseer Province;Khamis Mushait;6375202.03
+2022-February;Tourists Spending (SAR);Aseer Province;Other Aseer;7394174.92
+2022-March;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2023-March;Tourists Spending (SAR);Aseer Province;Other Aseer;98003747.27999999
+2022-April;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2023-April;Tourists Spending (SAR);Aseer Province;Other Aseer;97764204.28999999
+2023-May;Tourists Spending (SAR);Aseer Province;Other Aseer;39045501.43000001
+2021-June;Tourists Spending (SAR);Aseer Province;Other Aseer;46846.21
+2022-June;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2022-July;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2022-August;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2023-August;Tourists Spending (SAR);Aseer Province;Other Aseer;15663178.329999998
+2022-September;Tourists Spending (SAR);Aseer Province;Other Aseer;0.0
+2023-October;Tourists Spending (SAR);Aseer Province;Other Aseer;17022454.07
+2022-January;Tourists Spending (SAR);Eastern Province;Al Ahsa;18968403.25
+2022-May;Tourists Spending (SAR);Eastern Province;Al Ahsa;81258888.96
+2022-August;Tourists Spending (SAR);Eastern Province;Al Ahsa;83030437.45
+2022-October;Tourists Spending (SAR);Eastern Province;Al Ahsa;77281731.11
+2021-December;Tourists Spending (SAR);Eastern Province;Al Ahsa;36308623.87
+2023-January;Tourists Spending (SAR);Eastern Province;Al Khobar;532334152.67
+2022-February;Tourists Spending (SAR);Eastern Province;Al Khobar;560445289.13
+2022-July;Tourists Spending (SAR);Eastern Province;Al Khobar;295514945.88
+2021-August;Tourists Spending (SAR);Eastern Province;Al Khobar;24297019.41
+2021-September;Tourists Spending (SAR);Eastern Province;Al Khobar;114525435.71
+2022-September;Tourists Spending (SAR);Eastern Province;Al Khobar;303936379.79
+2023-November;Tourists Spending (SAR);Eastern Province;Al Khobar;365324540.95
+2022-March;Tourists Spending (SAR);Eastern Province;Dammam;115223623.11
+2023-March;Tourists Spending (SAR);Eastern Province;Dammam;244751355.39
+2023-April;Tourists Spending (SAR);Eastern Province;Dammam;296195089.88
+2021-May;Tourists Spending (SAR);Eastern Province;Dammam;173579300.07
+2022-July;Tourists Spending (SAR);Eastern Province;Dammam;108564910.83
+2022-January;Tourists Spending (SAR);Eastern Province;Other Eastern;41136687.98000002
+2022-February;Tourists Spending (SAR);Eastern Province;Other Eastern;31864844.05000007
+2023-March;Tourists Spending (SAR);Eastern Province;Other Eastern;183800295.16000003
+2022-May;Tourists Spending (SAR);Eastern Province;Other Eastern;138884784.89999986
+2021-June;Tourists Spending (SAR);Eastern Province;Other Eastern;17317581.45
+2022-November;Tourists Spending (SAR);Eastern Province;Other Eastern;94399420.0200001
+2022-December;Tourists Spending (SAR);Eastern Province;Other Eastern;49508443.52999997
+2023-December;Tourists Spending (SAR);Eastern Province;Other Eastern;117753589.69000001
+2022-January;Tourists Spending (SAR);Hail Province;Hail;12994390.05
+2021-May;Tourists Spending (SAR);Hail Province;Hail;1773864.23
+2021-June;Tourists Spending (SAR);Hail Province;Hail;531791.16
+2023-December;Tourists Spending (SAR);Hail Province;Hail;78485969.98
+year-March;Tourists Spending (SAR);Hail Province;Other Hail;
+year-September;Tourists Spending (SAR);Hail Province;Other Hail;
+2023-January;Tourists Spending (SAR);Jazan Province;Jazan;3011713.48
+2022-March;Tourists Spending (SAR);Jazan Province;Jazan;52458463.57
+2023-April;Tourists Spending (SAR);Jazan Province;Jazan;622983.32
+2022-June;Tourists Spending (SAR);Jazan Province;Jazan;161343.36
+2023-June;Tourists Spending (SAR);Jazan Province;Jazan;181196.46
+2023-April;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2023-May;Tourists Spending (SAR);Jazan Province;Other Jazan;963473.25
+2021-July;Tourists Spending (SAR);Jazan Province;Other Jazan;75015.36
+2023-September;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2022-October;Tourists Spending (SAR);Jazan Province;Other Jazan;326089.9800000001
+2022-December;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2022-January;Tourists Spending (SAR);Jouf Province;Al Qurayyat;17200968.25
+2021-March;Tourists Spending (SAR);Jouf Province;Al Qurayyat;662734.18
+2021-May;Tourists Spending (SAR);Jouf Province;Al Qurayyat;438026.33
+2021-June;Tourists Spending (SAR);Jouf Province;Al Qurayyat;121810.41
+2023-July;Tourists Spending (SAR);Jouf Province;Al Qurayyat;9157268.47
+2021-October;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1325864.58
+2022-October;Tourists Spending (SAR);Jouf Province;Al Qurayyat;14814290.07
+2023-November;Tourists Spending (SAR);Jouf Province;Al Qurayyat;18290791.57
+2021-January;Tourists Spending (SAR);Jouf Province;Sakaka;1427432.6
+2022-February;Tourists Spending (SAR);Jouf Province;Sakaka;1976950.27
+2023-February;Tourists Spending (SAR);Jouf Province;Sakaka;17701515.32
+2021-July;Tourists Spending (SAR);Jouf Province;Sakaka;4832665.52
+2022-July;Tourists Spending (SAR);Jouf Province;Sakaka;4324334.97
+2021-October;Tourists Spending (SAR);Jouf Province;Sakaka;2404672.85
+2021-November;Tourists Spending (SAR);Jouf Province;Sakaka;5235955.65
+2023-May;Tourists Spending (SAR);Jouf Province;Other Jouf;42328.86
+2023-July;Tourists Spending (SAR);Jouf Province;Other Jouf;422248.39
+2021-September;Tourists Spending (SAR);Jouf Province;Other Jouf;2027963.44
+2023-November;Tourists Spending (SAR);Jouf Province;Other Jouf;1838470.81
+2023-April;Tourists Spending (SAR);Madinah Province;Al Ula;37448406.07
+2021-May;Tourists Spending (SAR);Madinah Province;Al Ula;547375.59
+2021-June;Tourists Spending (SAR);Madinah Province;Al Ula;1181006.39
+2021-August;Tourists Spending (SAR);Madinah Province;Al Ula;870850.11
+2022-August;Tourists Spending (SAR);Madinah Province;Al Ula;559216.85
+2021-September;Tourists Spending (SAR);Madinah Province;Al Ula;191659.26
+2023-November;Tourists Spending (SAR);Madinah Province;Al Ula;12490287.3
+2023-December;Tourists Spending (SAR);Madinah Province;Al Ula;35293716.15
+2021-January;Tourists Spending (SAR);Madinah Province;Madinah;341495.8
+2023-January;Tourists Spending (SAR);Madinah Province;Madinah;34681264.39
+2023-February;Tourists Spending (SAR);Madinah Province;Madinah;38415199.16
+2023-March;Tourists Spending (SAR);Madinah Province;Madinah;28918666.36
+2022-May;Tourists Spending (SAR);Madinah Province;Madinah;2344689.93
+2021-August;Tourists Spending (SAR);Madinah Province;Madinah;3848942.25
+2022-October;Tourists Spending (SAR);Madinah Province;Madinah;26295212.45
+year-May;Tourists Spending (SAR);Madinah Province;Yanbu;
+2021-August;Tourists Spending (SAR);Madinah Province;Yanbu;130483.79
+2023-February;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2023-April;Tourists Spending (SAR);Madinah Province;Other Madinah;446828.67
+2023-November;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2023-January;Tourists Spending (SAR);Makkah Province;Jeddah;999395362.92
+2023-February;Tourists Spending (SAR);Makkah Province;Jeddah;1024926811.11
+2023-March;Tourists Spending (SAR);Makkah Province;Jeddah;1398496417.83
+2022-April;Tourists Spending (SAR);Makkah Province;Jeddah;1957596156.53
+2022-June;Tourists Spending (SAR);Makkah Province;Jeddah;370437466.39
+2021-August;Tourists Spending (SAR);Makkah Province;Jeddah;48856167.16
+2022-August;Tourists Spending (SAR);Makkah Province;Jeddah;704680583.45
+2023-August;Tourists Spending (SAR);Makkah Province;Jeddah;381563115.16
+2021-September;Tourists Spending (SAR);Makkah Province;Jeddah;28857978.72
+2023-October;Tourists Spending (SAR);Makkah Province;Jeddah;351617796.97
+2022-January;Tourists Spending (SAR);Makkah Province;Makkah;2273961186.46
+2021-March;Tourists Spending (SAR);Makkah Province;Makkah;29071924.3
+2023-March;Tourists Spending (SAR);Makkah Province;Makkah;12488999402.11
+2021-April;Tourists Spending (SAR);Makkah Province;Makkah;61070201.73
+2023-April;Tourists Spending (SAR);Makkah Province;Makkah;8914907837.26
+2022-August;Tourists Spending (SAR);Makkah Province;Makkah;5531562232.21
+2022-September;Tourists Spending (SAR);Makkah Province;Makkah;4898459856.13
+2023-September;Tourists Spending (SAR);Makkah Province;Makkah;5543447045.21
+2021-October;Tourists Spending (SAR);Makkah Province;Makkah;320930284.23
+2021-November;Tourists Spending (SAR);Makkah Province;Makkah;430720659.6
+year-February;Tourists Spending (SAR);Makkah Province;Rabigh;
+year-November;Tourists Spending (SAR);Makkah Province;Rabigh;
+2021-January;Tourists Spending (SAR);Makkah Province;Taif;833958.67
+2022-January;Tourists Spending (SAR);Makkah Province;Taif;167891.17
+2023-January;Tourists Spending (SAR);Makkah Province;Taif;10064829.11
+2023-February;Tourists Spending (SAR);Makkah Province;Taif;23800110.32
+2023-March;Tourists Spending (SAR);Makkah Province;Taif;16646655.94
+2022-May;Tourists Spending (SAR);Makkah Province;Taif;8127441.39
+2021-July;Tourists Spending (SAR);Makkah Province;Taif;113745.05
+2023-July;Tourists Spending (SAR);Makkah Province;Taif;20928194.59
+2021-December;Tourists Spending (SAR);Makkah Province;Taif;770869.26
+2021-January;Tourists Spending (SAR);Makkah Province;Other Makkah;260497.96
+2021-July;Tourists Spending (SAR);Makkah Province;Other Makkah;409494.06
+2023-July;Tourists Spending (SAR);Makkah Province;Other Makkah;423707.74
+2021-August;Tourists Spending (SAR);Makkah Province;Other Makkah;161700.0
+2022-September;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2022-October;Tourists Spending (SAR);Makkah Province;Other Makkah;556074.440000534
+2021-January;Tourists Spending (SAR);Najran Province;Najran;198797.37
+2021-April;Tourists Spending (SAR);Najran Province;Najran;20972.7
+2022-May;Tourists Spending (SAR);Najran Province;Najran;2339.83
+2021-June;Tourists Spending (SAR);Najran Province;Najran;45031.41
+2022-July;Tourists Spending (SAR);Najran Province;Najran;572081.58
+2023-December;Tourists Spending (SAR);Najran Province;Najran;3222180.76
+2023-May;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2023-August;Tourists Spending (SAR);Najran Province;Other Najran;469463.77
+2023-October;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2023-January;Tourists Spending (SAR);Northern Borders Province;Arar;26483432.14
+2022-February;Tourists Spending (SAR);Northern Borders Province;Arar;11330551.43
+2021-March;Tourists Spending (SAR);Northern Borders Province;Arar;2473858.62
+2021-April;Tourists Spending (SAR);Northern Borders Province;Arar;4553510.72
+2021-June;Tourists Spending (SAR);Northern Borders Province;Arar;15163281.42
+2023-October;Tourists Spending (SAR);Northern Borders Province;Arar;12560211.49
+2022-December;Tourists Spending (SAR);Northern Borders Province;Arar;444329.88
+2021-February;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;980508.33
+2023-April;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;22906377.76
+2021-May;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;2853092.24
+2022-January;Tourists Spending (SAR);Riyadh Province;Riyadh;408357070.75
+2021-February;Tourists Spending (SAR);Riyadh Province;Riyadh;323672174.87
+2022-February;Tourists Spending (SAR);Riyadh Province;Riyadh;597324381.23
+2023-April;Tourists Spending (SAR);Riyadh Province;Riyadh;829978684.65
+2021-May;Tourists Spending (SAR);Riyadh Province;Riyadh;406350635.75
+2021-November;Tourists Spending (SAR);Riyadh Province;Riyadh;989856706.03
+2022-January;Tourists Spending (SAR);Riyadh Province;Other Riyadh;3261912.199999988
+2022-February;Tourists Spending (SAR);Riyadh Province;Other Riyadh;2020834.9099999666
+2023-March;Tourists Spending (SAR);Riyadh Province;Other Riyadh;105301430.94
+2021-August;Tourists Spending (SAR);Riyadh Province;Other Riyadh;3487843.8
+2021-October;Tourists Spending (SAR);Riyadh Province;Other Riyadh;20281913.6
+2022-October;Tourists Spending (SAR);Riyadh Province;Other Riyadh;27971952.839999914
+2023-December;Tourists Spending (SAR);Riyadh Province;Other Riyadh;107376384.85000004
+2023-February;Tourists Spending (SAR);Tabuk Province;Al Wajh;5430392.9
+year-April;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+year-June;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+year-October;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+2021-January;Tourists Spending (SAR);Tabuk Province;Duba;693806.74
+2023-July;Tourists Spending (SAR);Tabuk Province;Duba;714520.78
+2021-August;Tourists Spending (SAR);Tabuk Province;Duba;708846.49
+2021-September;Tourists Spending (SAR);Tabuk Province;Duba;133222.87
+2023-September;Tourists Spending (SAR);Tabuk Province;Duba;224886.0
+2021-November;Tourists Spending (SAR);Tabuk Province;Duba;1720139.28
+2022-May;Tourists Spending (SAR);Tabuk Province;Tabuk;43286525.53
+2021-July;Tourists Spending (SAR);Tabuk Province;Tabuk;4138524.4
+2022-July;Tourists Spending (SAR);Tabuk Province;Tabuk;8239418.48
+2021-August;Tourists Spending (SAR);Tabuk Province;Tabuk;6585812.88
+2023-September;Tourists Spending (SAR);Tabuk Province;Tabuk;15740156.16
+2022-December;Tourists Spending (SAR);Tabuk Province;Tabuk;5369095.45
+2023-March;Tourists Spending (SAR);Tabuk Province;Umluj;2690507.01
+year-April;Tourists Spending (SAR);Tabuk Province;Umluj;
+2023-September;Tourists Spending (SAR);Tabuk Province;Other Tabuk;998167.38
+2023-January;Tourists Spending (SAR);Total;Total;10572175299.05
+2021-February;Tourists Spending (SAR);Total;Total;582029153.64
+2023-April;Tourists Spending (SAR);Total;Total;12963962573.71
+2021-May;Tourists Spending (SAR);Total;Total;744948247.96
+2022-July;Tourists Spending (SAR);Total;Total;15806054670.07
+2021-December;Tourists Spending (SAR);Total;Total;3097116570.03
+2022-March;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;83.79658266995762
+2022-April;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;365.0129356576235
+2021-May;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;20.0
+2022-June;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;539.5711230792515
+2023-July;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;1383.0
+2021-August;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;19.0
+2023-August;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;8195.0
+2022-September;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;274.24726453766266
+year-June;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+2021-January;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;53.0
+year-July;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+year-August;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+year-December;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+2022-March;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;3572.0
+2022-May;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4469.0
+2021-June;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;147.0
+2022-August;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;3112.0
+2021-October;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4662.0
+2021-April;Tourists Number (Overnight Visitors);AlQassim Province;Rass;30.0
+2021-May;Tourists Number (Overnight Visitors);AlQassim Province;Rass;793.0
+2023-February;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;2881.0
+2022-May;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;108.0
+2021-October;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;598.0
+2022-December;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;64977.0
+2023-December;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;4224.0
+2023-January;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2023-April;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-September;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;145.0
+2022-September;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;28.0
+2023-September;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;375.0
+2021-November;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;190.0
+2021-January;Tourists Number (Overnight Visitors);Aseer Province;Abha;964.0
+2023-April;Tourists Number (Overnight Visitors);Aseer Province;Abha;2472.0
+2022-May;Tourists Number (Overnight Visitors);Aseer Province;Abha;17.0
+2023-July;Tourists Number (Overnight Visitors);Aseer Province;Abha;11549.0
+2023-August;Tourists Number (Overnight Visitors);Aseer Province;Abha;19204.0
+2021-October;Tourists Number (Overnight Visitors);Aseer Province;Abha;1219.0
+2022-October;Tourists Number (Overnight Visitors);Aseer Province;Abha;1776.0
+2023-November;Tourists Number (Overnight Visitors);Aseer Province;Abha;7858.0
+2022-March;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1.0
+2021-June;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;14.0
+2021-July;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;107.0
+2021-October;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;354.0
+2022-November;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1713.0
+2023-November;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;689.0
+2023-February;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;5969.0
+2022-March;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2022-May;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2021-June;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;24.0
+2022-June;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2023-July;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;4912.0
+2022-August;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2023-September;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;4088.0
+2023-November;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;5975.0
+2022-February;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;32639.0
+2023-February;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;90504.0
+2021-April;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;6280.0
+2022-June;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;61002.0
+2021-July;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;5222.0
+2023-July;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;99610.0
+2022-August;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;69925.0
+2021-December;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;36643.0
+2022-February;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;59757.0
+2021-March;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;24626.0
+2021-June;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;7774.0
+2022-June;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;85094.0
+2023-July;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;140049.0
+2022-October;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;123011.0
+2021-November;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;49918.0
+2022-January;Tourists Number (Overnight Visitors);Eastern Province;Dammam;27707.0
+2023-January;Tourists Number (Overnight Visitors);Eastern Province;Dammam;164425.0
+2022-March;Tourists Number (Overnight Visitors);Eastern Province;Dammam;88702.0
+2022-July;Tourists Number (Overnight Visitors);Eastern Province;Dammam;78251.0
+2023-January;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;147981.0
+2022-February;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;30025.0
+2021-March;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;4322.0
+2023-March;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;132441.0
+2021-April;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;7394.0
+2023-May;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;91486.0
+2021-June;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;10821.0
+2022-July;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;91929.0
+2021-August;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;24076.0
+2023-August;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;176431.0
+2022-September;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;100164.0
+2022-October;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;98149.0
+2023-October;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;105526.0
+2021-November;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;43443.0
+2021-January;Tourists Number (Overnight Visitors);Hail Province;Hail;156.0
+2022-January;Tourists Number (Overnight Visitors);Hail Province;Hail;4697.0
+2021-May;Tourists Number (Overnight Visitors);Hail Province;Hail;276.0
+2022-May;Tourists Number (Overnight Visitors);Hail Province;Hail;6081.0
+2023-July;Tourists Number (Overnight Visitors);Hail Province;Hail;24251.0
+2021-August;Tourists Number (Overnight Visitors);Hail Province;Hail;1035.0
+2022-August;Tourists Number (Overnight Visitors);Hail Province;Hail;3395.0
+2023-December;Tourists Number (Overnight Visitors);Hail Province;Hail;23290.0
+2022-February;Tourists Number (Overnight Visitors);Hail Province;Other Hail;121.0
+year-April;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+2022-September;Tourists Number (Overnight Visitors);Jazan Province;Jazan;67.0
+2022-February;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;5688.0
+2022-March;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;11434.0
+2023-March;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1058.0
+2023-April;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2023-May;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;144.0
+2022-July;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2023-August;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2023-September;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2022-November;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1232.0
+2023-December;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1424.0
+2022-May;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;518.0
+2022-September;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;5475.0
+2021-November;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;428.0
+2022-January;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;479.0
+2021-February;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;275.0
+2022-May;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1648.0
+2023-May;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;4150.0
+2021-June;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1108.0
+2023-November;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;7361.0
+2022-February;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;963.0
+2022-April;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;2.0
+2023-April;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;8686.0
+2021-May;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;91.0
+2023-July;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;8374.0
+2022-October;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;436.0
+2022-January;Tourists Number (Overnight Visitors);Madinah Province;Madinah;604.0
+2023-April;Tourists Number (Overnight Visitors);Madinah Province;Madinah;46341.0
+2023-August;Tourists Number (Overnight Visitors);Madinah Province;Madinah;13064.0
+2021-December;Tourists Number (Overnight Visitors);Madinah Province;Madinah;780.0
+2022-January;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;520.0
+2023-September;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;2000.0
+2023-November;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;839.0
+2023-December;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;4398.0
+2022-January;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;41949.0
+2022-February;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;66657.0
+2022-March;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;126744.0
+2023-April;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;129150.0
+2021-May;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;19975.0
+2021-August;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;23058.0
+2023-August;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;94179.0
+2021-October;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;18295.0
+2021-December;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;63244.0
+2022-December;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;114741.0
+2023-March;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1721191.0
+2022-May;Tourists Number (Overnight Visitors);Makkah Province;Makkah;447569.0
+2022-June;Tourists Number (Overnight Visitors);Makkah Province;Makkah;181665.0
+2021-August;Tourists Number (Overnight Visitors);Makkah Province;Makkah;18255.0
+2022-September;Tourists Number (Overnight Visitors);Makkah Province;Makkah;805767.0
+2021-October;Tourists Number (Overnight Visitors);Makkah Province;Makkah;54176.0
+2023-December;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1666951.0
+year-February;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+year-March;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+2021-May;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;25.0
+year-November;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+2022-January;Tourists Number (Overnight Visitors);Makkah Province;Taif;90.0
+2021-May;Tourists Number (Overnight Visitors);Makkah Province;Taif;25.0
+2023-May;Tourists Number (Overnight Visitors);Makkah Province;Taif;3021.0
+2022-August;Tourists Number (Overnight Visitors);Makkah Province;Taif;5228.0
+2022-October;Tourists Number (Overnight Visitors);Makkah Province;Taif;936.0
+2022-December;Tourists Number (Overnight Visitors);Makkah Province;Taif;1041.0
+2021-February;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;7.0
+2022-May;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2021-September;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;9.0
+2022-October;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;35.0
+2023-October;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2021-March;Tourists Number (Overnight Visitors);Najran Province;Najran;45.0
+2022-March;Tourists Number (Overnight Visitors);Najran Province;Najran;10.0
+2021-April;Tourists Number (Overnight Visitors);Najran Province;Najran;48.0
+2023-August;Tourists Number (Overnight Visitors);Najran Province;Najran;1387.0
+2023-November;Tourists Number (Overnight Visitors);Najran Province;Najran;470.0
+2023-December;Tourists Number (Overnight Visitors);Najran Province;Najran;2308.0
+2021-March;Tourists Number (Overnight Visitors);Najran Province;Other Najran;113.0
+2023-July;Tourists Number (Overnight Visitors);Najran Province;Other Najran;706.0
+2023-November;Tourists Number (Overnight Visitors);Najran Province;Other Najran;485.0
+2023-December;Tourists Number (Overnight Visitors);Najran Province;Other Najran;2095.0
+2023-January;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;19885.0
+2021-February;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;933.0
+2022-February;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;24636.0
+2021-April;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;2365.0
+2021-May;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;3623.0
+2022-May;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;27992.0
+2023-June;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;14595.0
+2023-August;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;17100.0
+2022-November;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;4476.0
+2023-November;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;19239.0
+2021-December;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;12743.0
+2022-January;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;4997.0
+2021-May;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;1489.0
+2022-June;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;28657.0
+2022-August;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;49169.0
+2023-August;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;21194.0
+2021-October;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;3574.0
+2021-December;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;2500.0
+2023-December;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;13317.0
+2022-January;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;91580.0
+2023-February;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;285998.0
+2021-March;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;35995.0
+2023-March;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;268723.0
+2023-April;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;191585.0
+2021-May;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;77595.0
+2022-June;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;189517.0
+2021-November;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;152939.0
+2023-November;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;194233.0
+2021-February;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;586.0
+2022-March;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;4144.0
+2023-June;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;11081.0
+2021-August;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;2035.0
+2022-September;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;23337.0
+2021-December;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;15293.0
+year-October;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+2023-November;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;288.0
+2021-March;Tourists Number (Overnight Visitors);Tabuk Province;Duba;312.0
+2022-November;Tourists Number (Overnight Visitors);Tabuk Province;Duba;1108.0
+2023-February;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;7320.0
+2022-April;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;7608.0
+2022-May;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;18472.0
+2023-June;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;9422.0
+2023-August;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;7131.0
+2021-October;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;450.0
+2023-October;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;6310.0
+2022-November;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;3553.0
+2023-November;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;5370.0
+2023-December;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;14435.0
+2023-February;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;1228.0
+2021-October;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;22291.0
+2023-February;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;0.0
+2023-April;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;0.0
+2023-August;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;778.0
+2023-November;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;843.0
+2022-February;Tourists Number (Overnight Visitors);Total;Total;689040.0
+2022-August;Tourists Number (Overnight Visitors);Total;Total;1310573.0
+2023-August;Tourists Number (Overnight Visitors);Total;Total;2109233.0
+2023-September;Tourists Number (Overnight Visitors);Total;Total;2039918.0
+2022-December;Tourists Number (Overnight Visitors);Total;Total;2390726.0
+2023-December;Tourists Number (Overnight Visitors);Total;Total;2902789.0
+2021-February;Tourists Spending (SAR);Albaha province;Al Bahah;114541.23
+2021-April;Tourists Spending (SAR);Albaha province;Al Bahah;33072.33
+2023-May;Tourists Spending (SAR);Albaha province;Al Bahah;2827553.99
+2023-September;Tourists Spending (SAR);Albaha province;Al Bahah;7814897.52
+2022-October;Tourists Spending (SAR);Albaha province;Al Bahah;280962.9715774535
+year-November;Tourists Spending (SAR);Albaha province;BILJURASHI;
+2021-February;Tourists Spending (SAR);AlQassim Province;Buraydah;5003585.02
+2023-June;Tourists Spending (SAR);AlQassim Province;Buraydah;8183303.07
+2021-August;Tourists Spending (SAR);AlQassim Province;Buraydah;4642408.96
+2021-October;Tourists Spending (SAR);AlQassim Province;Buraydah;12224970.23
+2023-March;Tourists Spending (SAR);AlQassim Province;Rass;259175.16
+2023-June;Tourists Spending (SAR);AlQassim Province;Unayzah;7483547.84
+2021-July;Tourists Spending (SAR);AlQassim Province;Unayzah;2473283.49
+2022-August;Tourists Spending (SAR);AlQassim Province;Unayzah;24927518.18
+2021-September;Tourists Spending (SAR);AlQassim Province;Unayzah;3353683.88
+2021-November;Tourists Spending (SAR);AlQassim Province;Unayzah;1757892.26
+2023-January;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2023-February;Tourists Spending (SAR);AlQassim Province;Other AlQassim;51739.45
+2023-May;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2021-June;Tourists Spending (SAR);AlQassim Province;Other AlQassim;55122.34
+2022-June;Tourists Spending (SAR);AlQassim Province;Other AlQassim;293431.41000000015
+2022-July;Tourists Spending (SAR);AlQassim Province;Other AlQassim;66244.40000000014
+2022-August;Tourists Spending (SAR);AlQassim Province;Other AlQassim;173260.54999999702
+2023-September;Tourists Spending (SAR);AlQassim Province;Other AlQassim;375284.28
+2023-October;Tourists Spending (SAR);AlQassim Province;Other AlQassim;172792.02
+2021-February;Tourists Spending (SAR);Aseer Province;Abha;2990261.17
+2021-March;Tourists Spending (SAR);Aseer Province;Abha;1586424.51
+2023-April;Tourists Spending (SAR);Aseer Province;Abha;8072715.78
+2023-May;Tourists Spending (SAR);Aseer Province;Abha;12454487.64
+2021-August;Tourists Spending (SAR);Aseer Province;Abha;3284684.45
+2022-August;Tourists Spending (SAR);Aseer Province;Abha;22511214.03
+2021-November;Tourists Spending (SAR);Aseer Province;Abha;5176346.02
+2021-January;Tourists Spending (SAR);Aseer Province;Khamis Mushait;862193.8
+2022-January;Tourists Spending (SAR);Aseer Province;Khamis Mushait;2886.99
+2023-January;Tourists Spending (SAR);Aseer Province;Khamis Mushait;19534467.72
+2021-September;Tourists Spending (SAR);Aseer Province;Khamis Mushait;183294.16
+2023-September;Tourists Spending (SAR);Aseer Province;Khamis Mushait;14206139.36
+2021-May;Tourists Spending (SAR);Aseer Province;Other Aseer;15600.0
+2022-May;Tourists Spending (SAR);Aseer Province;Other Aseer;0.009999999951105565
+2023-July;Tourists Spending (SAR);Aseer Province;Other Aseer;15100346.340000002
+2021-December;Tourists Spending (SAR);Aseer Province;Other Aseer;1247387.27
+2021-March;Tourists Spending (SAR);Eastern Province;Al Ahsa;3130297.53
+2023-March;Tourists Spending (SAR);Eastern Province;Al Ahsa;145548879.23
+2023-April;Tourists Spending (SAR);Eastern Province;Al Ahsa;91014106.84
+2021-May;Tourists Spending (SAR);Eastern Province;Al Ahsa;4202490.84
+2022-July;Tourists Spending (SAR);Eastern Province;Al Ahsa;148725112.73
+2023-August;Tourists Spending (SAR);Eastern Province;Al Ahsa;112582841.54
+2021-September;Tourists Spending (SAR);Eastern Province;Al Ahsa;20732819.05
+2021-November;Tourists Spending (SAR);Eastern Province;Al Ahsa;24760195.86
+2022-November;Tourists Spending (SAR);Eastern Province;Al Ahsa;94201224.73
+2023-December;Tourists Spending (SAR);Eastern Province;Al Ahsa;177600866.4
+2022-January;Tourists Spending (SAR);Eastern Province;Al Khobar;79049850.75
+2022-May;Tourists Spending (SAR);Eastern Province;Al Khobar;620273758.15
+2023-July;Tourists Spending (SAR);Eastern Province;Al Khobar;466788047.52
+2023-August;Tourists Spending (SAR);Eastern Province;Al Khobar;301503690.4
+2022-October;Tourists Spending (SAR);Eastern Province;Al Khobar;687224453.07
+2022-December;Tourists Spending (SAR);Eastern Province;Al Khobar;417357965.4
+2023-December;Tourists Spending (SAR);Eastern Province;Al Khobar;182284307.82
+2021-January;Tourists Spending (SAR);Eastern Province;Dammam;56928937.23
+2022-April;Tourists Spending (SAR);Eastern Province;Dammam;155459118.39
+2023-June;Tourists Spending (SAR);Eastern Province;Dammam;199541446.49
+2023-July;Tourists Spending (SAR);Eastern Province;Dammam;197712490.68
+2021-August;Tourists Spending (SAR);Eastern Province;Dammam;222388919.19
+2023-October;Tourists Spending (SAR);Eastern Province;Dammam;229788349.47
+2021-November;Tourists Spending (SAR);Eastern Province;Dammam;86256780.44
+2023-December;Tourists Spending (SAR);Eastern Province;Dammam;249371728.89
+2021-January;Tourists Spending (SAR);Eastern Province;Other Eastern;50758145.17
+2021-February;Tourists Spending (SAR);Eastern Province;Other Eastern;28586807.89
+2021-April;Tourists Spending (SAR);Eastern Province;Other Eastern;16862548.75
+2021-September;Tourists Spending (SAR);Eastern Province;Other Eastern;34287408.75
+2021-October;Tourists Spending (SAR);Eastern Province;Other Eastern;76411175.38
+2023-February;Tourists Spending (SAR);Hail Province;Hail;341555952.22
+2022-March;Tourists Spending (SAR);Hail Province;Hail;10396949.68
+2023-March;Tourists Spending (SAR);Hail Province;Hail;446833800.22
+2023-April;Tourists Spending (SAR);Hail Province;Hail;61958759.28
+2023-May;Tourists Spending (SAR);Hail Province;Hail;597894850.62
+2021-July;Tourists Spending (SAR);Hail Province;Hail;1258070.49
+2022-July;Tourists Spending (SAR);Hail Province;Hail;3605816.88
+2023-August;Tourists Spending (SAR);Hail Province;Hail;100630816.29
+2022-September;Tourists Spending (SAR);Hail Province;Hail;20237467.94
+2023-September;Tourists Spending (SAR);Hail Province;Hail;134883213.99
+2023-November;Tourists Spending (SAR);Hail Province;Hail;93082466.42
+2022-December;Tourists Spending (SAR);Hail Province;Hail;120394584.51
+year-October;Tourists Spending (SAR);Hail Province;Other Hail;
+year-November;Tourists Spending (SAR);Hail Province;Other Hail;
+year-December;Tourists Spending (SAR);Hail Province;Other Hail;
+2022-February;Tourists Spending (SAR);Jazan Province;Jazan;36529911.69
+2023-March;Tourists Spending (SAR);Jazan Province;Jazan;921799.51
+2023-May;Tourists Spending (SAR);Jazan Province;Jazan;4187161.69
+2023-July;Tourists Spending (SAR);Jazan Province;Jazan;2087171.88
+2021-August;Tourists Spending (SAR);Jazan Province;Jazan;4389.56
+2023-November;Tourists Spending (SAR);Jazan Province;Jazan;875396.67
+2023-January;Tourists Spending (SAR);Jazan Province;Other Jazan;3547621.08
+2022-February;Tourists Spending (SAR);Jazan Province;Other Jazan;1713884.1600000039
+2023-February;Tourists Spending (SAR);Jazan Province;Other Jazan;5924065.0
+2021-March;Tourists Spending (SAR);Jazan Province;Other Jazan;4052623.73
+2021-April;Tourists Spending (SAR);Jazan Province;Other Jazan;4132285.19
+2021-May;Tourists Spending (SAR);Jazan Province;Other Jazan;88730.32
+2021-June;Tourists Spending (SAR);Jazan Province;Other Jazan;96990.72
+2023-August;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2021-October;Tourists Spending (SAR);Jazan Province;Other Jazan;88095.51
+2023-November;Tourists Spending (SAR);Jazan Province;Other Jazan;1109465.1
+2021-December;Tourists Spending (SAR);Jazan Province;Other Jazan;366348.98
+2022-February;Tourists Spending (SAR);Jouf Province;Al Qurayyat;6150511.95
+2023-August;Tourists Spending (SAR);Jouf Province;Al Qurayyat;15700486.94
+2021-November;Tourists Spending (SAR);Jouf Province;Al Qurayyat;2974087.74
+2021-December;Tourists Spending (SAR);Jouf Province;Al Qurayyat;8144951.48
+2023-March;Tourists Spending (SAR);Jouf Province;Sakaka;31502453.09
+2022-April;Tourists Spending (SAR);Jouf Province;Sakaka;6004909.62
+2022-May;Tourists Spending (SAR);Jouf Province;Sakaka;6736674.47
+2021-February;Tourists Spending (SAR);Jouf Province;Other Jouf;1519182.41
+2023-August;Tourists Spending (SAR);Jouf Province;Other Jouf;1183485.35
+2023-September;Tourists Spending (SAR);Jouf Province;Other Jouf;916759.2
+2022-October;Tourists Spending (SAR);Jouf Province;Other Jouf;4298634.640000001
+2022-December;Tourists Spending (SAR);Jouf Province;Other Jouf;1080.5
+2022-January;Tourists Spending (SAR);Madinah Province;Al Ula;4137156.81
+2023-February;Tourists Spending (SAR);Madinah Province;Al Ula;65445353.71
+2023-May;Tourists Spending (SAR);Madinah Province;Al Ula;31915013.83
+2022-June;Tourists Spending (SAR);Madinah Province;Al Ula;13665416.64
+2023-June;Tourists Spending (SAR);Madinah Province;Al Ula;37444625.67
+2021-July;Tourists Spending (SAR);Madinah Province;Al Ula;384787.85
+2023-September;Tourists Spending (SAR);Madinah Province;Al Ula;25013006.19
+2022-December;Tourists Spending (SAR);Madinah Province;Al Ula;227696790.65
+2022-March;Tourists Spending (SAR);Madinah Province;Madinah;2953026.1
+2023-May;Tourists Spending (SAR);Madinah Province;Madinah;32404436.86
+2022-June;Tourists Spending (SAR);Madinah Province;Madinah;2225729.21
+2023-August;Tourists Spending (SAR);Madinah Province;Madinah;27416536.95
+2022-September;Tourists Spending (SAR);Madinah Province;Madinah;8859260.39
+2021-November;Tourists Spending (SAR);Madinah Province;Madinah;2540626.3
+2022-November;Tourists Spending (SAR);Madinah Province;Madinah;57809077.04
+2023-November;Tourists Spending (SAR);Madinah Province;Madinah;8035659.21
+2022-December;Tourists Spending (SAR);Madinah Province;Madinah;179723841.05
+2023-February;Tourists Spending (SAR);Madinah Province;Yanbu;4878517.3
+2021-April;Tourists Spending (SAR);Madinah Province;Yanbu;48784.88
+2022-June;Tourists Spending (SAR);Madinah Province;Other Madinah;269859.65
+2023-June;Tourists Spending (SAR);Madinah Province;Other Madinah;495409.39
+2021-July;Tourists Spending (SAR);Madinah Province;Other Madinah;93513.98
+2021-August;Tourists Spending (SAR);Madinah Province;Other Madinah;98042.5
+2023-August;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2023-October;Tourists Spending (SAR);Madinah Province;Other Madinah;95138.04
+2023-December;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2022-February;Tourists Spending (SAR);Makkah Province;Jeddah;583192268.12
+2022-July;Tourists Spending (SAR);Makkah Province;Jeddah;436123207.08
+2022-October;Tourists Spending (SAR);Makkah Province;Jeddah;827191197.81
+2021-November;Tourists Spending (SAR);Makkah Province;Jeddah;217024709.56
+2021-January;Tourists Spending (SAR);Makkah Province;Makkah;10574961.17
+2022-April;Tourists Spending (SAR);Makkah Province;Makkah;8285434406.57
+2022-May;Tourists Spending (SAR);Makkah Province;Makkah;3113600504.34
+2021-June;Tourists Spending (SAR);Makkah Province;Makkah;13449620.85
+2022-July;Tourists Spending (SAR);Makkah Province;Makkah;14001038185.37
+2023-August;Tourists Spending (SAR);Makkah Province;Makkah;4514121054.17
+2023-October;Tourists Spending (SAR);Makkah Province;Makkah;7153578941.85
+2022-December;Tourists Spending (SAR);Makkah Province;Makkah;7143445209.11
+year-January;Tourists Spending (SAR);Makkah Province;Rabigh;
+year-March;Tourists Spending (SAR);Makkah Province;Rabigh;
+year-December;Tourists Spending (SAR);Makkah Province;Rabigh;
+2021-March;Tourists Spending (SAR);Makkah Province;Taif;617185.65
+2021-April;Tourists Spending (SAR);Makkah Province;Taif;4042168.37
+2023-April;Tourists Spending (SAR);Makkah Province;Taif;20478481.51
+2021-May;Tourists Spending (SAR);Makkah Province;Taif;41575.17
+2023-October;Tourists Spending (SAR);Makkah Province;Taif;7218077.09
+2022-December;Tourists Spending (SAR);Makkah Province;Taif;4554351.92
+2021-February;Tourists Spending (SAR);Makkah Province;Other Makkah;49163.64
+2022-February;Tourists Spending (SAR);Makkah Province;Other Makkah;-0.009999752044677734
+2021-June;Tourists Spending (SAR);Makkah Province;Other Makkah;166598.43
+2022-August;Tourists Spending (SAR);Makkah Province;Other Makkah;-0.010000228881835938
+2023-August;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2021-September;Tourists Spending (SAR);Makkah Province;Other Makkah;37038.98
+2021-October;Tourists Spending (SAR);Makkah Province;Other Makkah;709901.93
+2023-October;Tourists Spending (SAR);Makkah Province;Other Makkah;0.0
+2021-November;Tourists Spending (SAR);Makkah Province;Other Makkah;545851.54
+2023-January;Tourists Spending (SAR);Najran Province;Najran;8972559.56
+2021-February;Tourists Spending (SAR);Najran Province;Najran;10207416.72
+2023-February;Tourists Spending (SAR);Najran Province;Najran;2276632.24
+2021-March;Tourists Spending (SAR);Najran Province;Najran;14651.61
+2021-May;Tourists Spending (SAR);Najran Province;Najran;41196.22
+2023-May;Tourists Spending (SAR);Najran Province;Najran;935507.56
+2022-August;Tourists Spending (SAR);Najran Province;Najran;1403199.03
+2023-August;Tourists Spending (SAR);Najran Province;Najran;5056354.62
+2022-September;Tourists Spending (SAR);Najran Province;Najran;5056963.0
+2021-October;Tourists Spending (SAR);Najran Province;Najran;900210.3
+2022-October;Tourists Spending (SAR);Najran Province;Najran;1083808.57
+2022-November;Tourists Spending (SAR);Najran Province;Najran;1630218.43
+2023-November;Tourists Spending (SAR);Najran Province;Najran;2278616.87
+2021-December;Tourists Spending (SAR);Najran Province;Najran;6734818.1
+2022-December;Tourists Spending (SAR);Najran Province;Najran;10812860.8
+2023-April;Tourists Spending (SAR);Najran Province;Other Najran;0.0
+2021-August;Tourists Spending (SAR);Najran Province;Other Najran;68886.41
+2022-March;Tourists Spending (SAR);Northern Borders Province;Arar;15423832.54
+2023-March;Tourists Spending (SAR);Northern Borders Province;Arar;17785696.81
+2022-July;Tourists Spending (SAR);Northern Borders Province;Arar;72589448.11
+2022-August;Tourists Spending (SAR);Northern Borders Province;Arar;60060442.24
+2022-September;Tourists Spending (SAR);Northern Borders Province;Arar;20337718.45
+2021-December;Tourists Spending (SAR);Northern Borders Province;Arar;28401447.87
+2021-January;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;1338289.47
+2023-January;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;30602886.75
+2022-February;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;4149954.130000001
+2022-March;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;13153287.02
+2021-July;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;10934015.1
+2022-July;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;20637903.61
+2023-July;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;17849377.01
+2022-August;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;24584255.190000005
+2023-August;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;34976115.67
+2023-October;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;18172686.939999998
+2021-November;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;9843575.1
+2023-December;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;16588619.52
+2023-January;Tourists Spending (SAR);Riyadh Province;Riyadh;1229436602.24
+2021-March;Tourists Spending (SAR);Riyadh Province;Riyadh;176740453.75
+2021-April;Tourists Spending (SAR);Riyadh Province;Riyadh;404034760.89
+2022-May;Tourists Spending (SAR);Riyadh Province;Riyadh;845731935.58
+2023-June;Tourists Spending (SAR);Riyadh Province;Riyadh;838514361.12
+2021-July;Tourists Spending (SAR);Riyadh Province;Riyadh;512722589.91
+2022-August;Tourists Spending (SAR);Riyadh Province;Riyadh;725088830.82
+2023-November;Tourists Spending (SAR);Riyadh Province;Riyadh;654801299.17
+2021-March;Tourists Spending (SAR);Riyadh Province;Other Riyadh;295894.54
+2021-May;Tourists Spending (SAR);Riyadh Province;Other Riyadh;1476464.45
+2022-May;Tourists Spending (SAR);Riyadh Province;Other Riyadh;32066642.589999914
+2022-July;Tourists Spending (SAR);Riyadh Province;Other Riyadh;49172229.98999995
+2021-September;Tourists Spending (SAR);Riyadh Province;Other Riyadh;3711425.93
+2022-September;Tourists Spending (SAR);Riyadh Province;Other Riyadh;54321164.48000002
+2023-September;Tourists Spending (SAR);Riyadh Province;Other Riyadh;60594336.559999995
+2023-January;Tourists Spending (SAR);Tabuk Province;Al Wajh;2217263.16
+year-March;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+2023-July;Tourists Spending (SAR);Tabuk Province;Al Wajh;300921.33
+year-September;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+year-December;Tourists Spending (SAR);Tabuk Province;Al Wajh;
+year-April;Tourists Spending (SAR);Tabuk Province;Duba;
+2021-May;Tourists Spending (SAR);Tabuk Province;Duba;2670278.89
+2023-June;Tourists Spending (SAR);Tabuk Province;Duba;1250010.19
+2023-August;Tourists Spending (SAR);Tabuk Province;Duba;1322826.77
+2022-October;Tourists Spending (SAR);Tabuk Province;Duba;888503.61
+2021-December;Tourists Spending (SAR);Tabuk Province;Duba;531588.87
+2022-January;Tourists Spending (SAR);Tabuk Province;Tabuk;11274087.24
+2022-February;Tourists Spending (SAR);Tabuk Province;Tabuk;16102980.6
+2023-May;Tourists Spending (SAR);Tabuk Province;Tabuk;21921311.54
+2021-June;Tourists Spending (SAR);Tabuk Province;Tabuk;6033565.98
+2023-June;Tourists Spending (SAR);Tabuk Province;Tabuk;22467626.88
+2023-July;Tourists Spending (SAR);Tabuk Province;Tabuk;68807481.43
+2023-August;Tourists Spending (SAR);Tabuk Province;Tabuk;17398955.5
+2021-September;Tourists Spending (SAR);Tabuk Province;Tabuk;8718403.58
+2022-November;Tourists Spending (SAR);Tabuk Province;Tabuk;8509115.08
+year-January;Tourists Spending (SAR);Tabuk Province;Umluj;
+2023-May;Tourists Spending (SAR);Tabuk Province;Umluj;2917499.27
+2023-September;Tourists Spending (SAR);Tabuk Province;Umluj;2632473.22
+2023-January;Tourists Spending (SAR);Tabuk Province;Other Tabuk;2069445.63
+2023-July;Tourists Spending (SAR);Tabuk Province;Other Tabuk;2570059.2199999997
+2023-August;Tourists Spending (SAR);Tabuk Province;Other Tabuk;2029572.73
+2023-October;Tourists Spending (SAR);Tabuk Province;Other Tabuk;1953106.84
+2021-January;Tourists Spending (SAR);Total;Total;947841324.1
+2022-February;Tourists Spending (SAR);Total;Total;4778075867.06
+2022-March;Tourists Spending (SAR);Total;Total;7708447232.67
+2022-May;Tourists Spending (SAR);Total;Total;5852735543.45
+2023-September;Tourists Spending (SAR);Total;Total;7735390721.84
+2023-January;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;340.0
+2022-February;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;755.7604420430771
+2022-July;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;1558.7545776151014
+2021-October;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;78.0
+2021-November;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;93.0
+2021-December;Tourists Number (Overnight Visitors);Albaha province;Al Bahah;53.0
+year-September;Tourists Number (Overnight Visitors);Albaha province;BILJURASHI;
+2022-March;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;51.0
+year-November;Tourists Number (Overnight Visitors);Albaha province;Other AlBaha;
+2021-January;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;301.0
+2023-February;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;6684.0
+2021-May;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;742.0
+2023-August;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;11291.0
+2022-September;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4721.0
+2022-October;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;4799.0
+2021-November;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;10066.0
+2023-November;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;6229.0
+2022-December;Tourists Number (Overnight Visitors);AlQassim Province;Buraydah;50850.0
+year-February;Tourists Number (Overnight Visitors);AlQassim Province;Rass;
+2022-November;Tourists Number (Overnight Visitors);AlQassim Province;Rass;14556.0
+2023-January;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;3212.0
+2021-April;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;269.0
+2023-April;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;797.0
+2021-June;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;298.0
+2023-July;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;7363.0
+2021-September;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;1490.0
+2022-October;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;4755.0
+2023-October;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;1256.0
+2021-November;Tourists Number (Overnight Visitors);AlQassim Province;Unayzah;586.0
+2023-February;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;24.0
+2022-May;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;140.0
+2023-July;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;178.0
+2022-August;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;124.0
+2022-October;Tourists Number (Overnight Visitors);AlQassim Province;Other AlQassim;0.0
+2021-February;Tourists Number (Overnight Visitors);Aseer Province;Abha;1522.0
+2023-February;Tourists Number (Overnight Visitors);Aseer Province;Abha;2784.0
+2022-April;Tourists Number (Overnight Visitors);Aseer Province;Abha;14.0
+2021-May;Tourists Number (Overnight Visitors);Aseer Province;Abha;73.0
+2022-August;Tourists Number (Overnight Visitors);Aseer Province;Abha;6593.0
+2023-October;Tourists Number (Overnight Visitors);Aseer Province;Abha;7506.0
+2022-December;Tourists Number (Overnight Visitors);Aseer Province;Abha;24461.0
+2023-December;Tourists Number (Overnight Visitors);Aseer Province;Abha;7156.0
+2021-April;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;2.0
+2023-April;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1347.0
+2021-May;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;158.0
+2023-May;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;3952.0
+2022-June;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1411.0
+2022-September;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1611.0
+2023-October;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;1187.0
+2021-November;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;2710.0
+2021-December;Tourists Number (Overnight Visitors);Aseer Province;Khamis Mushait;920.0
+2022-February;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;1166.0
+2022-April;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2021-May;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;8.0
+2023-August;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;6084.0
+2022-September;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;0.0
+2023-October;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;7231.0
+2021-November;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;103.0
+2023-December;Tourists Number (Overnight Visitors);Aseer Province;Other Aseer;10553.0
+2022-January;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;26707.0
+2023-January;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;156402.0
+2021-February;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;5286.0
+2023-March;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;101412.0
+2021-May;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;9686.0
+2022-July;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;106057.0
+2023-September;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;74553.0
+2021-November;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;21101.0
+2022-November;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;76294.0
+2022-December;Tourists Number (Overnight Visitors);Eastern Province;Al Ahsa;73606.0
+2022-January;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;29787.0
+2022-March;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;98577.0
+2021-July;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;7825.0
+2021-October;Tourists Number (Overnight Visitors);Eastern Province;Al Khobar;46792.0
+2021-February;Tourists Number (Overnight Visitors);Eastern Province;Dammam;12209.0
+2023-March;Tourists Number (Overnight Visitors);Eastern Province;Dammam;116321.0
+2022-May;Tourists Number (Overnight Visitors);Eastern Province;Dammam;86189.0
+2023-May;Tourists Number (Overnight Visitors);Eastern Province;Dammam;87006.0
+2021-August;Tourists Number (Overnight Visitors);Eastern Province;Dammam;50864.0
+2021-September;Tourists Number (Overnight Visitors);Eastern Province;Dammam;28278.0
+2022-October;Tourists Number (Overnight Visitors);Eastern Province;Dammam;111743.0
+2022-November;Tourists Number (Overnight Visitors);Eastern Province;Dammam;112397.0
+2023-November;Tourists Number (Overnight Visitors);Eastern Province;Dammam;99147.0
+2021-January;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;27281.0
+2022-January;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;30738.0
+2023-February;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;129198.0
+2023-April;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;151991.0
+2022-June;Tourists Number (Overnight Visitors);Eastern Province;Other Eastern;101650.0
+2022-February;Tourists Number (Overnight Visitors);Hail Province;Hail;3788.0
+2021-April;Tourists Number (Overnight Visitors);Hail Province;Hail;48.0
+2022-October;Tourists Number (Overnight Visitors);Hail Province;Hail;6630.0
+2021-December;Tourists Number (Overnight Visitors);Hail Province;Hail;37399.0
+year-August;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-September;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-October;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-November;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+year-December;Tourists Number (Overnight Visitors);Hail Province;Other Hail;
+2022-March;Tourists Number (Overnight Visitors);Jazan Province;Jazan;5909.0
+2023-March;Tourists Number (Overnight Visitors);Jazan Province;Jazan;352.0
+2023-April;Tourists Number (Overnight Visitors);Jazan Province;Jazan;100.0
+2023-August;Tourists Number (Overnight Visitors);Jazan Province;Jazan;822.0
+2022-November;Tourists Number (Overnight Visitors);Jazan Province;Jazan;1971.0
+2021-January;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;516.0
+2023-January;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1358.0
+2021-May;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;95.0
+2022-May;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;362.0
+2022-June;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;1701.0
+2021-October;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;41.0
+2022-December;Tourists Number (Overnight Visitors);Jazan Province;Other Jazan;0.0
+2023-January;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;7873.0
+2023-March;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;8802.0
+2022-April;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1175.0
+2023-April;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;9270.0
+2021-May;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;80.0
+2021-June;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;21.0
+2022-July;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;3480.0
+2021-October;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;156.0
+2021-December;Tourists Number (Overnight Visitors);Jouf Province;Al Qurayyat;1010.0
+2021-January;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;493.0
+2021-March;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;624.0
+2023-April;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;3692.0
+2023-June;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;6058.0
+2022-July;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;1902.0
+2022-December;Tourists Number (Overnight Visitors);Jouf Province;Sakaka;0.0
+year-June;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;
+2021-September;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;407.0
+2022-October;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;520.0
+2021-November;Tourists Number (Overnight Visitors);Jouf Province;Other Jouf;185.0
+2023-January;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;9365.0
+2023-February;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;15779.0
+2023-March;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;14064.0
+2021-June;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;176.0
+2022-June;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;1713.0
+2023-June;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;5813.0
+2022-August;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;44.0
+2023-October;Tourists Number (Overnight Visitors);Madinah Province;Al Ula;9645.0
+2023-January;Tourists Number (Overnight Visitors);Madinah Province;Madinah;11980.0
+2021-April;Tourists Number (Overnight Visitors);Madinah Province;Madinah;22.0
+2021-May;Tourists Number (Overnight Visitors);Madinah Province;Madinah;94.0
+2022-June;Tourists Number (Overnight Visitors);Madinah Province;Madinah;1121.0
+2023-June;Tourists Number (Overnight Visitors);Madinah Province;Madinah;9483.0
+2023-July;Tourists Number (Overnight Visitors);Madinah Province;Madinah;32909.0
+2021-August;Tourists Number (Overnight Visitors);Madinah Province;Madinah;757.0
+2023-November;Tourists Number (Overnight Visitors);Madinah Province;Madinah;4337.0
+2022-December;Tourists Number (Overnight Visitors);Madinah Province;Madinah;30843.0
+2023-March;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;372.0
+2021-August;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;41.0
+2021-November;Tourists Number (Overnight Visitors);Madinah Province;Yanbu;51.0
+2022-January;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;449.0
+2023-June;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;550.0
+2023-July;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2021-August;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;41.0
+2023-November;Tourists Number (Overnight Visitors);Madinah Province;Other Madinah;0.0
+2021-February;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;15384.0
+2023-February;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;135530.0
+2021-March;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;27520.0
+2023-March;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;220608.0
+2022-May;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;89024.0
+2021-June;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;27161.0
+2022-June;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;59718.0
+2021-July;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;25527.0
+2023-July;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;102432.0
+2023-November;Tourists Number (Overnight Visitors);Makkah Province;Jeddah;108520.0
+2022-February;Tourists Number (Overnight Visitors);Makkah Province;Makkah;313256.0
+2023-February;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1394352.0
+2021-March;Tourists Number (Overnight Visitors);Makkah Province;Makkah;9954.0
+2022-March;Tourists Number (Overnight Visitors);Makkah Province;Makkah;514429.0
+2022-April;Tourists Number (Overnight Visitors);Makkah Province;Makkah;913202.0
+2023-April;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1422961.0
+2023-June;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1881004.0
+2022-August;Tourists Number (Overnight Visitors);Makkah Province;Makkah;616726.0
+2023-August;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1045247.0
+2023-September;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1156327.0
+2021-December;Tourists Number (Overnight Visitors);Makkah Province;Makkah;88410.0
+2022-December;Tourists Number (Overnight Visitors);Makkah Province;Makkah;1230873.0
+2021-June;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;59.0
+year-September;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+year-December;Tourists Number (Overnight Visitors);Makkah Province;Rabigh;
+2023-April;Tourists Number (Overnight Visitors);Makkah Province;Taif;4871.0
+2022-May;Tourists Number (Overnight Visitors);Makkah Province;Taif;1708.0
+2022-July;Tourists Number (Overnight Visitors);Makkah Province;Taif;2064.0
+2023-August;Tourists Number (Overnight Visitors);Makkah Province;Taif;12671.0
+2021-December;Tourists Number (Overnight Visitors);Makkah Province;Taif;219.0
+2023-January;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;35.0
+2022-February;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-April;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;1061.0
+2021-June;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;65.0
+2023-July;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;433.0
+2022-November;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-November;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;0.0
+2023-December;Tourists Number (Overnight Visitors);Makkah Province;Other Makkah;2279.0
+2022-January;Tourists Number (Overnight Visitors);Najran Province;Najran;1.0
+2021-February;Tourists Number (Overnight Visitors);Najran Province;Najran;376.0
+2022-October;Tourists Number (Overnight Visitors);Najran Province;Najran;339.0
+2021-November;Tourists Number (Overnight Visitors);Najran Province;Najran;263.0
+2022-December;Tourists Number (Overnight Visitors);Najran Province;Najran;3128.0
+2023-April;Tourists Number (Overnight Visitors);Najran Province;Other Najran;0.0
+2021-August;Tourists Number (Overnight Visitors);Najran Province;Other Najran;41.0
+2023-August;Tourists Number (Overnight Visitors);Najran Province;Other Najran;395.0
+2023-February;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;15863.0
+2023-April;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;6523.0
+2023-May;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;10486.0
+2022-June;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;39430.0
+2023-July;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;13626.0
+2021-August;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;14880.0
+2021-September;Tourists Number (Overnight Visitors);Northern Borders Province;Arar;9945.0
+2023-February;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;7453.0
+2021-March;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;802.0
+2023-April;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;14079.0
+2023-June;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;24936.0
+2021-September;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;6259.0
+2022-September;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;8548.0
+2023-October;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;13360.0
+2023-November;Tourists Number (Overnight Visitors);Northern Borders Province;Other Northern Borders;17669.0
+2021-January;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;95358.0
+2023-January;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;254088.0
+2023-December;Tourists Number (Overnight Visitors);Riyadh Province;Riyadh;296619.0
+2022-January;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;1875.0
+2023-January;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;22976.0
+2022-August;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;3330.0
+2021-November;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;4921.0
+2023-November;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;17313.0
+2022-December;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;0.0
+2023-December;Tourists Number (Overnight Visitors);Riyadh Province;Other Riyadh;46029.0
+year-April;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;
+2023-August;Tourists Number (Overnight Visitors);Tabuk Province;Al Wajh;245.0
+2021-January;Tourists Number (Overnight Visitors);Tabuk Province;Duba;267.0
+2023-May;Tourists Number (Overnight Visitors);Tabuk Province;Duba;830.0
+2021-September;Tourists Number (Overnight Visitors);Tabuk Province;Duba;36.0
+2021-November;Tourists Number (Overnight Visitors);Tabuk Province;Duba;240.0
+2021-January;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;129.0
+2023-January;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;4979.0
+2023-March;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;13493.0
+2021-June;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;1629.0
+2022-July;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;3963.0
+2023-July;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;20062.0
+2022-October;Tourists Number (Overnight Visitors);Tabuk Province;Tabuk;7670.0
+year-January;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;
+2023-March;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;1267.0
+year-April;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;
+2023-July;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;178.0
+2022-October;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;275.0
+2023-November;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;281.0
+2022-December;Tourists Number (Overnight Visitors);Tabuk Province;Umluj;520.0
+2023-January;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;679.0
+2023-May;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;604.0
+2023-July;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;1495.0
+2023-December;Tourists Number (Overnight Visitors);Tabuk Province;Other Tabuk;2328.0
+2021-March;Tourists Number (Overnight Visitors);Total;Total;148294.0
+2023-March;Tourists Number (Overnight Visitors);Total;Total;2869547.0
+2022-April;Tourists Number (Overnight Visitors);Total;Total;1612487.0
+2023-May;Tourists Number (Overnight Visitors);Total;Total;1514400.0
+2023-June;Tourists Number (Overnight Visitors);Total;Total;2847495.0
+2022-November;Tourists Number (Overnight Visitors);Total;Total;1840021.0
+2023-November;Tourists Number (Overnight Visitors);Total;Total;2237558.0
+2022-February;Tourists Spending (SAR);Albaha province;Al Bahah;3131190.4197517536
+2021-June;Tourists Spending (SAR);Albaha province;Al Bahah;34639.54
+2023-July;Tourists Spending (SAR);Albaha province;Al Bahah;3972836.47
+2021-September;Tourists Spending (SAR);Albaha province;Al Bahah;600213.17
+2021-October;Tourists Spending (SAR);Albaha province;Al Bahah;1753381.74
+2021-November;Tourists Spending (SAR);Albaha province;Al Bahah;93306.32
+2022-November;Tourists Spending (SAR);Albaha province;Al Bahah;407923.75032348593
+2023-November;Tourists Spending (SAR);Albaha province;Al Bahah;773543.19
+year-March;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-April;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-June;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-July;Tourists Spending (SAR);Albaha province;BILJURASHI;
+year-December;Tourists Spending (SAR);Albaha province;BILJURASHI;
+2022-March;Tourists Spending (SAR);Albaha province;Other AlBaha;76509.17
+year-April;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-May;Tourists Spending (SAR);Albaha province;Other AlBaha;
+year-December;Tourists Spending (SAR);Albaha province;Other AlBaha;
+2023-January;Tourists Spending (SAR);AlQassim Province;Buraydah;12210777.16
+2021-June;Tourists Spending (SAR);AlQassim Province;Buraydah;367765.87
+2023-July;Tourists Spending (SAR);AlQassim Province;Buraydah;16927108.33
+2023-August;Tourists Spending (SAR);AlQassim Province;Buraydah;23935068.86
+2022-September;Tourists Spending (SAR);AlQassim Province;Buraydah;4337602.67
+2023-September;Tourists Spending (SAR);AlQassim Province;Buraydah;30524944.83
+2021-November;Tourists Spending (SAR);AlQassim Province;Buraydah;89118434.99
+2022-November;Tourists Spending (SAR);AlQassim Province;Buraydah;16237204.02
+2023-November;Tourists Spending (SAR);AlQassim Province;Buraydah;9630294.78
+2021-December;Tourists Spending (SAR);AlQassim Province;Buraydah;14310368.51
+2022-December;Tourists Spending (SAR);AlQassim Province;Buraydah;153378920.2
+2021-April;Tourists Spending (SAR);AlQassim Province;Rass;52020.61
+2021-June;Tourists Spending (SAR);AlQassim Province;Rass;491140.05
+2021-August;Tourists Spending (SAR);AlQassim Province;Rass;93525.36
+2023-September;Tourists Spending (SAR);AlQassim Province;Rass;496956.23
+2021-April;Tourists Spending (SAR);AlQassim Province;Unayzah;519409.61
+2021-May;Tourists Spending (SAR);AlQassim Province;Unayzah;631295.02
+2022-September;Tourists Spending (SAR);AlQassim Province;Unayzah;912308.85
+2023-September;Tourists Spending (SAR);AlQassim Province;Unayzah;465010.58
+2022-March;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2022-April;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2023-June;Tourists Spending (SAR);AlQassim Province;Other AlQassim;0.0
+2023-July;Tourists Spending (SAR);AlQassim Province;Other AlQassim;287131.25
+2022-September;Tourists Spending (SAR);AlQassim Province;Other AlQassim;53271.85000000056
+2021-December;Tourists Spending (SAR);AlQassim Province;Other AlQassim;959243.48
+2023-December;Tourists Spending (SAR);AlQassim Province;Other AlQassim;703311.4
+2022-February;Tourists Spending (SAR);Aseer Province;Abha;12607.41
+2023-February;Tourists Spending (SAR);Aseer Province;Abha;16040557.17
+2023-March;Tourists Spending (SAR);Aseer Province;Abha;18349945.37
+2022-April;Tourists Spending (SAR);Aseer Province;Abha;75451.31
+2022-July;Tourists Spending (SAR);Aseer Province;Abha;4247799.8
+2021-October;Tourists Spending (SAR);Aseer Province;Abha;2527244.98
+2022-October;Tourists Spending (SAR);Aseer Province;Abha;7153883.99
+2022-November;Tourists Spending (SAR);Aseer Province;Abha;19261221.31
+2023-December;Tourists Spending (SAR);Aseer Province;Abha;17128575.49
+2023-March;Tourists Spending (SAR);Aseer Province;Khamis Mushait;9851664.96
+2021-April;Tourists Spending (SAR);Aseer Province;Khamis Mushait;529.51
+2023-April;Tourists Spending (SAR);Aseer Province;Khamis Mushait;7424065.78
+2022-May;Tourists Spending (SAR);Aseer Province;Khamis Mushait;325555.09
+2021-June;Tourists Spending (SAR);Aseer Province;Khamis Mushait;12508.72
+2023-July;Tourists Spending (SAR);Aseer Province;Khamis Mushait;8938442.92
+2022-August;Tourists Spending (SAR);Aseer Province;Khamis Mushait;65853.34
+2023-January;Tourists Spending (SAR);Aseer Province;Other Aseer;28405304.909999996
+2023-June;Tourists Spending (SAR);Aseer Province;Other Aseer;9238235.12
+2021-January;Tourists Spending (SAR);Eastern Province;Al Ahsa;15422619.7
+2022-February;Tourists Spending (SAR);Eastern Province;Al Ahsa;32070176.5
+2022-June;Tourists Spending (SAR);Eastern Province;Al Ahsa;74049837.08
+2023-June;Tourists Spending (SAR);Eastern Province;Al Ahsa;92277918.23
+2023-July;Tourists Spending (SAR);Eastern Province;Al Ahsa;107159446.46
+2022-September;Tourists Spending (SAR);Eastern Province;Al Ahsa;73096788.6
+2023-October;Tourists Spending (SAR);Eastern Province;Al Ahsa;80660922.73
+2022-December;Tourists Spending (SAR);Eastern Province;Al Ahsa;47445216.93
+2023-February;Tourists Spending (SAR);Eastern Province;Al Khobar;476045404.55
+2023-March;Tourists Spending (SAR);Eastern Province;Al Khobar;332249332.07
+2021-June;Tourists Spending (SAR);Eastern Province;Al Khobar;17513549.7
+2023-June;Tourists Spending (SAR);Eastern Province;Al Khobar;458388720.65
+2022-August;Tourists Spending (SAR);Eastern Province;Al Khobar;307976253.12
+2023-September;Tourists Spending (SAR);Eastern Province;Al Khobar;328120087.55
+2021-October;Tourists Spending (SAR);Eastern Province;Al Khobar;109026819.46
+2022-November;Tourists Spending (SAR);Eastern Province;Al Khobar;602065433.17
+2022-January;Tourists Spending (SAR);Eastern Province;Dammam;43082799.01
+2021-February;Tourists Spending (SAR);Eastern Province;Dammam;34704723.2
+2022-February;Tourists Spending (SAR);Eastern Province;Dammam;112361708.4
+2022-May;Tourists Spending (SAR);Eastern Province;Dammam;144073759.05
+2022-June;Tourists Spending (SAR);Eastern Province;Dammam;150199200.5
+2021-July;Tourists Spending (SAR);Eastern Province;Dammam;196645616.68
+2023-November;Tourists Spending (SAR);Eastern Province;Dammam;245596055.1
+2021-December;Tourists Spending (SAR);Eastern Province;Dammam;94096786.52
+2023-April;Tourists Spending (SAR);Eastern Province;Other Eastern;149821483.10000002
+2023-May;Tourists Spending (SAR);Eastern Province;Other Eastern;90576661.05000001
+2022-June;Tourists Spending (SAR);Eastern Province;Other Eastern;114227525.28000009
+2023-July;Tourists Spending (SAR);Eastern Province;Other Eastern;133309466.16
+2022-October;Tourists Spending (SAR);Eastern Province;Other Eastern;93786639.89999998
+2023-October;Tourists Spending (SAR);Eastern Province;Other Eastern;82529580.18
+2021-November;Tourists Spending (SAR);Eastern Province;Other Eastern;80123179.86
+2021-February;Tourists Spending (SAR);Hail Province;Hail;15924612.02
+2022-April;Tourists Spending (SAR);Hail Province;Hail;25627245.12
+2022-June;Tourists Spending (SAR);Hail Province;Hail;19190930.69
+2021-October;Tourists Spending (SAR);Hail Province;Hail;123578501.12
+2021-November;Tourists Spending (SAR);Hail Province;Hail;80661847.14
+year-May;Tourists Spending (SAR);Hail Province;Other Hail;
+year-June;Tourists Spending (SAR);Hail Province;Other Hail;
+2021-April;Tourists Spending (SAR);Jazan Province;Jazan;3205297.0
+2022-July;Tourists Spending (SAR);Jazan Province;Jazan;67365.97
+2021-September;Tourists Spending (SAR);Jazan Province;Jazan;7585.05
+2022-October;Tourists Spending (SAR);Jazan Province;Jazan;1030085.35
+2021-November;Tourists Spending (SAR);Jazan Province;Jazan;36822.88
+2022-November;Tourists Spending (SAR);Jazan Province;Jazan;7240494.36
+2021-January;Tourists Spending (SAR);Jazan Province;Other Jazan;10858910.74
+2022-January;Tourists Spending (SAR);Jazan Province;Other Jazan;48355.41
+2021-February;Tourists Spending (SAR);Jazan Province;Other Jazan;65745.3
+2022-June;Tourists Spending (SAR);Jazan Province;Other Jazan;7007115.29
+2023-July;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2022-August;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2022-September;Tourists Spending (SAR);Jazan Province;Other Jazan;0.0
+2022-November;Tourists Spending (SAR);Jazan Province;Other Jazan;3955064.4799999995
+2023-December;Tourists Spending (SAR);Jazan Province;Other Jazan;2549193.21
+2021-January;Tourists Spending (SAR);Jouf Province;Al Qurayyat;7211665.34
+2022-March;Tourists Spending (SAR);Jouf Province;Al Qurayyat;7570094.52
+2021-April;Tourists Spending (SAR);Jouf Province;Al Qurayyat;2136064.05
+2022-April;Tourists Spending (SAR);Jouf Province;Al Qurayyat;6905562.31
+2021-July;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1538031.17
+2022-July;Tourists Spending (SAR);Jouf Province;Al Qurayyat;1740037.11
+2022-January;Tourists Spending (SAR);Jouf Province;Sakaka;455578.99
+2021-April;Tourists Spending (SAR);Jouf Province;Sakaka;2931214.96
+2023-April;Tourists Spending (SAR);Jouf Province;Sakaka;3477797.96
+2021-August;Tourists Spending (SAR);Jouf Province;Sakaka;5894638.12
+2022-August;Tourists Spending (SAR);Jouf Province;Sakaka;479732.28
+2023-August;Tourists Spending (SAR);Jouf Province;Sakaka;14692161.14
+2021-September;Tourists Spending (SAR);Jouf Province;Sakaka;6038673.6
+2022-November;Tourists Spending (SAR);Jouf Province;Sakaka;7548779.69
+2023-November;Tourists Spending (SAR);Jouf Province;Sakaka;14585194.35
+2021-December;Tourists Spending (SAR);Jouf Province;Sakaka;2926096.04
+2022-December;Tourists Spending (SAR);Jouf Province;Sakaka;946.88
+2023-December;Tourists Spending (SAR);Jouf Province;Sakaka;12736714.23
+year-March;Tourists Spending (SAR);Jouf Province;Other Jouf;
+year-April;Tourists Spending (SAR);Jouf Province;Other Jouf;
+2021-November;Tourists Spending (SAR);Jouf Province;Other Jouf;461716.53
+2023-January;Tourists Spending (SAR);Madinah Province;Al Ula;36910092.05
+2022-March;Tourists Spending (SAR);Madinah Province;Al Ula;41569372.32
+2022-May;Tourists Spending (SAR);Madinah Province;Al Ula;2055257.14
+2023-July;Tourists Spending (SAR);Madinah Province;Al Ula;45463522.35
+2023-August;Tourists Spending (SAR);Madinah Province;Al Ula;19373422.76
+2022-September;Tourists Spending (SAR);Madinah Province;Al Ula;11585.43
+2021-December;Tourists Spending (SAR);Madinah Province;Al Ula;15414026.12
+2021-March;Tourists Spending (SAR);Madinah Province;Madinah;8550553.41
+2022-April;Tourists Spending (SAR);Madinah Province;Madinah;2346010.55
+2021-May;Tourists Spending (SAR);Madinah Province;Madinah;241174.78
+2022-August;Tourists Spending (SAR);Madinah Province;Madinah;11233745.95
+2021-October;Tourists Spending (SAR);Madinah Province;Madinah;11621013.62
+2023-October;Tourists Spending (SAR);Madinah Province;Madinah;23145293.06
+2021-December;Tourists Spending (SAR);Madinah Province;Madinah;1807790.19
+2023-December;Tourists Spending (SAR);Madinah Province;Madinah;11517367.12
+2023-March;Tourists Spending (SAR);Madinah Province;Yanbu;798544.2
+2023-April;Tourists Spending (SAR);Madinah Province;Yanbu;23262463.41
+2023-July;Tourists Spending (SAR);Madinah Province;Yanbu;4369429.75
+2021-October;Tourists Spending (SAR);Madinah Province;Yanbu;382680.33
+2023-October;Tourists Spending (SAR);Madinah Province;Yanbu;1133495.33
+2021-November;Tourists Spending (SAR);Madinah Province;Yanbu;527227.08
+2022-December;Tourists Spending (SAR);Madinah Province;Yanbu;203710.18
+2023-December;Tourists Spending (SAR);Madinah Province;Yanbu;6768969.16
+2022-January;Tourists Spending (SAR);Madinah Province;Other Madinah;1083331.31
+2023-May;Tourists Spending (SAR);Madinah Province;Other Madinah;0.0
+2021-September;Tourists Spending (SAR);Madinah Province;Other Madinah;75997.59
+2022-November;Tourists Spending (SAR);Madinah Province;Other Madinah;204713.61
+2021-January;Tourists Spending (SAR);Makkah Province;Jeddah;89956706.19
+2022-March;Tourists Spending (SAR);Makkah Province;Jeddah;1306107348.97
+2021-April;Tourists Spending (SAR);Makkah Province;Jeddah;92426655.52
+2022-May;Tourists Spending (SAR);Makkah Province;Jeddah;738948676.07
+2023-June;Tourists Spending (SAR);Makkah Province;Jeddah;1044283124.41
+2023-July;Tourists Spending (SAR);Makkah Province;Jeddah;524313987.54
+2022-September;Tourists Spending (SAR);Makkah Province;Jeddah;996306470.55
+2023-September;Tourists Spending (SAR);Makkah Province;Jeddah;367743994.06
+2021-December;Tourists Spending (SAR);Makkah Province;Jeddah;168858797.43
+2023-February;Tourists Spending (SAR);Makkah Province;Makkah;7595661276.9
+2021-May;Tourists Spending (SAR);Makkah Province;Makkah;44307357.42
+2021-July;Tourists Spending (SAR);Makkah Province;Makkah;89125753.76
+2023-July;Tourists Spending (SAR);Makkah Province;Makkah;2329533932.06
+2021-September;Tourists Spending (SAR);Makkah Province;Makkah;166898851.56
+2021-December;Tourists Spending (SAR);Makkah Province;Makkah;613680679.58
+2023-December;Tourists Spending (SAR);Makkah Province;Makkah;8039690867.56
+2021-May;Tourists Spending (SAR);Makkah Province;Rabigh;66919.93
+2023-May;Tourists Spending (SAR);Makkah Province;Taif;8284345.35
+2021-September;Tourists Spending (SAR);Makkah Province;Taif;352435.04
+2021-November;Tourists Spending (SAR);Makkah Province;Taif;234232.38
+2022-November;Tourists Spending (SAR);Makkah Province;Taif;28689694.31
+2023-December;Tourists Spending (SAR);Makkah Province;Taif;17204682.37
+2022-March;Tourists Spending (SAR);Makkah Province;Other Makkah;-0.010000228881835938
+2022-July;Tourists Spending (SAR);Makkah Province;Other Makkah;285812.9399986267
+2023-December;Tourists Spending (SAR);Makkah Province;Other Makkah;5578033.48
+2022-June;Tourists Spending (SAR);Najran Province;Najran;158390.23
+2023-June;Tourists Spending (SAR);Najran Province;Najran;477060.87
+2023-July;Tourists Spending (SAR);Najran Province;Najran;9263657.11
+2023-September;Tourists Spending (SAR);Najran Province;Najran;3069800.17
+2021-January;Tourists Spending (SAR);Najran Province;Other Najran;137733.17
+2022-January;Tourists Spending (SAR);Northern Borders Province;Arar;9237670.71
+2021-February;Tourists Spending (SAR);Northern Borders Province;Arar;1906514.63
+2023-February;Tourists Spending (SAR);Northern Borders Province;Arar;39594602.03
+2022-May;Tourists Spending (SAR);Northern Borders Province;Arar;25194616.91
+2021-August;Tourists Spending (SAR);Northern Borders Province;Arar;35572021.95
+2022-October;Tourists Spending (SAR);Northern Borders Province;Arar;9650844.7
+2021-November;Tourists Spending (SAR);Northern Borders Province;Arar;20724898.29
+2023-November;Tourists Spending (SAR);Northern Borders Province;Arar;16487109.04
+2022-April;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;7895172.509999998
+2021-June;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;3529956.41
+2022-June;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;20316660.699999996
+2022-October;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;5000971.48
+2021-December;Tourists Spending (SAR);Northern Borders Province;Other Northern Borders;4397270.33
+2023-February;Tourists Spending (SAR);Riyadh Province;Riyadh;1208244644.23
+2021-June;Tourists Spending (SAR);Riyadh Province;Riyadh;441528255.23
+2023-July;Tourists Spending (SAR);Riyadh Province;Riyadh;624491575.08
+2021-September;Tourists Spending (SAR);Riyadh Province;Riyadh;622499123.32
+2021-October;Tourists Spending (SAR);Riyadh Province;Riyadh;842912818.09
+2022-October;Tourists Spending (SAR);Riyadh Province;Riyadh;1207531770.94
+2022-November;Tourists Spending (SAR);Riyadh Province;Riyadh;1146785767.51
+2021-December;Tourists Spending (SAR);Riyadh Province;Riyadh;1551987421.43
+2022-December;Tourists Spending (SAR);Riyadh Province;Riyadh;1741035881.87
+2021-January;Tourists Spending (SAR);Riyadh Province;Other Riyadh;3083739.58
+2023-January;Tourists Spending (SAR);Riyadh Province;Other Riyadh;59275668.38
+2021-April;Tourists Spending (SAR);Riyadh Province;Other Riyadh;377225.28
+2023-May;Tourists Spending (SAR);Riyadh Province;Other Riyadh;36415970.19999999
+2021-June;Tourists Spending (SAR);Riyadh Province;Other Riyadh;2573534.86
+2022-August;Tourists Spending (SAR);Riyadh Province;Other Riyadh;4766184.319999933
+2022-November;Tourists Spending (SAR);Riyadh Province;Other Riyadh;18652193.02999997
+2023-November;Tourists Spending (SAR);Riyadh Province;Other Riyadh;87272858.55000001
+2021-December;Tourists Spending (SAR);Riyadh Province;Other Riyadh;70144330.78
+2023-May;Tourists Spending (SAR);Tabuk Province;Al Wajh;1240349.04
+2021-February;Tourists Spending (SAR);Tabuk Province;Duba;692656.43
+2021-October;Tourists Spending (SAR);Tabuk Province;Duba;360515.89
+2023-October;Tourists Spending (SAR);Tabuk Province;Duba;3489843.37
+2022-November;Tourists Spending (SAR);Tabuk Province;Duba;2860699.99
+2023-November;Tourists Spending (SAR);Tabuk Province;Duba;5927237.03
+2021-January;Tourists Spending (SAR);Tabuk Province;Tabuk;251740.86
+2023-February;Tourists Spending (SAR);Tabuk Province;Tabuk;16093371.4
+2022-April;Tourists Spending (SAR);Tabuk Province;Tabuk;12895922.45
+2021-October;Tourists Spending (SAR);Tabuk Province;Tabuk;4864545.1
+2023-October;Tourists Spending (SAR);Tabuk Province;Tabuk;11551434.95
+2021-November;Tourists Spending (SAR);Tabuk Province;Tabuk;3980051.88
+2021-December;Tourists Spending (SAR);Tabuk Province;Tabuk;3503091.63
+2023-July;Tourists Spending (SAR);Tabuk Province;Umluj;258478.67
+2023-August;Tourists Spending (SAR);Tabuk Province;Umluj;1052698.79
+2021-October;Tourists Spending (SAR);Tabuk Province;Umluj;134859356.23
+2023-November;Tourists Spending (SAR);Tabuk Province;Umluj;301823.89
+2022-December;Tourists Spending (SAR);Tabuk Province;Umluj;1065710.18
+2023-February;Tourists Spending (SAR);Tabuk Province;Other Tabuk;0.0
+2023-March;Tourists Spending (SAR);Tabuk Province;Other Tabuk;3012468.72
+2023-June;Tourists Spending (SAR);Tabuk Province;Other Tabuk;1611155.85
+2021-July;Tourists Spending (SAR);Tabuk Province;Other Tabuk;171321.74
+2023-December;Tourists Spending (SAR);Tabuk Province;Other Tabuk;5630171.83
+2021-June;Tourists Spending (SAR);Total;Total;793629701.37
+2022-June;Tourists Spending (SAR);Total;Total;3717671072.16
+2021-September;Tourists Spending (SAR);Total;Total;1111001131.86
+2022-September;Tourists Spending (SAR);Total;Total;7718155654.26
+2023-October;Tourists Spending (SAR);Total;Total;9159477598.62
+2021-November;Tourists Spending (SAR);Total;Total;2240416527.07
+2022-November;Tourists Spending (SAR);Total;Total;8538926273.88
+2023-November;Tourists Spending (SAR);Total;Total;9790047398.75
+2023-December;Tourists Spending (SAR);Total;Total;10629201217.67

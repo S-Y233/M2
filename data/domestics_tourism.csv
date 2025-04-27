@@ -1,0 +1,977 @@
+,Indicator,Province,Value,year,month
+0,Tourists Number (Overnight Visitors),Al Bahah,39183.0,2023,01
+1,Tourists Number (Overnight Visitors),Al Bahah,37792.0,2022,02
+2,Tourists Number (Overnight Visitors),Al Bahah,60160.0,2023,05
+3,Tourists Number (Overnight Visitors),Al Bahah,56620.0,2021,09
+4,Tourists Number (Overnight Visitors),Al Bahah,31937.0,2022,10
+5,Tourists Number (Overnight Visitors),Al Bahah,34633.0,2022,11
+6,Tourists Number (Overnight Visitors),Al Bahah,20168.0,2022,12
+7,Tourists Number (Overnight Visitors),AlQassim,262738.0,2021,02
+8,Tourists Number (Overnight Visitors),AlQassim,351766.0,2022,03
+9,Tourists Number (Overnight Visitors),AlQassim,433533.0,2021,05
+10,Tourists Number (Overnight Visitors),AlQassim,384155.0,2023,07
+11,Tourists Number (Overnight Visitors),AlQassim,286350.0,2021,09
+12,Tourists Number (Overnight Visitors),AlQassim,189074.0,2022,10
+13,Tourists Number (Overnight Visitors),AlQassim,334759.0,2023,12
+14,Tourists Number (Overnight Visitors),Aseer,382596.0,2021,02
+15,Tourists Number (Overnight Visitors),Aseer,314178.0,2021,03
+16,Tourists Number (Overnight Visitors),Aseer,391049.0,2021,04
+17,Tourists Number (Overnight Visitors),Aseer,413729.0,2023,05
+18,Tourists Number (Overnight Visitors),Aseer,745729.0,2022,08
+19,Tourists Number (Overnight Visitors),Aseer,646052.0,2023,08
+20,Tourists Number (Overnight Visitors),Aseer,309502.0,2021,09
+21,Tourists Number (Overnight Visitors),Aseer,278697.0,2022,09
+22,Tourists Number (Overnight Visitors),Eastern Province,958961.0,2022,03
+23,Tourists Number (Overnight Visitors),Eastern Province,1395174.0,2023,06
+24,Tourists Number (Overnight Visitors),Eastern Province,1146011.0,2022,07
+25,Tourists Number (Overnight Visitors),Eastern Province,1058265.0,2022,11
+26,Tourists Number (Overnight Visitors),Eastern Province,709001.0,2021,12
+27,Tourists Number (Overnight Visitors),Hail,177308.0,2021,01
+28,Tourists Number (Overnight Visitors),Hail,127236.0,2023,02
+29,Tourists Number (Overnight Visitors),Hail,119169.0,2021,03
+30,Tourists Number (Overnight Visitors),Hail,103228.0,2021,04
+31,Tourists Number (Overnight Visitors),Hail,200512.0,2021,05
+32,Tourists Number (Overnight Visitors),Hail,165272.0,2022,05
+33,Tourists Number (Overnight Visitors),Hail,246875.0,2021,07
+34,Tourists Number (Overnight Visitors),Hail,169923.0,2022,08
+35,Tourists Number (Overnight Visitors),Hail,134874.0,2023,08
+36,Tourists Number (Overnight Visitors),Hail,124394.0,2023,10
+37,Tourists Number (Overnight Visitors),Jazan,374146.0,2023,01
+38,Tourists Number (Overnight Visitors),Jazan,152348.0,2023,06
+39,Tourists Number (Overnight Visitors),Jazan,264803.0,2021,07
+40,Tourists Number (Overnight Visitors),Jazan,204674.0,2023,12
+41,Tourists Number (Overnight Visitors),Jouf,74255.0,2023,01
+42,Tourists Number (Overnight Visitors),Jouf,79146.0,2023,02
+43,Tourists Number (Overnight Visitors),Jouf,97938.0,2023,03
+44,Tourists Number (Overnight Visitors),Jouf,75748.0,2022,06
+45,Tourists Number (Overnight Visitors),Jouf,140792.0,2023,06
+46,Tourists Number (Overnight Visitors),Jouf,165665.0,2022,07
+47,Tourists Number (Overnight Visitors),Jouf,100025.0,2023,07
+48,Tourists Number (Overnight Visitors),Jouf,65821.0,2021,08
+49,Tourists Number (Overnight Visitors),Jouf,102999.0,2022,10
+50,Tourists Number (Overnight Visitors),Madinah,424782.0,2023,01
+51,Tourists Number (Overnight Visitors),Madinah,353315.0,2023,05
+52,Tourists Number (Overnight Visitors),Madinah,503309.0,2021,07
+53,Tourists Number (Overnight Visitors),Madinah,325546.0,2021,08
+54,Tourists Number (Overnight Visitors),Madinah,539423.0,2022,08
+55,Tourists Number (Overnight Visitors),Madinah,525512.0,2023,08
+56,Tourists Number (Overnight Visitors),Madinah,285685.0,2021,09
+57,Tourists Number (Overnight Visitors),Madinah,454869.0,2023,09
+58,Tourists Number (Overnight Visitors),Madinah,444321.0,2023,10
+59,Tourists Number (Overnight Visitors),Madinah,349375.0,2021,12
+60,Tourists Number (Overnight Visitors),Makkah,1233271.0,2021,02
+61,Tourists Number (Overnight Visitors),Makkah,1790593.0,2022,02
+62,Tourists Number (Overnight Visitors),Makkah,1195801.0,2021,06
+63,Tourists Number (Overnight Visitors),Makkah,2726540.0,2023,06
+64,Tourists Number (Overnight Visitors),Makkah,1787497.0,2021,08
+65,Tourists Number (Overnight Visitors),Makkah,1966858.0,2022,08
+66,Tourists Number (Overnight Visitors),Makkah,1584524.0,2023,09
+67,Tourists Number (Overnight Visitors),Makkah,1185032.0,2022,10
+68,Tourists Number (Overnight Visitors),Makkah,1610516.0,2023,10
+69,Tourists Number (Overnight Visitors),Makkah,1658113.0,2023,12
+70,Tourists Number (Overnight Visitors),Najran,106398.0,2023,01
+71,Tourists Number (Overnight Visitors),Najran,64037.0,2021,02
+72,Tourists Number (Overnight Visitors),Najran,63068.0,2022,03
+73,Tourists Number (Overnight Visitors),Najran,112498.0,2022,04
+74,Tourists Number (Overnight Visitors),Najran,48028.0,2022,09
+75,Tourists Number (Overnight Visitors),Najran,101670.0,2022,11
+76,Tourists Number (Overnight Visitors),Najran,52356.0,2022,12
+77,Tourists Number (Overnight Visitors),Northern Borders,62842.0,2021,02
+78,Tourists Number (Overnight Visitors),Northern Borders,91724.0,2023,02
+79,Tourists Number (Overnight Visitors),Northern Borders,65435.0,2021,04
+80,Tourists Number (Overnight Visitors),Northern Borders,92875.0,2021,05
+81,Tourists Number (Overnight Visitors),Northern Borders,98049.0,2022,05
+82,Tourists Number (Overnight Visitors),Northern Borders,48676.0,2021,06
+83,Tourists Number (Overnight Visitors),Northern Borders,45107.0,2022,06
+84,Tourists Number (Overnight Visitors),Northern Borders,134903.0,2022,07
+85,Tourists Number (Overnight Visitors),Northern Borders,85676.0,2023,07
+86,Tourists Number (Overnight Visitors),Northern Borders,48176.0,2021,09
+87,Tourists Number (Overnight Visitors),Northern Borders,84148.0,2021,11
+88,Tourists Number (Overnight Visitors),Northern Borders,54111.0,2021,12
+89,Tourists Number (Overnight Visitors),Riyadh,1464860.0,2022,02
+90,Tourists Number (Overnight Visitors),Riyadh,1130922.0,2023,02
+91,Tourists Number (Overnight Visitors),Riyadh,1042259.0,2023,04
+92,Tourists Number (Overnight Visitors),Riyadh,873794.0,2022,06
+93,Tourists Number (Overnight Visitors),Riyadh,1801836.0,2022,07
+94,Tourists Number (Overnight Visitors),Riyadh,1643791.0,2022,11
+95,Tourists Number (Overnight Visitors),Riyadh,961922.0,2021,12
+96,Tourists Number (Overnight Visitors),Tabuk,166926.0,2021,02
+97,Tourists Number (Overnight Visitors),Tabuk,166622.0,2023,02
+98,Tourists Number (Overnight Visitors),Tabuk,198135.0,2023,04
+99,Tourists Number (Overnight Visitors),Tabuk,171719.0,2021,06
+100,Tourists Number (Overnight Visitors),Tabuk,139350.0,2021,09
+101,Tourists Number (Overnight Visitors),Tabuk,231927.0,2023,12
+102,Tourists Number (Overnight Visitors),Total,6293956.0,2023,01
+103,Tourists Number (Overnight Visitors),Total,6449938.0,2022,02
+104,Tourists Number (Overnight Visitors),Total,4431003.0,2021,04
+105,Tourists Number (Overnight Visitors),Total,8118256.0,2023,07
+106,Tourists Number (Overnight Visitors),Total,7008438.0,2022,08
+107,Tourists Number (Overnight Visitors),Total,4185297.0,2021,09
+108,Tourists Number (Overnight Visitors),Total,4196039.0,2022,09
+109,Tourists Number (Overnight Visitors),Total,6073827.0,2023,09
+110,Tourists Number (Overnight Visitors),Total,4838186.0,2022,10
+111,Tourists Number (Overnight Visitors),Total,6202019.0,2023,10
+112,Tourists Spending (SAR),Al Bahah,58453265.0,2021,04
+113,Tourists Spending (SAR),Al Bahah,128893854.82,2021,06
+114,Tourists Spending (SAR),Al Bahah,345643555.62,2023,07
+115,Tourists Spending (SAR),Al Bahah,34828734.47,2022,09
+116,Tourists Spending (SAR),Al Bahah,72044390.18,2021,11
+117,Tourists Spending (SAR),Al Bahah,35285401.35,2021,12
+118,Tourists Spending (SAR),Al Bahah,45747470.53,2023,12
+119,Tourists Spending (SAR),AlQassim,329434917.29,2021,01
+120,Tourists Spending (SAR),AlQassim,249390131.79,2021,02
+121,Tourists Spending (SAR),AlQassim,448811010.16,2023,02
+122,Tourists Spending (SAR),AlQassim,534286112.25,2022,04
+123,Tourists Spending (SAR),AlQassim,328844999.02,2023,05
+124,Tourists Spending (SAR),AlQassim,330377940.12,2022,06
+125,Tourists Spending (SAR),AlQassim,283666243.79,2021,09
+126,Tourists Spending (SAR),AlQassim,215355649.85,2021,12
+127,Tourists Spending (SAR),AlQassim,249927776.19,2022,12
+128,Tourists Spending (SAR),Aseer,669807178.96,2023,03
+129,Tourists Spending (SAR),Aseer,497944048.19,2021,04
+130,Tourists Spending (SAR),Aseer,1895929410.85,2023,06
+131,Tourists Spending (SAR),Aseer,1909364782.91,2023,07
+132,Tourists Spending (SAR),Aseer,395687999.5,2021,09
+133,Tourists Spending (SAR),Aseer,579206073.93,2021,11
+134,Tourists Spending (SAR),Aseer,768315366.19,2023,12
+135,Tourists Spending (SAR),Eastern Province,1150978575.99,2021,04
+136,Tourists Spending (SAR),Eastern Province,1252936120.23,2022,05
+137,Tourists Spending (SAR),Eastern Province,1303936194.54,2022,07
+138,Tourists Spending (SAR),Eastern Province,1541475919.28,2023,08
+139,Tourists Spending (SAR),Eastern Province,747608920.02,2021,09
+140,Tourists Spending (SAR),Eastern Province,731982242.12,2022,09
+141,Tourists Spending (SAR),Eastern Province,1526308843.29,2023,09
+142,Tourists Spending (SAR),Eastern Province,943969219.7,2022,10
+143,Tourists Spending (SAR),Eastern Province,1138144705.14,2021,11
+144,Tourists Spending (SAR),Eastern Province,1382214502.84,2022,11
+145,Tourists Spending (SAR),Eastern Province,1106544241.29,2023,12
+146,Tourists Spending (SAR),Hail,156934242.77,2021,12
+147,Tourists Spending (SAR),Jazan,449426257.04,2021,05
+148,Tourists Spending (SAR),Jazan,138910048.06,2023,07
+149,Tourists Spending (SAR),Jazan,187360471.91,2023,08
+150,Tourists Spending (SAR),Jazan,102723607.32,2022,09
+151,Tourists Spending (SAR),Jazan,151310717.77,2023,09
+152,Tourists Spending (SAR),Jouf,136472639.62,2021,01
+153,Tourists Spending (SAR),Jouf,116544028.44,2021,04
+154,Tourists Spending (SAR),Jouf,254815106.46,2022,05
+155,Tourists Spending (SAR),Jouf,66347488.01,2023,05
+156,Tourists Spending (SAR),Jouf,78641681.16,2021,06
+157,Tourists Spending (SAR),Jouf,161352003.57,2021,10
+158,Tourists Spending (SAR),Jouf,187208521.29,2021,11
+159,Tourists Spending (SAR),Madinah,430928872.48,2023,02
+160,Tourists Spending (SAR),Madinah,313648817.83,2021,04
+161,Tourists Spending (SAR),Madinah,373609572.47,2023,05
+162,Tourists Spending (SAR),Madinah,299544240.08,2021,06
+163,Tourists Spending (SAR),Madinah,689960043.58,2023,06
+164,Tourists Spending (SAR),Madinah,396288131.73,2021,09
+165,Tourists Spending (SAR),Madinah,397554189.19,2021,12
+166,Tourists Spending (SAR),Madinah,596799989.9,2023,12
+167,Tourists Spending (SAR),Makkah,1788620353.67,2023,02
+168,Tourists Spending (SAR),Makkah,4447572018.01,2022,04
+169,Tourists Spending (SAR),Makkah,1321300980.25,2022,10
+170,Tourists Spending (SAR),Makkah,3982305995.2,2021,11
+171,Tourists Spending (SAR),Najran,237702768.26,2023,06
+172,Tourists Spending (SAR),Najran,418252613.13,2022,07
+173,Tourists Spending (SAR),Najran,165986105.9,2021,08
+174,Tourists Spending (SAR),Najran,609018677.08,2021,10
+175,Tourists Spending (SAR),Najran,270084319.12,2023,10
+176,Tourists Spending (SAR),Northern Borders,340435269.13,2022,02
+177,Tourists Spending (SAR),Northern Borders,117727117.55,2023,05
+178,Tourists Spending (SAR),Northern Borders,144396378.23,2021,08
+179,Tourists Spending (SAR),Northern Borders,161675028.59,2023,08
+180,Tourists Spending (SAR),Northern Borders,173448007.34,2021,10
+181,Tourists Spending (SAR),Northern Borders,244937409.53,2023,11
+182,Tourists Spending (SAR),Riyadh,2626343102.92,2022,01
+183,Tourists Spending (SAR),Riyadh,1993535097.88,2023,02
+184,Tourists Spending (SAR),Riyadh,2357876062.65,2023,03
+185,Tourists Spending (SAR),Riyadh,1787131231.08,2021,05
+186,Tourists Spending (SAR),Riyadh,1312292114.39,2022,06
+187,Tourists Spending (SAR),Riyadh,2557423836.37,2021,07
+188,Tourists Spending (SAR),Riyadh,2495892559.88,2021,11
+189,Tourists Spending (SAR),Riyadh,3251684597.87,2023,11
+190,Tourists Spending (SAR),Riyadh,1411915914.68,2022,12
+191,Tourists Spending (SAR),Riyadh,2978127647.9,2023,12
+192,Tourists Spending (SAR),Tabuk,328139941.01,2021,02
+193,Tourists Spending (SAR),Tabuk,568517938.18,2022,05
+194,Tourists Spending (SAR),Tabuk,505486594.57,2023,06
+195,Tourists Spending (SAR),Tabuk,875841185.5,2022,07
+202,Tourists Number (Overnight Visitors),Al Bahah,69457.0,2023,04
+203,Tourists Number (Overnight Visitors),Al Bahah,158744.0,2021,05
+204,Tourists Number (Overnight Visitors),Al Bahah,95902.0,2021,06
+205,Tourists Number (Overnight Visitors),Al Bahah,29098.0,2022,06
+206,Tourists Number (Overnight Visitors),Al Bahah,33474.0,2021,12
+207,Tourists Number (Overnight Visitors),AlQassim,266316.0,2021,03
+208,Tourists Number (Overnight Visitors),AlQassim,312158.0,2023,03
+209,Tourists Number (Overnight Visitors),AlQassim,274187.0,2022,08
+210,Tourists Number (Overnight Visitors),AlQassim,279147.0,2022,09
+211,Tourists Number (Overnight Visitors),AlQassim,306215.0,2023,09
+212,Tourists Number (Overnight Visitors),AlQassim,233187.0,2021,12
+213,Tourists Number (Overnight Visitors),Aseer,448544.0,2023,02
+214,Tourists Number (Overnight Visitors),Aseer,513029.0,2022,04
+215,Tourists Number (Overnight Visitors),Aseer,281209.0,2022,06
+216,Tourists Number (Overnight Visitors),Aseer,1192372.0,2023,07
+217,Tourists Number (Overnight Visitors),Aseer,456876.0,2023,10
+218,Tourists Number (Overnight Visitors),Aseer,641634.0,2023,11
+219,Tourists Number (Overnight Visitors),Aseer,556564.0,2023,12
+220,Tourists Number (Overnight Visitors),Eastern Province,1141790.0,2023,04
+221,Tourists Number (Overnight Visitors),Eastern Province,632441.0,2022,06
+222,Tourists Number (Overnight Visitors),Eastern Province,710812.0,2021,08
+223,Tourists Number (Overnight Visitors),Eastern Province,873699.0,2022,08
+224,Tourists Number (Overnight Visitors),Eastern Province,678578.0,2022,12
+225,Tourists Number (Overnight Visitors),Hail,222938.0,2022,01
+226,Tourists Number (Overnight Visitors),Hail,167726.0,2022,03
+227,Tourists Number (Overnight Visitors),Hail,201187.0,2023,03
+228,Tourists Number (Overnight Visitors),Hail,98837.0,2023,05
+229,Tourists Number (Overnight Visitors),Hail,379081.0,2022,07
+230,Tourists Number (Overnight Visitors),Hail,130601.0,2023,07
+231,Tourists Number (Overnight Visitors),Hail,128020.0,2021,09
+232,Tourists Number (Overnight Visitors),Hail,129187.0,2022,12
+233,Tourists Number (Overnight Visitors),Jazan,246886.0,2023,02
+234,Tourists Number (Overnight Visitors),Jazan,173450.0,2021,03
+235,Tourists Number (Overnight Visitors),Jazan,155334.0,2022,03
+236,Tourists Number (Overnight Visitors),Jazan,310647.0,2021,05
+237,Tourists Number (Overnight Visitors),Jazan,257619.0,2022,07
+238,Tourists Number (Overnight Visitors),Jazan,95185.0,2022,09
+239,Tourists Number (Overnight Visitors),Jazan,116191.0,2023,09
+240,Tourists Number (Overnight Visitors),Jazan,220290.0,2021,10
+241,Tourists Number (Overnight Visitors),Jouf,98404.0,2023,04
+242,Tourists Number (Overnight Visitors),Jouf,104358.0,2022,05
+243,Tourists Number (Overnight Visitors),Jouf,61761.0,2022,09
+244,Tourists Number (Overnight Visitors),Jouf,80191.0,2021,10
+245,Tourists Number (Overnight Visitors),Jouf,55171.0,2021,12
+246,Tourists Number (Overnight Visitors),Madinah,500722.0,2023,03
+247,Tourists Number (Overnight Visitors),Madinah,287437.0,2021,04
+248,Tourists Number (Overnight Visitors),Madinah,250211.0,2021,06
+249,Tourists Number (Overnight Visitors),Madinah,279202.0,2022,06
+250,Tourists Number (Overnight Visitors),Madinah,650764.0,2023,06
+251,Tourists Number (Overnight Visitors),Madinah,523139.0,2023,07
+252,Tourists Number (Overnight Visitors),Makkah,1198175.0,2021,03
+253,Tourists Number (Overnight Visitors),Makkah,2204132.0,2023,07
+254,Tourists Number (Overnight Visitors),Makkah,1125115.0,2022,12
+255,Tourists Number (Overnight Visitors),Najran,76058.0,2023,02
+256,Tourists Number (Overnight Visitors),Najran,63019.0,2023,05
+257,Tourists Number (Overnight Visitors),Najran,82504.0,2021,10
+258,Tourists Number (Overnight Visitors),Najran,80222.0,2021,11
+259,Tourists Number (Overnight Visitors),Najran,57125.0,2021,12
+260,Tourists Number (Overnight Visitors),Northern Borders,124274.0,2022,01
+261,Tourists Number (Overnight Visitors),Northern Borders,75809.0,2022,04
+262,Tourists Number (Overnight Visitors),Northern Borders,56611.0,2023,05
+263,Tourists Number (Overnight Visitors),Northern Borders,134262.0,2023,06
+264,Tourists Number (Overnight Visitors),Northern Borders,54444.0,2022,12
+265,Tourists Number (Overnight Visitors),Riyadh,1120515.0,2021,01
+266,Tourists Number (Overnight Visitors),Riyadh,760632.0,2021,02
+267,Tourists Number (Overnight Visitors),Riyadh,1082452.0,2022,04
+268,Tourists Number (Overnight Visitors),Riyadh,1060746.0,2023,05
+269,Tourists Number (Overnight Visitors),Riyadh,1355376.0,2021,11
+270,Tourists Number (Overnight Visitors),Riyadh,1533375.0,2023,12
+271,Tourists Number (Overnight Visitors),Tabuk,165132.0,2021,03
+272,Tourists Number (Overnight Visitors),Tabuk,194259.0,2022,03
+273,Tourists Number (Overnight Visitors),Tabuk,217231.0,2021,05
+274,Tourists Number (Overnight Visitors),Tabuk,261394.0,2023,08
+275,Tourists Number (Overnight Visitors),Tabuk,145688.0,2022,09
+276,Tourists Number (Overnight Visitors),Tabuk,252144.0,2021,11
+277,Tourists Number (Overnight Visitors),Total,4408037.0,2021,03
+278,Tourists Number (Overnight Visitors),Total,6502156.0,2023,03
+279,Tourists Number (Overnight Visitors),Total,8036131.0,2022,04
+280,Tourists Number (Overnight Visitors),Total,7246109.0,2022,05
+281,Tourists Number (Overnight Visitors),Total,4165569.0,2021,06
+282,Tourists Number (Overnight Visitors),Total,4493546.0,2021,12
+283,Tourists Number (Overnight Visitors),Total,6484089.0,2023,12
+284,Tourists Spending (SAR),Al Bahah,32259515.85,2023,01
+285,Tourists Spending (SAR),Al Bahah,44424048.12,2023,02
+286,Tourists Spending (SAR),Al Bahah,61416722.79,2022,04
+287,Tourists Spending (SAR),Al Bahah,25895176.97,2022,06
+288,Tourists Spending (SAR),Al Bahah,170320838.87,2022,08
+289,Tourists Spending (SAR),Al Bahah,40754130.06,2022,10
+290,Tourists Spending (SAR),Al Bahah,46273684.65,2023,10
+291,Tourists Spending (SAR),AlQassim,385995850.9,2023,03
+292,Tourists Spending (SAR),AlQassim,509212357.01,2021,05
+293,Tourists Spending (SAR),AlQassim,254932378.37,2021,06
+294,Tourists Spending (SAR),AlQassim,533813219.12,2021,07
+295,Tourists Spending (SAR),AlQassim,545137601.48,2023,07
+296,Tourists Spending (SAR),AlQassim,219156493.55,2021,10
+297,Tourists Spending (SAR),AlQassim,559250754.81,2023,10
+298,Tourists Spending (SAR),AlQassim,427642996.12,2021,11
+299,Tourists Spending (SAR),Aseer,628210473.23,2023,01
+300,Tourists Spending (SAR),Aseer,444756392.35,2021,02
+301,Tourists Spending (SAR),Aseer,416727696.1,2022,02
+302,Tourists Spending (SAR),Aseer,651126650.17,2023,02
+303,Tourists Spending (SAR),Aseer,444559617.14,2022,04
+304,Tourists Spending (SAR),Aseer,735947550.38,2023,04
+305,Tourists Spending (SAR),Aseer,1051940457.25,2021,05
+306,Tourists Spending (SAR),Aseer,571637076.45,2022,05
+307,Tourists Spending (SAR),Aseer,469044608.9,2023,05
+308,Tourists Spending (SAR),Aseer,357357039.61,2022,06
+309,Tourists Spending (SAR),Aseer,2429069024.9,2022,07
+310,Tourists Spending (SAR),Aseer,281613917.21,2022,09
+311,Tourists Spending (SAR),Aseer,330629269.14,2021,12
+312,Tourists Spending (SAR),Eastern Province,1454036673.15,2021,01
+313,Tourists Spending (SAR),Eastern Province,797590403.87,2022,04
+314,Tourists Spending (SAR),Eastern Province,1481223649.1,2023,04
+315,Tourists Spending (SAR),Eastern Province,1634264237.54,2021,05
+316,Tourists Spending (SAR),Eastern Province,1131424123.91,2021,06
+317,Tourists Spending (SAR),Eastern Province,1177513215.46,2021,08
+318,Tourists Spending (SAR),Eastern Province,1055113415.43,2022,08
+319,Tourists Spending (SAR),Hail,260029504.76,2022,02
+320,Tourists Spending (SAR),Hail,178383095.16,2023,02
+321,Tourists Spending (SAR),Hail,151748474.01,2021,03
+322,Tourists Spending (SAR),Hail,288303941.31,2022,03
+323,Tourists Spending (SAR),Hail,243875162.53,2023,03
+324,Tourists Spending (SAR),Hail,282932204.14,2022,05
+325,Tourists Spending (SAR),Hail,369684068.35,2023,06
+326,Tourists Spending (SAR),Hail,928571708.61,2022,07
+327,Tourists Spending (SAR),Hail,205514019.03,2021,08
+328,Tourists Spending (SAR),Hail,751781896.04,2022,08
+329,Tourists Spending (SAR),Hail,166100533.99,2023,08
+330,Tourists Spending (SAR),Hail,167667225.48,2022,09
+331,Tourists Spending (SAR),Hail,303571791.41,2023,09
+332,Tourists Spending (SAR),Hail,236874868.88,2021,10
+333,Tourists Spending (SAR),Hail,219405803.83,2022,11
+334,Tourists Spending (SAR),Jazan,115673926.66,2021,04
+335,Tourists Spending (SAR),Jazan,286632691.95,2023,04
+336,Tourists Spending (SAR),Jazan,140743319.82,2022,05
+337,Tourists Spending (SAR),Jazan,104607087.61,2023,05
+338,Tourists Spending (SAR),Jazan,231109621.26,2021,06
+339,Tourists Spending (SAR),Jazan,267506903.56,2023,06
+340,Tourists Spending (SAR),Jazan,283376690.44,2022,07
+341,Tourists Spending (SAR),Jazan,80895622.63,2022,12
+342,Tourists Spending (SAR),Jouf,107897398.13,2021,02
+343,Tourists Spending (SAR),Jouf,100469590.26,2021,03
+344,Tourists Spending (SAR),Jouf,401196906.75,2022,08
+345,Tourists Spending (SAR),Jouf,103321666.85,2023,08
+346,Tourists Spending (SAR),Jouf,95193961.17,2022,09
+347,Tourists Spending (SAR),Jouf,49775151.48,2022,12
+348,Tourists Spending (SAR),Madinah,542021351.54,2021,01
+349,Tourists Spending (SAR),Madinah,520032074.37,2022,03
+350,Tourists Spending (SAR),Madinah,646830190.55,2023,03
+351,Tourists Spending (SAR),Madinah,675157503.87,2021,05
+352,Tourists Spending (SAR),Madinah,1226082726.53,2022,07
+353,Tourists Spending (SAR),Madinah,439188406.43,2023,07
+354,Tourists Spending (SAR),Madinah,344665592.21,2022,09
+355,Tourists Spending (SAR),Madinah,443142507.57,2021,10
+356,Tourists Spending (SAR),Madinah,356269073.37,2022,10
+357,Tourists Spending (SAR),Makkah,2538304764.07,2021,01
+358,Tourists Spending (SAR),Makkah,2889864033.47,2022,01
+359,Tourists Spending (SAR),Makkah,1769758288.9,2021,03
+360,Tourists Spending (SAR),Makkah,2535957367.73,2022,03
+361,Tourists Spending (SAR),Makkah,2864291013.47,2023,03
+362,Tourists Spending (SAR),Makkah,2726102856.28,2022,05
+363,Tourists Spending (SAR),Makkah,1902252903.65,2021,06
+364,Tourists Spending (SAR),Makkah,1525397237.89,2022,06
+365,Tourists Spending (SAR),Makkah,2891239073.21,2022,08
+366,Tourists Spending (SAR),Makkah,2159581462.75,2023,08
+367,Tourists Spending (SAR),Makkah,1968990309.17,2021,09
+368,Tourists Spending (SAR),Makkah,1933728733.18,2023,09
+369,Tourists Spending (SAR),Makkah,1707396135.48,2023,10
+370,Tourists Spending (SAR),Najran,143865584.74,2021,02
+371,Tourists Spending (SAR),Najran,141789560.81,2023,03
+372,Tourists Spending (SAR),Najran,154629807.99,2021,05
+373,Tourists Spending (SAR),Najran,111713419.44,2023,07
+374,Tourists Spending (SAR),Najran,193997182.59,2022,08
+375,Tourists Spending (SAR),Najran,94008944.96,2023,08
+376,Tourists Spending (SAR),Najran,83654699.45,2022,12
+377,Tourists Spending (SAR),Northern Borders,299886586.69,2022,01
+378,Tourists Spending (SAR),Northern Borders,176718788.27,2023,02
+379,Tourists Spending (SAR),Northern Borders,216485217.2,2021,05
+380,Tourists Spending (SAR),Northern Borders,294895449.36,2021,07
+381,Tourists Spending (SAR),Northern Borders,168222073.15,2021,11
+382,Tourists Spending (SAR),Northern Borders,91230528.7,2021,12
+383,Tourists Spending (SAR),Riyadh,2273401953.97,2023,06
+384,Tourists Spending (SAR),Riyadh,2438841377.82,2023,07
+385,Tourists Spending (SAR),Riyadh,2072123481.4,2023,08
+386,Tourists Spending (SAR),Riyadh,1428693961.77,2022,09
+387,Tourists Spending (SAR),Riyadh,2508875563.52,2022,11
+388,Tourists Spending (SAR),Tabuk,272232632.36,2023,02
+389,Tourists Spending (SAR),Tabuk,396467517.69,2022,03
+390,Tourists Spending (SAR),Tabuk,334596504.72,2023,03
+391,Tourists Spending (SAR),Tabuk,421957684.67,2021,05
+392,Tourists Spending (SAR),Tabuk,432669681.76,2022,06
+393,Tourists Spending (SAR),Tabuk,228139593.04,2022,09
+394,Tourists Spending (SAR),Tabuk,375830818.75,2021,10
+395,Tourists Spending (SAR),Tabuk,333798787.65,2023,10
+402,Tourists Number (Overnight Visitors),Al Bahah,30045.0,2023,02
+403,Tourists Number (Overnight Visitors),Al Bahah,64736.0,2021,03
+404,Tourists Number (Overnight Visitors),Al Bahah,55486.0,2021,04
+405,Tourists Number (Overnight Visitors),Al Bahah,261898.0,2021,07
+406,Tourists Number (Overnight Visitors),Al Bahah,68976.0,2021,10
+407,Tourists Number (Overnight Visitors),Al Bahah,40069.0,2023,10
+408,Tourists Number (Overnight Visitors),Al Bahah,43725.0,2023,12
+409,Tourists Number (Overnight Visitors),AlQassim,279751.0,2023,01
+410,Tourists Number (Overnight Visitors),AlQassim,438099.0,2023,02
+411,Tourists Number (Overnight Visitors),AlQassim,573190.0,2023,04
+412,Tourists Number (Overnight Visitors),AlQassim,239156.0,2023,05
+413,Tourists Number (Overnight Visitors),AlQassim,541155.0,2022,07
+414,Tourists Number (Overnight Visitors),AlQassim,287146.0,2021,08
+415,Tourists Number (Overnight Visitors),AlQassim,321187.0,2023,10
+416,Tourists Number (Overnight Visitors),Aseer,593132.0,2021,05
+417,Tourists Number (Overnight Visitors),Aseer,473945.0,2021,06
+418,Tourists Number (Overnight Visitors),Aseer,1026884.0,2021,07
+419,Tourists Number (Overnight Visitors),Aseer,1498079.0,2022,07
+420,Tourists Number (Overnight Visitors),Aseer,470275.0,2023,09
+421,Tourists Number (Overnight Visitors),Aseer,336924.0,2022,10
+422,Tourists Number (Overnight Visitors),Eastern Province,745978.0,2021,02
+423,Tourists Number (Overnight Visitors),Eastern Province,1044118.0,2022,02
+424,Tourists Number (Overnight Visitors),Eastern Province,878705.0,2022,04
+425,Tourists Number (Overnight Visitors),Eastern Province,1092625.0,2023,09
+426,Tourists Number (Overnight Visitors),Eastern Province,796055.0,2021,10
+427,Tourists Number (Overnight Visitors),Eastern Province,868031.0,2022,10
+428,Tourists Number (Overnight Visitors),Eastern Province,1071765.0,2023,10
+429,Tourists Number (Overnight Visitors),Eastern Province,913056.0,2021,11
+430,Tourists Number (Overnight Visitors),Jazan,127996.0,2021,04
+431,Tourists Number (Overnight Visitors),Jazan,201548.0,2022,04
+432,Tourists Number (Overnight Visitors),Jazan,78674.0,2023,05
+433,Tourists Number (Overnight Visitors),Jazan,84572.0,2022,06
+434,Tourists Number (Overnight Visitors),Jazan,201034.0,2021,08
+435,Tourists Number (Overnight Visitors),Jazan,192795.0,2022,08
+436,Tourists Number (Overnight Visitors),Jazan,122749.0,2023,10
+437,Tourists Number (Overnight Visitors),Jazan,278839.0,2021,11
+438,Tourists Number (Overnight Visitors),Jazan,176110.0,2022,11
+439,Tourists Number (Overnight Visitors),Jazan,227256.0,2021,12
+440,Tourists Number (Overnight Visitors),Jouf,128030.0,2022,01
+441,Tourists Number (Overnight Visitors),Jouf,61338.0,2021,02
+442,Tourists Number (Overnight Visitors),Jouf,63512.0,2023,05
+443,Tourists Number (Overnight Visitors),Jouf,133570.0,2022,08
+444,Tourists Number (Overnight Visitors),Jouf,82476.0,2023,08
+445,Tourists Number (Overnight Visitors),Jouf,54556.0,2021,09
+446,Tourists Number (Overnight Visitors),Jouf,90373.0,2023,09
+447,Tourists Number (Overnight Visitors),Jouf,89601.0,2023,10
+448,Tourists Number (Overnight Visitors),Madinah,580164.0,2022,01
+449,Tourists Number (Overnight Visitors),Madinah,276068.0,2021,02
+450,Tourists Number (Overnight Visitors),Madinah,488231.0,2022,03
+451,Tourists Number (Overnight Visitors),Madinah,603769.0,2022,05
+452,Tourists Number (Overnight Visitors),Madinah,344752.0,2022,09
+453,Tourists Number (Overnight Visitors),Madinah,503420.0,2023,12
+454,Tourists Number (Overnight Visitors),Makkah,1652849.0,2021,01
+455,Tourists Number (Overnight Visitors),Makkah,2084903.0,2022,01
+456,Tourists Number (Overnight Visitors),Makkah,1723958.0,2023,01
+457,Tourists Number (Overnight Visitors),Makkah,1965067.0,2023,03
+458,Tourists Number (Overnight Visitors),Makkah,3363459.0,2022,04
+459,Tourists Number (Overnight Visitors),Makkah,1969917.0,2021,07
+460,Tourists Number (Overnight Visitors),Makkah,2143437.0,2023,11
+461,Tourists Number (Overnight Visitors),Najran,105576.0,2022,01
+462,Tourists Number (Overnight Visitors),Najran,94897.0,2022,02
+463,Tourists Number (Overnight Visitors),Najran,90649.0,2022,05
+464,Tourists Number (Overnight Visitors),Najran,89533.0,2021,08
+465,Tourists Number (Overnight Visitors),Najran,95194.0,2023,08
+466,Tourists Number (Overnight Visitors),Najran,53217.0,2021,09
+467,Tourists Number (Overnight Visitors),Najran,96795.0,2023,09
+468,Tourists Number (Overnight Visitors),Northern Borders,66321.0,2022,03
+469,Tourists Number (Overnight Visitors),Northern Borders,94872.0,2023,04
+470,Tourists Number (Overnight Visitors),Northern Borders,66126.0,2022,10
+471,Tourists Number (Overnight Visitors),Northern Borders,83342.0,2023,10
+472,Tourists Number (Overnight Visitors),Northern Borders,82463.0,2023,12
+473,Tourists Number (Overnight Visitors),Riyadh,863652.0,2021,03
+474,Tourists Number (Overnight Visitors),Riyadh,1180665.0,2023,03
+475,Tourists Number (Overnight Visitors),Riyadh,719255.0,2021,06
+476,Tourists Number (Overnight Visitors),Riyadh,874637.0,2021,08
+477,Tourists Number (Overnight Visitors),Riyadh,1449446.0,2023,08
+478,Tourists Number (Overnight Visitors),Riyadh,1476108.0,2023,10
+479,Tourists Number (Overnight Visitors),Riyadh,1765195.0,2023,11
+480,Tourists Number (Overnight Visitors),Tabuk,302175.0,2022,01
+481,Tourists Number (Overnight Visitors),Tabuk,191408.0,2023,01
+482,Tourists Number (Overnight Visitors),Tabuk,188411.0,2023,05
+483,Tourists Number (Overnight Visitors),Tabuk,286800.0,2023,06
+484,Tourists Number (Overnight Visitors),Tabuk,243386.0,2021,07
+485,Tourists Number (Overnight Visitors),Tabuk,361227.0,2022,07
+486,Tourists Number (Overnight Visitors),Tabuk,310732.0,2023,07
+487,Tourists Number (Overnight Visitors),Tabuk,191278.0,2021,08
+488,Tourists Number (Overnight Visitors),Tabuk,246464.0,2022,08
+489,Tourists Number (Overnight Visitors),Tabuk,226492.0,2023,09
+490,Tourists Number (Overnight Visitors),Tabuk,217907.0,2021,10
+491,Tourists Number (Overnight Visitors),Tabuk,176982.0,2022,10
+492,Tourists Number (Overnight Visitors),Total,7675160.0,2022,01
+493,Tourists Number (Overnight Visitors),Total,5607637.0,2023,02
+494,Tourists Number (Overnight Visitors),Total,6881296.0,2023,04
+495,Tourists Number (Overnight Visitors),Total,4032787.0,2022,06
+496,Tourists Number (Overnight Visitors),Total,9547860.0,2023,06
+497,Tourists Number (Overnight Visitors),Total,7533351.0,2021,07
+498,Tourists Number (Overnight Visitors),Total,8220327.0,2023,11
+499,Tourists Spending (SAR),Al Bahah,59269366.14,2022,01
+500,Tourists Spending (SAR),Al Bahah,89759209.56,2021,03
+501,Tourists Spending (SAR),Al Bahah,39359204.82,2022,03
+502,Tourists Spending (SAR),Al Bahah,59309281.1,2023,03
+503,Tourists Spending (SAR),Al Bahah,68818934.49,2022,05
+504,Tourists Spending (SAR),Al Bahah,333593080.01,2023,06
+505,Tourists Spending (SAR),Al Bahah,387767473.2,2021,07
+506,Tourists Spending (SAR),Al Bahah,187698315.62,2021,08
+507,Tourists Spending (SAR),Al Bahah,28262940.47,2022,11
+508,Tourists Spending (SAR),AlQassim,278059083.9,2021,04
+509,Tourists Spending (SAR),AlQassim,692933820.6,2023,04
+510,Tourists Spending (SAR),AlQassim,340903072.14,2021,08
+511,Tourists Spending (SAR),AlQassim,269280241.79,2023,09
+512,Tourists Spending (SAR),AlQassim,199908269.89,2022,10
+513,Tourists Spending (SAR),AlQassim,497989963.63,2023,11
+514,Tourists Spending (SAR),Aseer,612299888.69,2021,01
+515,Tourists Spending (SAR),Aseer,1076787743.68,2021,08
+516,Tourists Spending (SAR),Aseer,992414282.85,2022,08
+517,Tourists Spending (SAR),Aseer,379636960.17,2021,10
+518,Tourists Spending (SAR),Aseer,725467903.48,2023,10
+519,Tourists Spending (SAR),Aseer,383555810.61,2022,11
+520,Tourists Spending (SAR),Aseer,308735618.1,2022,12
+521,Tourists Spending (SAR),Eastern Province,1240385349.89,2021,02
+522,Tourists Spending (SAR),Eastern Province,1423126473.49,2023,03
+523,Tourists Spending (SAR),Eastern Province,1281479060.72,2023,05
+524,Tourists Spending (SAR),Eastern Province,1404267760.19,2023,10
+525,Tourists Spending (SAR),Hail,150694084.82,2021,04
+526,Tourists Spending (SAR),Hail,282337931.5,2023,04
+527,Tourists Spending (SAR),Hail,158954442.91,2023,05
+528,Tourists Spending (SAR),Hail,164885268.23,2021,06
+529,Tourists Spending (SAR),Hail,155808748.32,2021,09
+530,Tourists Spending (SAR),Hail,148016943.73,2022,10
+531,Tourists Spending (SAR),Hail,182639236.02,2023,10
+532,Tourists Spending (SAR),Hail,233608853.23,2023,12
+533,Tourists Spending (SAR),Jazan,311532939.18,2021,01
+534,Tourists Spending (SAR),Jazan,333205738.58,2022,01
+535,Tourists Spending (SAR),Jazan,201216460.26,2021,02
+536,Tourists Spending (SAR),Jazan,221259115.97,2022,02
+537,Tourists Spending (SAR),Jazan,154928434.33,2022,03
+538,Tourists Spending (SAR),Jazan,193868353.36,2021,10
+539,Tourists Spending (SAR),Jazan,120755065.28,2022,11
+540,Tourists Spending (SAR),Jouf,131689080.81,2023,01
+541,Tourists Spending (SAR),Jouf,149182207.25,2023,02
+542,Tourists Spending (SAR),Jouf,140012221.2,2023,03
+543,Tourists Spending (SAR),Jouf,169317500.31,2021,05
+544,Tourists Spending (SAR),Jouf,231549026.08,2022,06
+545,Tourists Spending (SAR),Jouf,266797157.07,2021,07
+546,Tourists Spending (SAR),Jouf,95862197.15,2021,09
+547,Tourists Spending (SAR),Jouf,142314923.47,2023,10
+548,Tourists Spending (SAR),Jouf,96786640.3,2022,11
+549,Tourists Spending (SAR),Jouf,190255766.73,2023,11
+550,Tourists Spending (SAR),Madinah,342078235.71,2021,02
+551,Tourists Spending (SAR),Madinah,625592259.08,2022,02
+552,Tourists Spending (SAR),Madinah,585522793.09,2023,04
+553,Tourists Spending (SAR),Madinah,633968863.46,2022,05
+554,Tourists Spending (SAR),Madinah,653182131.32,2021,07
+555,Tourists Spending (SAR),Madinah,712499087.48,2022,08
+556,Tourists Spending (SAR),Madinah,406987207.2,2023,10
+557,Tourists Spending (SAR),Madinah,533460099.0,2022,11
+558,Tourists Spending (SAR),Makkah,2405311237.6,2022,02
+559,Tourists Spending (SAR),Makkah,2277884017.71,2021,04
+560,Tourists Spending (SAR),Makkah,5891430331.17,2023,06
+561,Tourists Spending (SAR),Makkah,2714842737.56,2021,08
+562,Tourists Spending (SAR),Makkah,1342439030.47,2022,09
+563,Tourists Spending (SAR),Makkah,2175981158.96,2021,10
+564,Tourists Spending (SAR),Makkah,1713005008.86,2023,12
+565,Tourists Spending (SAR),Najran,165835677.29,2021,01
+566,Tourists Spending (SAR),Najran,163502538.9,2023,01
+567,Tourists Spending (SAR),Najran,77272333.32,2021,03
+568,Tourists Spending (SAR),Najran,84276787.34,2022,03
+569,Tourists Spending (SAR),Najran,71110193.4,2023,05
+570,Tourists Spending (SAR),Najran,90375785.75,2021,06
+571,Tourists Spending (SAR),Najran,126517583.75,2022,06
+572,Tourists Spending (SAR),Najran,94133483.24,2021,09
+573,Tourists Spending (SAR),Najran,221809465.55,2023,09
+574,Tourists Spending (SAR),Najran,119751750.73,2021,11
+575,Tourists Spending (SAR),Najran,150093324.61,2022,11
+576,Tourists Spending (SAR),Najran,176600505.38,2021,12
+577,Tourists Spending (SAR),Northern Borders,96313085.34,2021,03
+578,Tourists Spending (SAR),Northern Borders,180779926.21,2023,03
+579,Tourists Spending (SAR),Northern Borders,176358251.4,2022,04
+580,Tourists Spending (SAR),Northern Borders,209774551.9,2022,05
+581,Tourists Spending (SAR),Northern Borders,101826377.4,2021,06
+582,Tourists Spending (SAR),Northern Borders,131892626.4,2022,06
+583,Tourists Spending (SAR),Northern Borders,286359870.79,2023,06
+584,Tourists Spending (SAR),Northern Borders,100742633.51,2022,09
+585,Tourists Spending (SAR),Northern Borders,94840254.54,2022,10
+586,Tourists Spending (SAR),Northern Borders,63029455.36,2022,12
+587,Tourists Spending (SAR),Riyadh,2368349938.89,2022,02
+588,Tourists Spending (SAR),Riyadh,1449650324.51,2022,04
+589,Tourists Spending (SAR),Riyadh,1561498914.72,2023,04
+590,Tourists Spending (SAR),Riyadh,1737077956.18,2022,10
+591,Tourists Spending (SAR),Riyadh,2011119470.37,2021,12
+592,Tourists Spending (SAR),Tabuk,342426713.19,2021,01
+593,Tourists Spending (SAR),Tabuk,302364430.94,2023,01
+594,Tourists Spending (SAR),Tabuk,503115818.58,2022,02
+595,Tourists Spending (SAR),Tabuk,289108104.1,2021,03
+596,Tourists Spending (SAR),Tabuk,384036822.83,2021,06
+597,Tourists Spending (SAR),Tabuk,475582344.96,2023,07
+598,Tourists Spending (SAR),Tabuk,393059530.27,2023,08
+599,Tourists Spending (SAR),Tabuk,251237861.44,2023,09
+600,Tourists Spending (SAR),Tabuk,265020531.68,2022,11
+602,Tourists Spending (SAR),Total,6001153798.53,2022,06
+604,Tourists Spending (SAR),Total,5232272873.4,2022,09
+606,Tourists Spending (SAR),Total,4508348246.41,2022,12
+607,Tourists Number (Overnight Visitors),Al Bahah,58295.0,2021,01
+608,Tourists Number (Overnight Visitors),Al Bahah,53008.0,2023,03
+609,Tourists Number (Overnight Visitors),Al Bahah,78339.0,2022,04
+610,Tourists Number (Overnight Visitors),Al Bahah,265081.0,2023,06
+611,Tourists Number (Overnight Visitors),Al Bahah,413843.0,2022,07
+612,Tourists Number (Overnight Visitors),Al Bahah,249008.0,2023,07
+613,Tourists Number (Overnight Visitors),Al Bahah,34420.0,2022,09
+614,Tourists Number (Overnight Visitors),Al Bahah,62547.0,2023,09
+615,Tourists Number (Overnight Visitors),AlQassim,276424.0,2021,04
+616,Tourists Number (Overnight Visitors),AlQassim,397219.0,2022,04
+617,Tourists Number (Overnight Visitors),AlQassim,232384.0,2022,06
+618,Tourists Number (Overnight Visitors),AlQassim,304713.0,2023,08
+619,Tourists Number (Overnight Visitors),AlQassim,280028.0,2021,10
+620,Tourists Number (Overnight Visitors),AlQassim,454746.0,2023,11
+621,Tourists Number (Overnight Visitors),AlQassim,258492.0,2022,12
+622,Tourists Number (Overnight Visitors),Aseer,532636.0,2022,01
+623,Tourists Number (Overnight Visitors),Aseer,540122.0,2023,01
+624,Tourists Number (Overnight Visitors),Aseer,396562.0,2022,02
+625,Tourists Number (Overnight Visitors),Aseer,365198.0,2022,03
+626,Tourists Number (Overnight Visitors),Aseer,493968.0,2022,05
+627,Tourists Number (Overnight Visitors),Aseer,363064.0,2021,10
+628,Tourists Number (Overnight Visitors),Aseer,540670.0,2021,11
+629,Tourists Number (Overnight Visitors),Aseer,383358.0,2021,12
+630,Tourists Number (Overnight Visitors),Eastern Province,922493.0,2021,01
+631,Tourists Number (Overnight Visitors),Eastern Province,1201506.0,2022,01
+632,Tourists Number (Overnight Visitors),Eastern Province,780669.0,2021,03
+633,Tourists Number (Overnight Visitors),Eastern Province,714622.0,2021,04
+634,Tourists Number (Overnight Visitors),Eastern Province,1128741.0,2022,05
+635,Tourists Number (Overnight Visitors),Eastern Province,598067.0,2021,06
+636,Tourists Number (Overnight Visitors),Eastern Province,871073.0,2021,07
+637,Tourists Number (Overnight Visitors),Eastern Province,1222664.0,2023,07
+638,Tourists Number (Overnight Visitors),Eastern Province,1197714.0,2023,08
+639,Tourists Number (Overnight Visitors),Eastern Province,606267.0,2021,09
+640,Tourists Number (Overnight Visitors),Hail,163346.0,2022,02
+641,Tourists Number (Overnight Visitors),Hail,225486.0,2022,04
+642,Tourists Number (Overnight Visitors),Hail,163058.0,2023,04
+643,Tourists Number (Overnight Visitors),Hail,112058.0,2021,06
+644,Tourists Number (Overnight Visitors),Hail,241338.0,2023,06
+645,Tourists Number (Overnight Visitors),Hail,116986.0,2022,09
+646,Tourists Number (Overnight Visitors),Hail,107016.0,2022,10
+647,Tourists Number (Overnight Visitors),Hail,232422.0,2021,11
+648,Tourists Number (Overnight Visitors),Hail,203065.0,2022,11
+649,Tourists Number (Overnight Visitors),Jazan,300939.0,2022,01
+650,Tourists Number (Overnight Visitors),Jazan,208592.0,2021,02
+651,Tourists Number (Overnight Visitors),Jazan,190129.0,2023,04
+652,Tourists Number (Overnight Visitors),Jazan,152587.0,2022,05
+653,Tourists Number (Overnight Visitors),Jazan,130252.0,2023,08
+654,Tourists Number (Overnight Visitors),Jazan,185306.0,2021,09
+655,Tourists Number (Overnight Visitors),Jazan,254341.0,2023,11
+656,Tourists Number (Overnight Visitors),Jouf,106086.0,2022,02
+657,Tourists Number (Overnight Visitors),Jouf,89630.0,2022,03
+658,Tourists Number (Overnight Visitors),Jouf,89546.0,2021,05
+659,Tourists Number (Overnight Visitors),Jouf,47694.0,2021,06
+660,Tourists Number (Overnight Visitors),Jouf,102492.0,2021,11
+661,Tourists Number (Overnight Visitors),Jouf,105520.0,2022,11
+662,Tourists Number (Overnight Visitors),Jouf,135644.0,2023,11
+663,Tourists Number (Overnight Visitors),Jouf,86711.0,2023,12
+664,Tourists Number (Overnight Visitors),Madinah,443723.0,2021,01
+665,Tourists Number (Overnight Visitors),Madinah,390244.0,2023,02
+666,Tourists Number (Overnight Visitors),Madinah,293061.0,2021,03
+667,Tourists Number (Overnight Visitors),Madinah,773333.0,2022,04
+668,Tourists Number (Overnight Visitors),Madinah,553587.0,2023,04
+669,Tourists Number (Overnight Visitors),Madinah,381905.0,2021,10
+670,Tourists Number (Overnight Visitors),Madinah,366580.0,2022,12
+671,Tourists Number (Overnight Visitors),Makkah,1445499.0,2023,02
+672,Tourists Number (Overnight Visitors),Makkah,1361018.0,2021,04
+673,Tourists Number (Overnight Visitors),Makkah,2163229.0,2023,04
+674,Tourists Number (Overnight Visitors),Makkah,2125268.0,2021,05
+675,Tourists Number (Overnight Visitors),Makkah,2072431.0,2022,05
+676,Tourists Number (Overnight Visitors),Makkah,3022765.0,2022,07
+677,Tourists Number (Overnight Visitors),Makkah,1975918.0,2023,08
+678,Tourists Number (Overnight Visitors),Makkah,1268430.0,2021,09
+679,Tourists Number (Overnight Visitors),Makkah,1169428.0,2022,09
+680,Tourists Number (Overnight Visitors),Najran,55717.0,2021,03
+681,Tourists Number (Overnight Visitors),Najran,81276.0,2021,05
+682,Tourists Number (Overnight Visitors),Najran,43828.0,2021,06
+683,Tourists Number (Overnight Visitors),Najran,52823.0,2022,06
+684,Tourists Number (Overnight Visitors),Najran,156630.0,2023,06
+685,Tourists Number (Overnight Visitors),Najran,104803.0,2021,07
+686,Tourists Number (Overnight Visitors),Najran,183918.0,2022,07
+687,Tourists Number (Overnight Visitors),Najran,104720.0,2023,07
+688,Tourists Number (Overnight Visitors),Najran,100409.0,2023,11
+689,Tourists Number (Overnight Visitors),Northern Borders,76032.0,2021,01
+690,Tourists Number (Overnight Visitors),Northern Borders,93776.0,2023,01
+691,Tourists Number (Overnight Visitors),Northern Borders,110373.0,2022,02
+692,Tourists Number (Overnight Visitors),Northern Borders,59066.0,2021,03
+693,Tourists Number (Overnight Visitors),Northern Borders,85893.0,2023,03
+694,Tourists Number (Overnight Visitors),Northern Borders,102968.0,2021,07
+695,Tourists Number (Overnight Visitors),Northern Borders,82483.0,2022,08
+696,Tourists Number (Overnight Visitors),Northern Borders,77579.0,2023,08
+697,Tourists Number (Overnight Visitors),Northern Borders,72992.0,2023,09
+698,Tourists Number (Overnight Visitors),Northern Borders,84874.0,2021,10
+699,Tourists Number (Overnight Visitors),Northern Borders,96409.0,2022,11
+700,Tourists Number (Overnight Visitors),Riyadh,1653045.0,2022,01
+701,Tourists Number (Overnight Visitors),Riyadh,745191.0,2021,04
+702,Tourists Number (Overnight Visitors),Riyadh,1488316.0,2023,06
+703,Tourists Number (Overnight Visitors),Riyadh,1503380.0,2022,08
+704,Tourists Number (Overnight Visitors),Riyadh,1149141.0,2022,10
+705,Tourists Number (Overnight Visitors),Tabuk,206791.0,2021,01
+706,Tourists Number (Overnight Visitors),Tabuk,220168.0,2022,02
+707,Tourists Number (Overnight Visitors),Tabuk,220964.0,2023,03
+708,Tourists Number (Overnight Visitors),Tabuk,163959.0,2021,04
+709,Tourists Number (Overnight Visitors),Tabuk,218853.0,2022,04
+710,Tourists Number (Overnight Visitors),Tabuk,246430.0,2022,05
+711,Tourists Number (Overnight Visitors),Tabuk,158157.0,2022,06
+712,Tourists Number (Overnight Visitors),Tabuk,134512.0,2022,12
+713,Tourists Number (Overnight Visitors),Total,4375914.0,2021,02
+714,Tourists Number (Overnight Visitors),Total,6204755.0,2022,03
+715,Tourists Number (Overnight Visitors),Total,6727912.0,2021,05
+716,Tourists Number (Overnight Visitors),Total,5002991.0,2023,05
+717,Tourists Number (Overnight Visitors),Total,10795554.0,2022,07
+718,Tourists Number (Overnight Visitors),Total,5482250.0,2021,08
+719,Tourists Number (Overnight Visitors),Total,6985948.0,2023,08
+720,Tourists Number (Overnight Visitors),Total,7003149.0,2022,11
+721,Tourists Number (Overnight Visitors),Total,4350255.0,2022,12
+722,Tourists Spending (SAR),Al Bahah,40889284.55,2021,02
+723,Tourists Spending (SAR),Al Bahah,90482742.81,2023,04
+724,Tourists Spending (SAR),Al Bahah,208515699.42,2021,05
+725,Tourists Spending (SAR),Al Bahah,416487508.36,2022,07
+726,Tourists Spending (SAR),Al Bahah,54266418.0,2021,09
+727,Tourists Spending (SAR),Al Bahah,52442867.93,2023,09
+728,Tourists Spending (SAR),Al Bahah,72448934.08,2021,10
+729,Tourists Spending (SAR),AlQassim,340394915.94,2022,05
+730,Tourists Spending (SAR),AlQassim,371096227.14,2022,08
+731,Tourists Spending (SAR),Aseer,575188825.54,2022,01
+732,Tourists Spending (SAR),Aseer,294100817.86,2022,03
+733,Tourists Spending (SAR),Aseer,906488719.52,2021,06
+734,Tourists Spending (SAR),Aseer,711899089.45,2023,08
+735,Tourists Spending (SAR),Aseer,296775351.03,2022,10
+736,Tourists Spending (SAR),Eastern Province,1300083605.87,2021,03
+737,Tourists Spending (SAR),Eastern Province,978286565.33,2022,03
+738,Tourists Spending (SAR),Eastern Province,1511213106.47,2023,07
+739,Tourists Spending (SAR),Eastern Province,1652264468.18,2023,11
+740,Tourists Spending (SAR),Eastern Province,1012174615.43,2021,12
+741,Tourists Spending (SAR),Eastern Province,651402062.48,2022,12
+742,Tourists Spending (SAR),Hail,236169291.74,2021,01
+743,Tourists Spending (SAR),Hail,167936594.73,2021,02
+744,Tourists Spending (SAR),Hail,255884048.22,2023,11
+745,Tourists Spending (SAR),Jazan,297658226.25,2023,01
+746,Tourists Spending (SAR),Jazan,207199485.9,2023,02
+747,Tourists Spending (SAR),Jazan,189140119.98,2022,04
+748,Tourists Spending (SAR),Jazan,117990283.18,2022,06
+749,Tourists Spending (SAR),Jazan,272632383.19,2021,08
+750,Tourists Spending (SAR),Jazan,234280785.37,2021,09
+751,Tourists Spending (SAR),Jazan,125751864.26,2022,10
+752,Tourists Spending (SAR),Jazan,251300626.95,2021,11
+753,Tourists Spending (SAR),Jazan,361109266.61,2023,11
+754,Tourists Spending (SAR),Jouf,297061180.58,2022,01
+755,Tourists Spending (SAR),Jouf,206030689.05,2022,02
+756,Tourists Spending (SAR),Jouf,192350335.97,2022,04
+757,Tourists Spending (SAR),Jouf,119424114.09,2023,04
+758,Tourists Spending (SAR),Jouf,105104416.02,2021,08
+759,Tourists Spending (SAR),Jouf,99242542.09,2023,09
+760,Tourists Spending (SAR),Jouf,105546008.04,2022,10
+761,Tourists Spending (SAR),Jouf,92967204.17,2021,12
+762,Tourists Spending (SAR),Jouf,110642758.25,2023,12
+763,Tourists Spending (SAR),Madinah,816909769.91,2022,01
+764,Tourists Spending (SAR),Madinah,393198170.75,2021,03
+765,Tourists Spending (SAR),Madinah,1036537489.29,2022,04
+766,Tourists Spending (SAR),Madinah,399915175.91,2022,06
+767,Tourists Spending (SAR),Madinah,527780902.65,2023,08
+768,Tourists Spending (SAR),Madinah,365666234.56,2022,12
+769,Tourists Spending (SAR),Makkah,1847830260.46,2023,01
+770,Tourists Spending (SAR),Makkah,1933280183.87,2021,02
+771,Tourists Spending (SAR),Makkah,3884238336.53,2021,05
+772,Tourists Spending (SAR),Makkah,2104436500.29,2022,11
+773,Tourists Spending (SAR),Makkah,2256558503.64,2023,11
+774,Tourists Spending (SAR),Makkah,1987365581.91,2021,12
+775,Tourists Spending (SAR),Makkah,932482642.16,2022,12
+776,Tourists Spending (SAR),Najran,136582152.17,2023,02
+777,Tourists Spending (SAR),Najran,170981905.19,2022,04
+778,Tourists Spending (SAR),Najran,108139320.49,2023,04
+779,Tourists Spending (SAR),Najran,133190084.69,2022,05
+780,Tourists Spending (SAR),Najran,124259759.2,2022,10
+781,Tourists Spending (SAR),Northern Borders,194383356.12,2022,03
+782,Tourists Spending (SAR),Northern Borders,132747767.63,2021,04
+783,Tourists Spending (SAR),Northern Borders,129929124.51,2023,04
+784,Tourists Spending (SAR),Northern Borders,335707040.3,2022,08
+785,Tourists Spending (SAR),Northern Borders,124758604.48,2021,09
+786,Tourists Spending (SAR),Northern Borders,98590080.84,2023,09
+787,Tourists Spending (SAR),Northern Borders,133103423.11,2022,11
+788,Tourists Spending (SAR),Riyadh,2769144034.0,2023,01
+789,Tourists Spending (SAR),Riyadh,1373554544.51,2021,02
+790,Tourists Spending (SAR),Riyadh,1518754823.68,2023,05
+791,Tourists Spending (SAR),Riyadh,1356695389.94,2021,06
+792,Tourists Spending (SAR),Riyadh,2748868808.36,2022,07
+793,Tourists Spending (SAR),Riyadh,1698160251.44,2021,08
+794,Tourists Spending (SAR),Riyadh,2750234369.57,2022,08
+795,Tourists Spending (SAR),Riyadh,2327375994.43,2023,09
+796,Tourists Spending (SAR),Riyadh,1557202588.44,2021,10
+797,Tourists Spending (SAR),Riyadh,3033582739.6,2023,10
+798,Tourists Spending (SAR),Tabuk,368928354.16,2021,04
+799,Tourists Spending (SAR),Tabuk,261976607.18,2023,04
+800,Tourists Spending (SAR),Tabuk,362310359.84,2021,08
+801,Tourists Spending (SAR),Tabuk,422177251.98,2022,08
+802,Tourists Spending (SAR),Tabuk,447287118.77,2021,11
+803,Tourists Spending (SAR),Tabuk,359184427.49,2023,11
+804,Tourists Spending (SAR),Tabuk,134147760.91,2022,12
+805,Tourists Spending (SAR),Tabuk,433175293.22,2023,12
+818,Tourists Number (Overnight Visitors),Al Bahah,48472.0,2022,01
+819,Tourists Number (Overnight Visitors),Al Bahah,34469.0,2021,02
+820,Tourists Number (Overnight Visitors),Al Bahah,43728.0,2022,03
+821,Tourists Number (Overnight Visitors),Al Bahah,91577.0,2022,05
+822,Tourists Number (Overnight Visitors),Al Bahah,139665.0,2021,08
+823,Tourists Number (Overnight Visitors),Al Bahah,157036.0,2022,08
+824,Tourists Number (Overnight Visitors),Al Bahah,104824.0,2023,08
+825,Tourists Number (Overnight Visitors),Al Bahah,72000.0,2021,11
+826,Tourists Number (Overnight Visitors),Al Bahah,53722.0,2023,11
+827,Tourists Number (Overnight Visitors),AlQassim,324087.0,2021,01
+828,Tourists Number (Overnight Visitors),AlQassim,390502.0,2022,01
+829,Tourists Number (Overnight Visitors),AlQassim,349713.0,2022,02
+830,Tourists Number (Overnight Visitors),AlQassim,375143.0,2022,05
+831,Tourists Number (Overnight Visitors),AlQassim,241182.0,2021,06
+832,Tourists Number (Overnight Visitors),AlQassim,616403.0,2023,06
+833,Tourists Number (Overnight Visitors),AlQassim,448717.0,2021,07
+834,Tourists Number (Overnight Visitors),AlQassim,428167.0,2021,11
+835,Tourists Number (Overnight Visitors),AlQassim,415283.0,2022,11
+836,Tourists Number (Overnight Visitors),Aseer,491541.0,2021,01
+837,Tourists Number (Overnight Visitors),Aseer,501582.0,2023,03
+838,Tourists Number (Overnight Visitors),Aseer,495447.0,2023,04
+839,Tourists Number (Overnight Visitors),Aseer,1293412.0,2023,06
+840,Tourists Number (Overnight Visitors),Aseer,614477.0,2021,08
+841,Tourists Number (Overnight Visitors),Aseer,522430.0,2022,11
+842,Tourists Number (Overnight Visitors),Aseer,365521.0,2022,12
+843,Tourists Number (Overnight Visitors),Eastern Province,956874.0,2023,01
+844,Tourists Number (Overnight Visitors),Eastern Province,936612.0,2023,02
+845,Tourists Number (Overnight Visitors),Eastern Province,1117327.0,2023,03
+846,Tourists Number (Overnight Visitors),Eastern Province,904806.0,2021,05
+847,Tourists Number (Overnight Visitors),Eastern Province,902744.0,2023,05
+848,Tourists Number (Overnight Visitors),Eastern Province,670397.0,2022,09
+849,Tourists Number (Overnight Visitors),Eastern Province,1404080.0,2023,11
+850,Tourists Number (Overnight Visitors),Eastern Province,1017995.0,2023,12
+851,Tourists Number (Overnight Visitors),Hail,124398.0,2023,01
+852,Tourists Number (Overnight Visitors),Hail,116427.0,2021,02
+853,Tourists Number (Overnight Visitors),Hail,98517.0,2022,06
+854,Tourists Number (Overnight Visitors),Hail,124346.0,2021,08
+855,Tourists Number (Overnight Visitors),Hail,141959.0,2023,09
+856,Tourists Number (Overnight Visitors),Hail,159911.0,2021,10
+857,Tourists Number (Overnight Visitors),Hail,216386.0,2023,11
+858,Tourists Number (Overnight Visitors),Hail,129366.0,2021,12
+859,Tourists Number (Overnight Visitors),Hail,131549.0,2023,12
+860,Tourists Number (Overnight Visitors),Jazan,297021.0,2021,01
+861,Tourists Number (Overnight Visitors),Jazan,205688.0,2022,02
+862,Tourists Number (Overnight Visitors),Jazan,188810.0,2023,03
+863,Tourists Number (Overnight Visitors),Jazan,167231.0,2021,06
+864,Tourists Number (Overnight Visitors),Jazan,113161.0,2023,07
+865,Tourists Number (Overnight Visitors),Jazan,183404.0,2022,10
+866,Tourists Number (Overnight Visitors),Jazan,123109.0,2022,12
+867,Tourists Number (Overnight Visitors),Jouf,74102.0,2021,01
+868,Tourists Number (Overnight Visitors),Jouf,54716.0,2021,03
+869,Tourists Number (Overnight Visitors),Jouf,62742.0,2021,04
+870,Tourists Number (Overnight Visitors),Jouf,115401.0,2022,04
+871,Tourists Number (Overnight Visitors),Jouf,99842.0,2021,07
+872,Tourists Number (Overnight Visitors),Jouf,63736.0,2022,12
+873,Tourists Number (Overnight Visitors),Madinah,465742.0,2022,02
+874,Tourists Number (Overnight Visitors),Madinah,447597.0,2021,05
+875,Tourists Number (Overnight Visitors),Madinah,889452.0,2022,07
+876,Tourists Number (Overnight Visitors),Madinah,360375.0,2022,10
+877,Tourists Number (Overnight Visitors),Madinah,520917.0,2021,11
+878,Tourists Number (Overnight Visitors),Madinah,529551.0,2022,11
+879,Tourists Number (Overnight Visitors),Madinah,678525.0,2023,11
+880,Tourists Number (Overnight Visitors),Makkah,1781854.0,2022,03
+881,Tourists Number (Overnight Visitors),Makkah,1424077.0,2023,05
+882,Tourists Number (Overnight Visitors),Makkah,1189735.0,2022,06
+883,Tourists Number (Overnight Visitors),Makkah,1683137.0,2021,10
+884,Tourists Number (Overnight Visitors),Makkah,1852298.0,2021,11
+885,Tourists Number (Overnight Visitors),Makkah,1911198.0,2022,11
+886,Tourists Number (Overnight Visitors),Makkah,1147845.0,2021,12
+887,Tourists Number (Overnight Visitors),Najran,74951.0,2021,01
+888,Tourists Number (Overnight Visitors),Najran,76835.0,2023,03
+889,Tourists Number (Overnight Visitors),Najran,76416.0,2021,04
+890,Tourists Number (Overnight Visitors),Najran,97739.0,2023,04
+891,Tourists Number (Overnight Visitors),Najran,122891.0,2022,08
+892,Tourists Number (Overnight Visitors),Najran,81145.0,2022,10
+893,Tourists Number (Overnight Visitors),Najran,87871.0,2023,10
+894,Tourists Number (Overnight Visitors),Najran,98814.0,2023,12
+895,Tourists Number (Overnight Visitors),Northern Borders,70458.0,2021,08
+896,Tourists Number (Overnight Visitors),Northern Borders,60338.0,2022,09
+897,Tourists Number (Overnight Visitors),Northern Borders,111255.0,2023,11
+898,Tourists Number (Overnight Visitors),Riyadh,1364905.0,2023,01
+899,Tourists Number (Overnight Visitors),Riyadh,1478679.0,2022,03
+900,Tourists Number (Overnight Visitors),Riyadh,1072745.0,2021,05
+901,Tourists Number (Overnight Visitors),Riyadh,1623135.0,2022,05
+902,Tourists Number (Overnight Visitors),Riyadh,1388876.0,2021,07
+903,Tourists Number (Overnight Visitors),Riyadh,1497871.0,2023,07
+904,Tourists Number (Overnight Visitors),Riyadh,763818.0,2021,09
+905,Tourists Number (Overnight Visitors),Riyadh,891212.0,2022,09
+906,Tourists Number (Overnight Visitors),Riyadh,1357970.0,2023,09
+907,Tourists Number (Overnight Visitors),Riyadh,979718.0,2021,10
+908,Tourists Number (Overnight Visitors),Riyadh,978457.0,2022,12
+909,Tourists Number (Overnight Visitors),Tabuk,273220.0,2023,10
+910,Tourists Number (Overnight Visitors),Tabuk,205224.0,2022,11
+911,Tourists Number (Overnight Visitors),Tabuk,260953.0,2023,11
+912,Tourists Number (Overnight Visitors),Tabuk,152355.0,2021,12
+913,Tourists Number (Overnight Visitors),Total,5919708.0,2021,01
+914,Tourists Number (Overnight Visitors),Total,5398560.0,2021,10
+915,Tourists Number (Overnight Visitors),Total,6712751.0,2021,11
+916,Tourists Spending (SAR),Al Bahah,75157578.99,2021,01
+917,Tourists Spending (SAR),Al Bahah,41924749.67,2022,02
+918,Tourists Spending (SAR),Al Bahah,60308176.08,2023,05
+919,Tourists Spending (SAR),Al Bahah,87179752.63,2023,08
+920,Tourists Spending (SAR),Al Bahah,39580898.74,2023,11
+921,Tourists Spending (SAR),Al Bahah,13110752.61,2022,12
+922,Tourists Spending (SAR),AlQassim,451744922.09,2022,01
+923,Tourists Spending (SAR),AlQassim,287333543.31,2023,01
+924,Tourists Spending (SAR),AlQassim,485981867.13,2022,02
+925,Tourists Spending (SAR),AlQassim,235674680.71,2021,03
+926,Tourists Spending (SAR),AlQassim,314835635.78,2022,03
+927,Tourists Spending (SAR),AlQassim,789866877.69,2023,06
+928,Tourists Spending (SAR),AlQassim,548675529.29,2022,07
+929,Tourists Spending (SAR),AlQassim,421191519.6,2023,08
+930,Tourists Spending (SAR),AlQassim,317271865.83,2022,09
+931,Tourists Spending (SAR),AlQassim,334157429.15,2022,11
+932,Tourists Spending (SAR),AlQassim,427476890.07,2023,12
+933,Tourists Spending (SAR),Aseer,434826807.65,2021,03
+934,Tourists Spending (SAR),Aseer,2163741887.94,2021,07
+935,Tourists Spending (SAR),Aseer,605214900.97,2023,09
+936,Tourists Spending (SAR),Aseer,810847895.96,2023,11
+937,Tourists Spending (SAR),Eastern Province,1736172978.98,2022,01
+938,Tourists Spending (SAR),Eastern Province,1038780546.58,2023,01
+939,Tourists Spending (SAR),Eastern Province,1062182056.2,2022,02
+940,Tourists Spending (SAR),Eastern Province,1143373256.21,2023,02
+941,Tourists Spending (SAR),Eastern Province,787501056.09,2022,06
+942,Tourists Spending (SAR),Eastern Province,1681866034.06,2023,06
+943,Tourists Spending (SAR),Eastern Province,1703996507.83,2021,07
+944,Tourists Spending (SAR),Eastern Province,948468625.12,2021,10
+945,Tourists Spending (SAR),Hail,307576289.76,2022,01
+946,Tourists Spending (SAR),Hail,203215462.33,2023,01
+947,Tourists Spending (SAR),Hail,268120504.86,2022,04
+948,Tourists Spending (SAR),Hail,285531337.34,2021,05
+949,Tourists Spending (SAR),Hail,221798856.38,2022,06
+950,Tourists Spending (SAR),Hail,441529209.65,2021,07
+951,Tourists Spending (SAR),Hail,201965979.87,2023,07
+952,Tourists Spending (SAR),Hail,314176520.42,2021,11
+953,Tourists Spending (SAR),Hail,163604555.8,2022,12
+954,Tourists Spending (SAR),Jazan,238179370.96,2021,03
+955,Tourists Spending (SAR),Jazan,295199315.6,2023,03
+956,Tourists Spending (SAR),Jazan,369047492.34,2021,07
+957,Tourists Spending (SAR),Jazan,184408387.72,2022,08
+958,Tourists Spending (SAR),Jazan,129112931.69,2023,10
+959,Tourists Spending (SAR),Jazan,213669364.26,2021,12
+960,Tourists Spending (SAR),Jazan,243066901.71,2023,12
+961,Tourists Spending (SAR),Jouf,231618471.86,2022,03
+962,Tourists Spending (SAR),Jouf,188805278.71,2023,06
+963,Tourists Spending (SAR),Jouf,458794641.63,2022,07
+964,Tourists Spending (SAR),Jouf,241909400.35,2023,07
+965,Tourists Spending (SAR),Madinah,456189849.99,2023,01
+966,Tourists Spending (SAR),Madinah,425952360.29,2021,08
+967,Tourists Spending (SAR),Madinah,468771268.07,2023,09
+968,Tourists Spending (SAR),Madinah,835170603.91,2021,11
+969,Tourists Spending (SAR),Madinah,642794451.34,2023,11
+970,Tourists Spending (SAR),Makkah,3091998275.71,2023,04
+971,Tourists Spending (SAR),Makkah,1883922231.68,2023,05
+972,Tourists Spending (SAR),Makkah,3867833918.19,2021,07
+973,Tourists Spending (SAR),Makkah,5525141166.35,2022,07
+974,Tourists Spending (SAR),Makkah,2802709649.59,2023,07
+975,Tourists Spending (SAR),Najran,205173654.86,2022,01
+976,Tourists Spending (SAR),Najran,196576071.7,2022,02
+977,Tourists Spending (SAR),Najran,118714238.96,2021,04
+978,Tourists Spending (SAR),Najran,182166859.9,2021,07
+979,Tourists Spending (SAR),Najran,56310508.8,2022,09
+980,Tourists Spending (SAR),Najran,206124828.15,2023,11
+981,Tourists Spending (SAR),Najran,278723766.21,2023,12
+982,Tourists Spending (SAR),Northern Borders,149356943.98,2021,01
+983,Tourists Spending (SAR),Northern Borders,175185618.25,2023,01
+984,Tourists Spending (SAR),Northern Borders,108072664.06,2021,02
+985,Tourists Spending (SAR),Northern Borders,493686343.07,2022,07
+986,Tourists Spending (SAR),Northern Borders,98630290.49,2023,07
+987,Tourists Spending (SAR),Northern Borders,128733541.96,2023,10
+988,Tourists Spending (SAR),Northern Borders,184752049.73,2023,12
+989,Tourists Spending (SAR),Riyadh,2054162704.93,2021,01
+990,Tourists Spending (SAR),Riyadh,1505860475.53,2021,03
+991,Tourists Spending (SAR),Riyadh,2263070631.19,2022,03
+992,Tourists Spending (SAR),Riyadh,1370155563.51,2021,04
+993,Tourists Spending (SAR),Riyadh,2341705111.6,2022,05
+994,Tourists Spending (SAR),Riyadh,1340761589.01,2021,09
+995,Tourists Spending (SAR),Tabuk,756611903.49,2022,01
+996,Tourists Spending (SAR),Tabuk,346053136.75,2022,04
+997,Tourists Spending (SAR),Tabuk,278846758.6,2023,05
+998,Tourists Spending (SAR),Tabuk,494921390.24,2021,07
+999,Tourists Spending (SAR),Tabuk,253176374.49,2021,09
+1000,Tourists Spending (SAR),Tabuk,449574342.41,2022,10
+1001,Tourists Spending (SAR),Tabuk,217967759.16,2021,12
+1006,Tourists Spending (SAR),Total,5944044152.66,2022,10
